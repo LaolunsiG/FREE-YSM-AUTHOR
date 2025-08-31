@@ -1,0 +1,1185 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "博丽灵梦",
+    "tips": "乐园的可爱巫女\n版本v1.3\n包含内容:\n§3 ·基础动作适配及更改\n§3 ·新版main动画控制器\n§3 ·物理模拟\n§3 ·待机动画\n§3 ·选择界面动画\n§3 ·4特殊模型\n§3 ·射击动作\n§3 ·新版配置轮盘\n§3 ·4个预设轮盘表情\n§3 ·5个额外轮盘动画\n§3 ·可自定义轮盘表情\n§3 ·tacz等模组适配",
+    "license": {
+      "type": "CC BY-SA"
+    },
+    "authors": [
+      {
+        "name": "碎de帆",
+        "role": "模型+动画",
+        "avatar": "avatar/sdf.png",
+        "contact": {
+          "Bilibili": "https://space.bilibili.com/381524342"
+        },
+        "comment": "一般通过车车人"
+      }
+    ],
+    "link": {
+      "home": "https://space.bilibili.com/381524342"
+    }
+  },
+  "properties": {
+    "height_scale": 0.7,
+    "width_scale": 0.7,
+    "extra_animation": {
+      "#extra0": "模型配置",
+      "#extra1": "默认动作",
+      "#extra2": "表情",
+      "#extra3": "站街姿势",
+      "#extra4": "额外动画",
+      "#extra5": "自定义表情",
+      "#extra6": "自定义姿势",
+      "extra7": "敬请期待"
+    },
+    "extra_animation_classify": [
+        {
+            "id": "extra0",
+            "extra_animation": {
+                "model_basic_config": "#model_basic_config",
+                "model_eye_config": "#model_eye_config",
+                "model_mouth_config": "#model_mouth_config"
+            }
+        },
+        {
+            "id": "extra1",
+            "extra_animation": {
+                "default_anim1": "打招呼",
+                "default_anim2": "鼓掌",
+                "default_anim3": "点头",
+                "default_anim4": "摇头"
+            }
+        },
+        {
+            "id": "extra2",
+            "extra_animation": {
+                "face_anim1": "流汗黄豆",
+                "face_anim2": "生气",
+                "face_anim3": "疑问",
+                "face_anim4": "嫌弃"
+            }
+        },
+        {
+            "id": "extra3",
+            "extra_animation": {
+                "pose1": "凭依华站街",
+                "pose2": "红魔乡站街",
+                "pose3": "绀珠传站街",
+                "pose4": "绯想天则站街",
+                "pose5": "手办站街"
+            }
+        },
+        {
+            "id": "extra5",
+            "extra_animation": {
+                "custom_anim1": "自定义表情1",
+                "custom_anim1_basic_config": "#custom_anim1_basic_config",
+                "custom_anim1_eye_config": "#custom_anim1_eye_config",
+                "custom_anim1_mouth_config": "#custom_anim1_mouth_config",
+                "custom_anim2_mouth_config": "#custom_anim2_mouth_config",
+                "custom_anim2_eye_config": "#custom_anim2_eye_config",
+                "custom_anim2_basic_config": "#custom_anim2_basic_config",
+                "custom_anim2": "自定义表情2"
+            }
+        },
+        {
+            "id": "extra6",
+            "extra_animation": {
+                "custom_pose": "自定义姿势",
+                "custom_pose_basic_config": "#custom_pose_basic_config",
+                "custom_pose_head_config": "#custom_pose_head_config",
+                "custom_pose_clothe_config": "#custom_pose_clothe_config",
+                "custom_pose_left_arm_config": "#custom_pose_left_arm_config",
+                "custom_pose_left_right_config": "#custom_pose_right_arm_config",
+                "custom_pose_left_leg_config": "#custom_pose_left_leg_config",
+                "custom_pose_right_leg_config": "#custom_pose_right_leg_config"
+            }
+        }
+    ],
+    "extra_animation_buttons": [
+      {
+        "id": "model_basic_config",
+        "name": "基础配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "人物大小",
+            "description": "用来调整人物总体的大小",
+            "value": "v.roaming.root_size",
+            "step": 0.05,
+            "min": 0.75,
+            "max": 1.25
+          },
+          {
+            "type": "checkbox",
+            "title": "显示嘴巴",
+            "description": "常态显示/隐藏嘴巴（默认隐藏）",
+            "value": "v.roaming.a"
+          },
+          {
+            "type": "checkbox",
+            "title": "显示马尾",
+            "description": "显示/隐藏马尾（默认隐藏）",
+            "value": "v.roaming.b"
+          },
+          {
+            "type": "checkbox",
+            "title": "显示阴阳玉",
+            "description": "显示/隐藏阴阳玉（默认隐藏）",
+            "value": "v.roaming.c"
+          },
+          {
+            "type": "checkbox",
+            "title": "隐藏待机动画",
+            "description": "开/关长时间待机动画（默认开启）",
+            "value": "v.roaming.longtime_idle"
+          }
+        ]
+      },
+      {
+        "id": "model_eye_config",
+        "name": "常态眼睛配置",
+        "config_forms": [
+          {
+            "type": "radio",
+            "title": "常态瞳孔样式",
+            "description": "用来调整常态下显示的瞳孔样式",
+            "value": "v.roaming.normal_eye_type",
+            "labels": {
+              "默认": "v.roaming.normal_eye_type=0;",
+              "红色": "v.roaming.normal_eye_type=1;",
+              "金色": "v.roaming.normal_eye_type=2;",
+              "贪财": "v.roaming.normal_eye_type=3;",
+              "神性": "v.roaming.normal_eye_type=4;",
+              "涣散": "v.roaming.normal_eye_type=5;"
+            }
+          },
+          {
+            "type": "radio",
+            "title": "常态睫毛样式",
+            "description": "用来调整常态下显示的睫毛样式",
+            "value": "v.roaming.normal_eyelid_type",
+            "labels": {
+              "默认": "v.roaming.normal_eyelid_type=0;",
+              "平静": "v.roaming.normal_eyelid_type=1;"
+            }
+          },
+          {
+            "type": "range",
+            "title": "常态眼睛大小",
+            "description": "用来调整常态下显示的眼睛大小",
+            "value": "v.roaming.normal_eye_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "常态瞳孔大小",
+            "description": "用来调整常态下显示的眼睛大小",
+            "value": "v.roaming.normal_pupil_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "checkbox",
+            "title": "隐藏高光",
+            "description": "显示/隐藏眼睛高光（默认显示）",
+            "value": "v.roaming.normal_highlight"
+          },
+          {
+            "type": "radio",
+            "title": "特殊眼睛效果",
+            "description": "用来调整特殊眼睛效果",
+            "value": "v.roaming.normal_eye_se",
+            "labels": {
+              "无": "v.roaming.normal_eye_se=0;",
+              "黑眼圈": "v.roaming.normal_eye_se=1;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "model_mouth_config",
+        "name": "常态嘴部配置",
+        "config_forms": [
+          {
+            "type": "radio",
+            "title": "常态嘴巴样式",
+            "description": "用来调整常态下显示的嘴巴样式",
+            "value": "v.roaming.normal_mouth_type",
+            "labels": {
+              "平静": "v.roaming.normal_mouth_type=0;",
+              "不悦": "v.roaming.normal_mouth_type=1;",
+              "微笑1": "v.roaming.normal_mouth_type=2;",
+              "微笑2": "v.roaming.normal_mouth_type=3;",
+              "微笑3": "v.roaming.normal_mouth_type=4;",
+              "笑1": "v.roaming.normal_mouth_type=5;",
+              "笑2": "v.roaming.normal_mouth_type=6;",
+              "笑3": "v.roaming.normal_mouth_type=7;",
+              "叹气": "v.roaming.normal_mouth_type=8;",
+              "惊讶1": "v.roaming.normal_mouth_type=9;",
+              "惊讶2": "v.roaming.normal_mouth_type=10;",
+              "害怕": "v.roaming.normal_mouth_type=11;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "custom_anim1_basic_config",
+        "name": "自定义表情1基础配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "自定义表情1：睁眼幅度",
+            "description": "用来调整自定义表情1显示的睁眼幅度，负数为闭眼",
+            "value": "v.roaming.custom_anim1_eyes_open",
+            "step": 0.05,
+            "min": -0.75,
+            "max": 0.25
+          },
+          {
+            "type": "radio",
+            "title": "自定义表情1：表情效果",
+            "description": "用来调整自定义表情1显示的特殊表情效果",
+            "value": "v.roaming.custom_anim1_emoji_type",
+            "labels": {
+              "无": "v.roaming.custom_anim1_emoji_type=0;",
+              "叹号": "v.roaming.custom_anim1_emoji_type=1;",
+              "问号": "v.roaming.custom_anim1_emoji_type=2;",
+              "流汗": "v.roaming.custom_anim1_emoji_type=3;",
+              "愤怒": "v.roaming.custom_anim1_emoji_type=4;",
+              "尴尬": "v.roaming.custom_anim1_emoji_type=5;",
+              "脸红": "v.roaming.custom_anim1_emoji_type=6;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "custom_anim1_eye_config",
+        "name": "自定义表情1眼部配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "自定义表情1：眼睛大小",
+            "description": "用来调整自定义表情1显示的眼睛大小",
+            "value": "v.roaming.custom_anim1_eyes_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：瞳孔大小",
+            "description": "用来调整自定义表情1显示的瞳孔大小",
+            "value": "v.roaming.custom_anim1_pupil_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：眼睛位置",
+            "description": "用来调整自定义表情1显示的眼睛y轴位置",
+            "value": "v.roaming.custom_anim1_eyes_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 1
+          },
+          {
+            "type": "checkbox",
+            "title": "自定义表情1：眼睛高光",
+            "description": "用来调整自定义表情1是否显示眼睛高光",
+            "value": "v.roaming.custom_anim1_eyes_highlight"
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：眼皮位置",
+            "description": "用来调整自定义表情1显示的上下眼皮y轴位置",
+            "value": "v.roaming.custom_anim1_eyelid_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 0.5
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：眼皮旋转",
+            "description": "用来调整自定义表情1显示的上眼皮z轴旋转，正数为向内",
+            "value": "v.roaming.custom_anim1_eyelid_rotation",
+            "step": 1,
+            "min": -30,
+            "max": 30
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：眉毛位置",
+            "description": "用来调整自定义表情1显示的眉毛y轴位置",
+            "value": "v.roaming.custom_anim1_brow_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 1
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：眉毛旋转",
+            "description": "用来调整自定义表情1显示的眉毛z轴旋转，正数为向内",
+            "value": "v.roaming.custom_anim1_brow_rotation",
+            "step": 1,
+            "min": -65,
+            "max": 65
+          },
+          {
+            "type": "radio",
+            "title": "自定义表情1：特殊眼睛效果",
+            "description": "用来调整自定义表情1显示的特殊眼睛效果",
+            "value": "v.roaming.custom_anim1_eye_se",
+            "labels": {
+              "无": "v.roaming.custom_anim1_eye_se=0;",
+              "黑眼圈": "v.roaming.custom_anim1_eye_se=1;"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": "custom_anim1_mouth_config",
+        "name": "自定义表情1嘴部配置",
+        "config_forms": [
+          {
+            "type": "radio",
+            "title": "自定义表情1：嘴部种类",
+            "description": "用来调整自定义表情1显示的嘴部种类",
+            "value": "v.roaming.custom_anim1_mouth_type",
+            "labels": {
+              "无": "v.roaming.custom_anim1_mouth_type=0;",
+              "平静": "v.roaming.custom_anim1_mouth_type=1;",
+              "不悦1": "v.roaming.custom_anim1_mouth_type=2;",
+              "微笑1": "v.roaming.custom_anim1_mouth_type=3;",
+              "微笑2": "v.roaming.custom_anim1_mouth_type=4;",
+              "微笑3": "v.roaming.custom_anim1_mouth_type=5;",
+              "笑1": "v.roaming.custom_anim1_mouth_type=6;",
+              "笑2": "v.roaming.custom_anim1_mouth_type=7;",
+              "笑3": "v.roaming.custom_anim1_mouth_type=8;",
+              "叹气": "v.roaming.custom_anim1_mouth_type=9;",
+              "惊讶1": "v.roaming.custom_anim1_mouth_type=10;",
+              "惊讶2": "v.roaming.custom_anim1_mouth_type=11;",
+              "害怕": "v.roaming.custom_anim1_mouth_type=12;"
+            }
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：嘴部大小",
+            "description": "用来调整自定义表情1显示的嘴部大小",
+            "value": "v.roaming.custom_anim1_mouth_size",
+            "step": 0.1,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：嘴部x位置",
+            "description": "用来调整自定义表情1显示的嘴部x轴位置",
+            "value": "v.roaming.custom_anim1_mouth_position_x",
+            "step": 0.05,
+            "min": -0.5,
+            "max": 0.5
+          },
+          {
+            "type": "range",
+            "title": "自定义表情1：嘴部y位置",
+            "description": "用来调整自定义表情1显示的嘴部y轴位置",
+            "value": "v.roaming.custom_anim1_mouth_position_y",
+            "step": 0.05,
+            "min": -0.5,
+            "max": 0.5
+          }
+        ]
+      }, 
+      {
+        "id": "custom_anim2_basic_config",
+        "name": "自定义表情2基础配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "自定义表情2：睁眼幅度",
+            "description": "用来调整自定义表情1显示的睁眼幅度，负数为闭眼",
+            "value": "v.roaming.custom_anim2_eyes_open",
+            "step": 0.05,
+            "min": -0.75,
+            "max": 0.25
+          },
+          {
+            "type": "radio",
+            "title": "自定义表情2：表情效果",
+            "description": "用来调整自定义表情1显示的特殊表情效果",
+            "value": "v.roaming.custom_anim2_emoji_type",
+            "labels": {
+              "无": "v.roaming.custom_anim2_emoji_type=0;",
+              "叹号": "v.roaming.custom_anim2_emoji_type=1;",
+              "问号": "v.roaming.custom_anim2_emoji_type=2;",
+              "流汗": "v.roaming.custom_anim2_emoji_type=3;",
+              "愤怒": "v.roaming.custom_anim2_emoji_type=4;",
+              "尴尬": "v.roaming.custom_anim2_emoji_type=5;",
+              "脸红": "v.roaming.custom_anim2_emoji_type=6;"
+            }
+          }
+        ]
+      },
+     {
+        "id": "custom_anim2_eye_config",
+        "name": "自定义表情2眼部配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "自定义表情2：眼睛大小",
+            "description": "用来调整自定义表情2显示的眼睛大小",
+            "value": "v.roaming.custom_anim2_eyes_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：瞳孔大小",
+            "description": "用来调整自定义表情2显示的瞳孔大小",
+            "value": "v.roaming.custom_anim2_pupil_size",
+            "step": 0.05,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：眼睛位置",
+            "description": "用来调整自定义表情2显示的眼睛y轴位置",
+            "value": "v.roaming.custom_anim2_eyes_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 1
+          },
+          {
+            "type": "checkbox",
+            "title": "自定义表情1：眼睛高光",
+            "description": "用来调整自定义表情1是否显示眼睛高光",
+            "value": "v.roaming.custom_anim1_eyes_highlight"
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：眼皮位置",
+            "description": "用来调整自定义表情2显示的上下眼皮y轴位置",
+            "value": "v.roaming.custom_anim2_eyelid_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 0.5
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：眼皮旋转",
+            "description": "用来调整自定义表情2显示的上眼皮z轴旋转，正数为向内",
+            "value": "v.roaming.custom_anim2_eyelid_rotation",
+            "step": 1,
+            "min": -30,
+            "max": 30
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：眉毛位置",
+            "description": "用来调整自定义表情2显示的眉毛y轴位置",
+            "value": "v.roaming.custom_anim2_brow_position",
+            "step": 0.05,
+            "min": -1,
+            "max": 1
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：眉毛旋转",
+            "description": "用来调整自定义表情2显示的眉毛z轴旋转，正数为向内",
+            "value": "v.roaming.custom_anim2_brow_rotation",
+            "step": 1,
+            "min": -65,
+            "max": 65
+          },
+          {
+            "type": "radio",
+            "title": "自定义表情2：特殊眼睛效果",
+            "description": "用来调整自定义表情2显示的特殊眼睛效果",
+            "value": "v.roaming.custom_anim2_eye_se",
+            "labels": {
+              "无": "v.roaming.custom_anim2_eye_se=0;",
+              "黑眼圈": "v.roaming.custom_anim2_eye_se=1;"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": "custom_anim2_mouth_config",
+        "name": "自定义表情2嘴部配置",
+        "config_forms": [
+          {
+            "type": "radio",
+            "title": "自定义表情2：嘴部种类",
+            "description": "用来调整自定义表情2显示的嘴部种类",
+            "value": "v.roaming.custom_anim2_mouth_type",
+            "labels": {
+              "无": "v.roaming.custom_anim2_mouth_type=0;",
+              "平静": "v.roaming.custom_anim2_mouth_type=1;",
+              "不悦1": "v.roaming.custom_anim2_mouth_type=2;",
+              "微笑1": "v.roaming.custom_anim2_mouth_type=3;",
+              "微笑2": "v.roaming.custom_anim2_mouth_type=4;",
+              "微笑3": "v.roaming.custom_anim2_mouth_type=5;",
+              "笑1": "v.roaming.custom_anim2_mouth_type=6;",
+              "笑2": "v.roaming.custom_anim2_mouth_type=7;",
+              "笑3": "v.roaming.custom_anim2_mouth_type=8;",
+              "叹气": "v.roaming.custom_anim2_mouth_type=9;",
+              "惊讶1": "v.roaming.custom_anim2_mouth_type=10;",
+              "惊讶2": "v.roaming.custom_anim2_mouth_type=11;",
+              "害怕": "v.roaming.custom_anim2_mouth_type=12;"
+            }
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：嘴部大小",
+            "description": "用来调整自定义表情2显示的嘴部大小",
+            "value": "v.roaming.custom_anim2_mouth_size",
+            "step": 0.1,
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：嘴部x位置",
+            "description": "用来调整自定义表情2显示的嘴部x轴位置",
+            "value": "v.roaming.custom_anim2_mouth_position_x",
+            "step": 0.05,
+            "min": -0.5,
+            "max": 0.5
+          },
+          {
+            "type": "range",
+            "title": "自定义表情2：嘴部y位置",
+            "description": "用来调整自定义表情2显示的嘴部y轴位置",
+            "value": "v.roaming.custom_anim2_mouth_position_y",
+            "step": 0.05,
+            "min": -0.5,
+            "max": 0.5
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_basic_config",
+        "name": "自定义姿势基础配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "整体旋转x",
+            "description": "用来调整自定义姿势的全身x轴旋转幅度（以脚为中心点）",
+            "value": "v.roaming.custom_pose_root_rotation_x",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "整体旋转y",
+            "description": "用来调整自定义姿势的全身y轴旋转幅度（以脚为中心点）",
+            "value": "v.roaming.custom_pose_root_rotation_y",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "整体旋转z",
+            "description": "用来调整自定义姿势的全身x轴旋转幅度（以脚为中心点）",
+            "value": "v.roaming.custom_pose_root_rotation_z",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "整体位移x",
+            "description": "用来调整自定义姿势的全身x轴位移幅度",
+            "value": "v.roaming.custom_pose_root_position_x",
+            "step": 0.1,
+            "min": -10,
+            "max": 10
+          },
+          {
+            "type": "range",
+            "title": "整体位移y",
+            "description": "用来调整自定义姿势的全身y轴位移幅度",
+            "value": "v.roaming.custom_pose_root_position_y",
+            "step": 0.1,
+            "min": -10,
+            "max": 10
+          },
+          {
+            "type": "range",
+            "title": "整体位移z",
+            "description": "用来调整自定义姿势的全身z轴位移幅度",
+            "value": "v.roaming.custom_pose_root_position_z",
+            "step": 0.1,
+            "min": -10,
+            "max": 10
+          },
+          {
+            "type": "range",
+            "title": "上半身旋转x",
+            "description": "用来调整自定义姿势的上半身x轴旋转幅度",
+            "value": "v.roaming.custom_pose_upbody_rotation_x",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "上半身旋转y",
+            "description": "用来调整自定义姿势的上半身y轴旋转幅度",
+            "value": "v.roaming.custom_pose_upbody_rotation_y",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "上半身旋转z",
+            "description": "用来调整自定义姿势的上半身x轴旋转幅度",
+            "value": "v.roaming.custom_pose_upbody_rotation_z",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_head_config",
+        "name": "自定义姿势头部配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "头部旋转x",
+            "description": "用来调整自定义姿势的头部x轴旋转幅度",
+            "value": "v.roaming.custom_pose_head_rotation_x",
+            "step": 1,
+            "min": -180,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "头部旋转y",
+            "description": "用来调整自定义姿势的头部x轴旋转幅度",
+            "value": "v.roaming.custom_pose_head_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "头部旋转z",
+            "description": "用来调整自定义姿势的头部x轴旋转幅度",
+            "value": "v.roaming.custom_pose_head_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_clothe_config",
+        "name": "自定义姿势衣服配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "正面裙子旋转",
+            "description": "用来调整自定义姿势的正面裙子轴旋转（正数为向外）",
+            "value": "v.roaming.custom_pose_dress_rotation_front",
+            "step": 1,
+            "min": -30,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "背面裙子旋转",
+            "description": "用来调整自定义姿势的背面裙子轴旋转（正数为向外）",
+            "value": "v.roaming.custom_pose_dress_rotation_back",
+            "step": 1,
+            "min": -30,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左面裙子旋转",
+            "description": "用来调整自定义姿势的左面裙子轴旋转（正数为向外）",
+            "value": "v.roaming.custom_pose_dress_rotation_left",
+            "step": 1,
+            "min": -30,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右面裙子旋转",
+            "description": "用来调整自定义姿势的右面裙子轴旋转（正数为向外）",
+            "value": "v.roaming.custom_pose_dress_rotation_right",
+            "step": 1,
+            "min": -30,
+            "max": 90
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_left_arm_config",
+        "name": "自定义姿势左手配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "左上臂x旋转",
+            "description": "用来调整自定义姿势的左上臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_x",
+            "step": 1,
+            "min": -90,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "左上臂y旋转",
+            "description": "用来调整自定义姿势的左上臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左上臂z旋转",
+            "description": "用来调整自定义姿势的左上臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "左前臂x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_x",
+            "step": 1,
+            "min": -10,
+            "max": 150
+          },
+          {
+            "type": "range",
+            "title": "左前臂y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左前臂z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_x",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_left_arm_config",
+        "name": "自定义姿势左手配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "左上臂x旋转",
+            "description": "用来调整自定义姿势的左上臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_x",
+            "step": 1,
+            "min": -180,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左上臂y旋转",
+            "description": "用来调整自定义姿势的左上臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左上臂z旋转",
+            "description": "用来调整自定义姿势的左上臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_arm_rotation_z",
+            "step": 1,
+            "min": -180,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左前臂x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_x",
+            "step": 1,
+            "min": -150,
+            "max": 10
+          },
+          {
+            "type": "range",
+            "title": "左前臂y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左前臂z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_forearm_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_x",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "左手z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_hand_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_right_arm_config",
+        "name": "自定义姿势右手配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "右上臂x旋转",
+            "description": "用来调整自定义姿势的左上臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_arm_rotation_x",
+            "step": 1,
+            "min": -180,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右上臂y旋转",
+            "description": "用来调整自定义姿势的左上臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_arm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右上臂z旋转",
+            "description": "用来调整自定义姿势的左上臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_arm_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 180
+          },
+          {
+            "type": "range",
+            "title": "右前臂x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_forearm_rotation_x",
+            "step": 1,
+            "min": -150,
+            "max": 10
+          },
+          {
+            "type": "range",
+            "title": "右前臂y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_forearm_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右前臂z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_forearm_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右手x旋转",
+            "description": "用来调整自定义姿势的左前臂x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_hand_rotation_x",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右手y旋转",
+            "description": "用来调整自定义姿势的左前臂y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_hand_rotation_y",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          },
+          {
+            "type": "range",
+            "title": "右手z旋转",
+            "description": "用来调整自定义姿势的左前臂z轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_hand_rotation_z",
+            "step": 1,
+            "min": -90,
+            "max": 90
+          }
+        ]
+      },
+      {
+        "id": "custom_pose_left_leg_config",
+        "name": "自定义姿势左腿配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "左大腿x旋转",
+            "description": "用来调整自定义姿势的左大腿x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_leg_rotation_x",
+            "step": 1,
+            "min": -125,
+            "max": 15
+          },
+          {
+            "type": "range",
+            "title": "左大腿y旋转",
+            "description": "用来调整自定义姿势的左大腿y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_leg_rotation_y",
+            "step": 1,
+            "min": -45,
+            "max": 45
+          },
+          {
+            "type": "range",
+            "title": "左大腿z旋转",
+            "description": "用来调整自定义姿势的左大腿z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_leg_rotation_z",
+            "step": 1,
+            "min": -45,
+            "max": 20
+          },
+          {
+            "type": "range",
+            "title": "左小腿x旋转",
+            "description": "用来调整自定义姿势的左小腿x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_lowerleg_rotation_x",
+            "step": 1,
+            "min": -5,
+            "max": 130
+          },
+          {
+            "type": "range",
+            "title": "左小腿y旋转",
+            "description": "用来调整自定义姿势的左小腿y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_lowerleg_rotation_y",
+            "step": 1,
+            "min": -30,
+            "max": 15
+          },
+          {
+            "type": "range",
+            "title": "左脚x旋转",
+            "description": "用来调整自定义姿势的左脚x轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_foot_rotation_x",
+            "step": 1,
+            "min": -20,
+            "max": 45
+          },
+          {
+            "type": "range",
+            "title": "左脚y旋转",
+            "description": "用来调整自定义姿势的左脚y轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_foot_rotation_y",
+            "step": 1,
+            "min": -20,
+            "max": 30
+          },
+          {
+            "type": "range",
+            "title": "左脚z旋转",
+            "description": "用来调整自定义姿势的左脚z轴旋转幅度",
+            "value": "v.roaming.custom_pose_left_foot_rotation_z",
+            "step": 1,
+            "min": -35,
+            "max": 25
+          }
+        ]
+      },      
+      {
+        "id": "custom_pose_right_leg_config",
+        "name": "自定义姿势右腿配置",
+        "config_forms": [
+          {
+            "type": "range",
+            "title": "右大腿x旋转",
+            "description": "用来调整自定义姿势的右大腿x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_leg_rotation_x",
+            "step": 1,
+            "min": -125,
+            "max": 15
+          },
+          {
+            "type": "range",
+            "title": "右大腿y旋转",
+            "description": "用来调整自定义姿势的右大腿y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_leg_rotation_y",
+            "step": 1,
+            "min": -45,
+            "max": 45
+          },
+          {
+            "type": "range",
+            "title": "右大腿z旋转",
+            "description": "用来调整自定义姿势的右大腿z轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_leg_rotation_z",
+            "step": 1,
+            "min": -20,
+            "max": 45
+          },
+          {
+            "type": "range",
+            "title": "右小腿x旋转",
+            "description": "用来调整自定义姿势的右小腿x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_lowerleg_rotation_x",
+            "step": 1,
+            "min": -5,
+            "max": 130
+          },
+          {
+            "type": "range",
+            "title": "右小腿y旋转",
+            "description": "用来调整自定义姿势的右小腿y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_lowerleg_rotation_y",
+            "step": 1,
+            "min": -15,
+            "max": 30
+          },
+          {
+            "type": "range",
+            "title": "右脚x旋转",
+            "description": "用来调整自定义姿势的右脚x轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_foot_rotation_x",
+            "step": 1,
+            "min": -20,
+            "max": 45
+          },
+          {
+            "type": "range",
+            "title": "右脚y旋转",
+            "description": "用来调整自定义姿势的右脚y轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_foot_rotation_y",
+            "step": 1,
+            "min": -30,
+            "max": 20
+          },
+          {
+            "type": "range",
+            "title": "右脚z旋转",
+            "description": "用来调整自定义姿势的右脚z轴旋转幅度",
+            "value": "v.roaming.custom_pose_right_foot_rotation_z",
+            "step": 1,
+            "min": -25,
+            "max": 35
+          }
+        ]
+      }
+    ],
+    "preview_animation": "gui",
+    "disable_preview_rotation": true,
+    "default_texture": "default",
+    "all_cutout": true,
+    "free": true
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "animation": {
+        "main": "animations/main.animation.json",
+        "arm": "animations/arm.animation.json",
+        "extra": "animations/extra.animation.json",
+        "tac": "animations/tac.animation.json",
+        "carryon": "animations/carryon.animation.json",
+        "parcool": "animations/parcool.animation.json",
+        "swem": "animations/swem.animation.json",
+        "slashblade": "animations/slashblade.animation.json",
+        "tlm": "animations/tlm.animation.json"
+      },
+      "animation_controllers": [
+        "controller/main_controllers.json"
+      ],
+      "texture": [
+        "textures/default.png"
+      ]
+    },
+    "arrow": {
+      "model": "models/arrow.json",
+      "animation": "animations/arrow.animation.json",
+      "texture": "textures/arrow.png"
+    }
+  }
+}

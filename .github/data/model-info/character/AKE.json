@@ -1,0 +1,44 @@
+{
+  "work": {
+    "abbr": "AKE",
+    "name": {
+      "zh": [
+        "明日方舟：终末地",
+        "终末地"
+      ],
+      "en": [
+        "Arknights-Endfield",
+        "AKE"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "余烬"
+      ],
+      "en": [
+        "ember"
+      ]
+    },
+    {
+      "zh": [
+        "洛茜",
+        "洛茜娜・狼珀・卢皮诺"
+      ],
+      "en": [
+        "Rossi",
+        "Rossina-Wulfperl-Luppino"
+      ]
+    },
+    {
+      "zh": [
+        "莱万汀"
+      ],
+      "en": [
+        "laevatain"
+      ]
+    }
+  ]
+}

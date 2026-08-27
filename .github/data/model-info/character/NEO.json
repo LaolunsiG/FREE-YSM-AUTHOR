@@ -1,0 +1,30 @@
+{
+  "work": {
+    "abbr": "NEO",
+    "name": {
+      "zh": [
+        "主播女孩重度依赖"
+      ],
+      "en": [
+        "Needy Girl Overdos",
+        "Needy Girl Overdose",
+        "NEO",
+        "NGO"
+      ],
+      "ja": [
+        "ニーディーガール・オーバードーズ"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "超天酱"
+      ],
+      "en": [
+        "kangel_nsfw"
+      ]
+    }
+  ]
+}

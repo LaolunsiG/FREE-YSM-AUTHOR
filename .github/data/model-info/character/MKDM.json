@@ -1,0 +1,36 @@
+{
+  "work": {
+    "abbr": "MKDM",
+    "name": {
+      "zh": [
+        "小林家的龙女仆"
+      ],
+      "en": [
+        "Miss Kobayashi's Dragon Maidm",
+        "MKDM"
+      ],
+      "ja": [
+        "小林さんちのメイドラゴン"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "康娜"
+      ],
+      "en": [
+        "kanna-kamui"
+      ]
+    },
+    {
+      "zh": [
+        "托尔"
+      ],
+      "en": [
+        "tohru"
+      ]
+    }
+  ]
+}

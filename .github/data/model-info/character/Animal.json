@@ -1,0 +1,32 @@
+{
+  "work": {
+    "abbr": "Animal",
+    "name": {
+      "zh": [
+        "动物"
+      ],
+      "en": [
+        "Animal"
+      ]
+    },
+    "category": "Other"
+  },
+  "roles": [
+    {
+      "zh": [
+        "蟑螂娘"
+      ],
+      "en": [
+        "cockroach-girl"
+      ]
+    },
+    {
+      "zh": [
+        "鸭子"
+      ],
+      "en": [
+        "Duck"
+      ]
+    }
+  ]
+}

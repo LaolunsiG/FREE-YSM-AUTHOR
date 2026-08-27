@@ -1,0 +1,211 @@
+{
+  "work": {
+    "abbr": "Delta-Force",
+    "name": {
+      "zh": [
+        "三角洲行动"
+      ],
+      "en": [
+        "Delta Force",
+        "Delta‑Force"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "露娜",
+        "金卢娜"
+      ],
+      "en": [
+        "luna‑kim",
+        "luna"
+      ]
+    },
+    {
+      "zh": [
+        "红狼",
+        "凯·席尔瓦"
+      ],
+      "en": [
+        "d‑wolf",
+        "kai‑silva"
+      ]
+    },
+    {
+      "zh": [
+        "威龙",
+        "王宇昊"
+      ],
+      "en": [
+        "vyron",
+        "wang‑yuhao"
+      ]
+    },
+    {
+      "zh": [
+        "无名",
+        "埃利·德·蒙贝尔",
+        "卢米"
+      ],
+      "en": [
+        "nox",
+        "helie‑de‑montbel"
+      ]
+    },
+    {
+      "zh": [
+        "疾风",
+        "克莱尔·安·拜尔斯"
+      ],
+      "en": [
+        "tempest",
+        "claire‑ann‑byers"
+      ]
+    },
+    {
+      "zh": [
+        "蜂医",
+        "罗伊·斯米"
+      ],
+      "en": [
+        "stinger",
+        "roy‑smee"
+      ]
+    },
+    {
+      "zh": [
+        "蛊",
+        "佐娅·庞琴科娃"
+      ],
+      "en": [
+        "toxik",
+        "zoya‑pomchenkova"
+      ]
+    },
+    {
+      "zh": [
+        "蝶",
+        "莉娜·范德梅尔"
+      ],
+      "en": [
+        "vlinder",
+        "lina‑van‑der‑meer"
+      ]
+    },
+    {
+      "zh": [
+        "牧羊人",
+        "泰瑞·缪萨"
+      ],
+      "en": [
+        "shepherd",
+        "terry‑musa"
+      ]
+    },
+    {
+      "zh": [
+        "乌鲁鲁",
+        "大卫·费莱尔"
+      ],
+      "en": [
+        "uluru",
+        "david‑fletcher"
+      ]
+    },
+    {
+      "zh": [
+        "深蓝",
+        "阿列克谢·彼得罗夫"
+      ],
+      "en": [
+        "sineva",
+        "alexei‑petrov"
+      ]
+    },
+    {
+      "zh": [
+        "骇爪",
+        "麦晓雯"
+      ],
+      "en": [
+        "hackclaw",
+        "mai‑xiaowen"
+      ]
+    },
+    {
+      "zh": [
+        "比特",
+        "拉希德·拉哈尔"
+      ],
+      "en": [
+        "gizmo",
+        "rashid‑rahal"
+      ]
+    },
+    {
+      "zh": [
+        "银翼",
+        "兰登·哈里森"
+      ],
+      "en": [
+        "raptor",
+        "landon‑harrison"
+      ]
+    },
+    {
+      "zh": [
+        "回响",
+        "卢克·埃弗利"
+      ],
+      "en": [
+        "echo",
+        "luke‑everley"
+      ]
+    },
+    {
+      "zh": [
+        "驯鹿",
+        "叶旦",
+        "加布里埃尔·莫里尔"
+      ],
+      "en": [
+        "caribou",
+        "gabriel‑morill"
+      ]
+    },
+    {
+      "zh": [
+        "突击干员"
+      ],
+      "en": [
+        "assault‑operator"
+      ]
+    },
+    {
+      "zh": [
+        "支援干员"
+      ],
+      "en": [
+        "support‑operator"
+      ]
+    },
+    {
+      "zh": [
+        "工程干员"
+      ],
+      "en": [
+        "engineer‑operator"
+      ]
+    },
+    {
+      "zh": [
+        "侦察干员"
+      ],
+      "en": [
+        "recon‑operator"
+      ]
+    }
+  ]
+}

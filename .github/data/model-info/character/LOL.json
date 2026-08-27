@@ -1,0 +1,33 @@
+{
+  "work": {
+    "abbr": "LOL",
+    "name": {
+      "zh": [
+        "英雄联盟"
+      ],
+      "en": [
+        "League of Legends",
+        "LOL"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "格温"
+      ],
+      "en": [
+        "gwen"
+      ]
+    },
+    {
+      "zh": [
+        "破败之王"
+      ],
+      "en": [
+        "viego"
+      ]
+    }
+  ]
+}

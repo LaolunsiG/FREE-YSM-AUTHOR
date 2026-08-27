@@ -1,0 +1,70 @@
+{
+  "work": {
+    "abbr": "MyGO",
+    "name": {
+      "zh": [
+        "迷途之子！！！！！"
+      ],
+      "en": [
+        "BanG Dream! It's MyGO!!!!!",
+        "MyGO"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "千早爱音",
+        "爱音"
+      ],
+      "en": [
+        "chihaya-anon"
+      ]
+    },
+    {
+      "zh": [
+        "椎名立希"
+      ],
+      "en": [
+        "shiina-taki"
+      ]
+    },
+    {
+      "zh": [
+        "若叶睦"
+      ],
+      "en": [
+        "wakaba-mutsumi"
+      ]
+    },
+    {
+      "zh": [
+        "要乐奈"
+      ],
+      "en": [
+        "kaname-raana"
+      ]
+    },
+    {
+      "zh": [
+        "长崎素世"
+      ],
+      "en": [
+        "nagasaki-soyo"
+      ],
+      "ja": [
+        "長崎そよ"
+      ]
+    },
+    {
+      "zh": [
+        "高松灯",
+        "高松燈"
+      ],
+      "en": [
+        "takamatsu-tomori"
+      ]
+    }
+  ]
+}

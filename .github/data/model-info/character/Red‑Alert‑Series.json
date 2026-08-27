@@ -1,0 +1,289 @@
+{
+  "work": {
+    "abbr": "Red‑Alert‑Series",
+    "name": {
+      "zh": [
+        "命令与征服：红色警戒系列",
+        "红色警戒2",
+        "红警2",
+        "尤里的复仇",
+        "红色警戒3",
+        "红警3",
+        "起义时刻"
+      ],
+      "en": [
+        "Command‑&‑Conquer: Red‑Alert‑Series",
+        "Command‑&‑Conquer: Red‑Alert‑2",
+        "Red‑Alert‑2",
+        "RA2",
+        "Yuri's‑Revenge",
+        "YR",
+        "Command‑&‑Conquer: Red‑Alert‑3",
+        "Red‑Alert‑3",
+        "RA3",
+        "Red‑Alert‑3‑Uprising",
+        "Uprising"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "谭雅·亚当斯",
+        "谭雅"
+      ],
+      "en": [
+        "Tanya‑Adams",
+        "Tanya"
+      ]
+    },
+    {
+      "zh": [
+        "阿尔伯特·爱因斯坦",
+        "爱因斯坦"
+      ],
+      "en": [
+        "Albert‑Einstein"
+      ]
+    },
+    {
+      "zh": [
+        "尤里",
+        "尤里Prime",
+        "尤里本尊"
+      ],
+      "en": [
+        "Yuri",
+        "Yuri‑Prime"
+      ]
+    },
+    {
+      "zh": [
+        "亚历山大·罗曼诺夫",
+        "罗曼诺夫总理"
+      ],
+      "en": [
+        "Alexander‑Romanov"
+      ]
+    },
+    {
+      "zh": [
+        "麦克·杜根",
+        "杜根总统"
+      ],
+      "en": [
+        "Michael‑Dugan"
+      ]
+    },
+    {
+      "zh": [
+        "索恩·卡维尔",
+        "卡维利将军"
+      ],
+      "en": [
+        "Ben‑Carville"
+      ]
+    },
+    {
+      "zh": [
+        "伊娃·李",
+        "伊娃中尉"
+      ],
+      "en": [
+        "Eva‑Lee"
+      ]
+    },
+    {
+      "zh": [
+        "佐菲娅",
+        "佐菲娅中尉"
+      ],
+      "en": [
+        "Zofia"
+      ]
+    },
+    {
+      "zh": [
+        "弗拉基米尔",
+        "维拉迪摩元帅"
+      ],
+      "en": [
+        "Vladimir"
+      ]
+    },
+    {
+      "zh": [
+        "安纳托尼·查丹科",
+        "查丹科总理"
+      ],
+      "en": [
+        "Anatoly‑Cherdenko"
+      ]
+    },
+    {
+      "zh": [
+        "尼科莱·库可夫",
+        "库可夫将军",
+        "克鲁科夫"
+      ],
+      "en": [
+        "Nikolai‑Krukov"
+      ]
+    },
+    {
+      "zh": [
+        "格雷戈尔·赛林斯基",
+        "赛林斯基博士"
+      ],
+      "en": [
+        "Gregor‑Zelinsky"
+      ]
+    },
+    {
+      "zh": [
+        "达夏·费朵洛维琪",
+        "达夏"
+      ],
+      "en": [
+        "Dasha‑Fedorovich"
+      ]
+    },
+    {
+      "zh": [
+        "娜塔莎·沃尔科娃",
+        "娜塔莎"
+      ],
+      "en": [
+        "Natasha‑Volkova"
+      ]
+    },
+    {
+      "zh": [
+        "维拉·贝洛娃",
+        "白麻雀"
+      ],
+      "en": [
+        "Vera‑Belova"
+      ]
+    },
+    {
+      "zh": [
+        "芳郎天皇",
+        "天皇吉郎"
+      ],
+      "en": [
+        "Emperor‑Yoshiro"
+      ]
+    },
+    {
+      "zh": [
+        "达郎皇太子",
+        "太子达郎"
+      ],
+      "en": [
+        "Crown‑Prince‑Tatsu"
+      ]
+    },
+    {
+      "zh": [
+        "富山杉",
+        "杉"
+      ],
+      "en": [
+        "Suki‑Toyama"
+      ]
+    },
+    {
+      "zh": [
+        "直美·森本",
+        "直美"
+      ],
+      "en": [
+        "Naomi‑Morimoto"
+      ]
+    },
+    {
+      "zh": [
+        "结城奈美",
+        "欧米茄百合子",
+        "百合子"
+      ],
+      "en": [
+        "Yuriko‑Omega"
+      ]
+    },
+    {
+      "zh": [
+        "鲁珀特·索恩利",
+        "索恩利总统"
+      ],
+      "en": [
+        "Rupert‑Thornley"
+      ]
+    },
+    {
+      "zh": [
+        "伊娃·麦肯纳",
+        "伊娃中尉(RA3)"
+      ],
+      "en": [
+        "Eva‑McKenna"
+      ]
+    },
+    {
+      "zh": [
+        "华伦·富勒",
+        "富勒将军"
+      ],
+      "en": [
+        "Warren‑Fuller"
+      ]
+    },
+    {
+      "zh": [
+        "阿克曼总统"
+      ],
+      "en": [
+        "Ackerman"
+      ]
+    },
+    {
+      "zh": [
+        "利塞特·韩利",
+        "利塞特"
+      ],
+      "en": [
+        "Lisette‑Hanley"
+      ]
+    },
+    {
+      "zh": [
+        "尼可莱·摩斯克芬",
+        "莫斯克文",
+        "莫疯"
+      ],
+      "en": [
+        "Nikolai‑Moskvin"
+      ]
+    },
+    {
+      "zh": [
+        "欧列格·凡丁",
+        "欧列格"
+      ],
+      "en": [
+        "Oleg‑Vodnik"
+      ]
+    },
+    {
+      "zh": [
+        "夏娜·阿肯斯雅",
+        "夏娜"
+      ],
+      "en": [
+        "Shana‑Ackinsaya"
+      ]
+    }
+  ]
+}

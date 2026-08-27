@@ -1,0 +1,44 @@
+{
+  "work": {
+    "abbr": "AstralParty",
+    "name": {
+      "zh": [
+        "吉星派对",
+        "星引擎 Party"
+      ],
+      "en": [
+        "Astral Party",
+        "Astral-Party",
+        "AstralParty"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "南希露",
+        "网络魅影"
+      ],
+      "en": [
+        "nancylu"
+      ]
+    },
+    {
+      "zh": [
+        "太刀使"
+      ],
+      "en": [
+        "misaki"
+      ]
+    },
+    {
+      "zh": [
+        "芬妮"
+      ],
+      "en": [
+        "fanny"
+      ]
+    }
+  ]
+}

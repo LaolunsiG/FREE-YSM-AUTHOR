@@ -1,0 +1,19 @@
+{
+  "work": {
+    "abbr": "Hololive",
+    "name": {
+      "zh": [
+        "hololive"
+      ],
+      "en": [
+        "Hololive",
+        "Holo"
+      ],
+      "ja": [
+        "ホロライブ"
+      ]
+    },
+    "category": "Music"
+  },
+  "roles": []
+}

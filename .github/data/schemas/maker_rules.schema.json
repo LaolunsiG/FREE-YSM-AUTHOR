@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "maker_rules.schema.json",
+  "title": "制作者判定规则 maker_rules.json",
+  "description": "把 ysm.py 硬编码的制作者 Role 匹配规则外置。categories 每类含标准称呼 label、匹配方式 match、信号级别 level、标记 markers（可选 prefixes）。",
+  "type": "object",
+  "required": ["categories"],
+  "properties": {
+    "version": { "type": "integer" },
+    "note": { "type": "string" },
+    "categories": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["label", "match", "level", "markers"],
+        "properties": {
+          "label": {
+            "type": "object",
+            "required": ["zh", "en"],
+            "properties": {
+              "zh": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "match": {
+            "type": "string",
+            "enum": ["substr", "exact", "prefix"]
+          },
+          "level": { "type": "integer", "minimum": 0 },
+          "markers": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 1
+          },
+          "prefixes": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "note": { "type": "string" }
+        }
+      }
+    }
+  }
+}

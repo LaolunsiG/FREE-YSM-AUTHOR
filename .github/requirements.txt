@@ -1,0 +1,10 @@
+# YSM-Model-Author 脚本依赖（workflow 与本地共用）
+# 本地安装：pip install -r .github/requirements.txt
+# - openai：models_organize/04_translate_readme.py 调用 DeepSeek/OpenAI 翻译 README-EN
+# - jsonschema：lib/validate.py 数据契约校验（cli.py check）
+# - jinja2：deployments/build_site.py 渲染静态站 index.html
+# - Pillow：deployments/build_site.py 生成缩略图（缺失时降级跳过）
+openai
+jsonschema
+jinja2
+Pillow

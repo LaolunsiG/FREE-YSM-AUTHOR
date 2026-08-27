@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "note": "制作者判定规则：把 ysm.py 硬编码的 Role 匹配规则外置。level 越小信号越强；oc 永远排除（即使含\"模型\"）。",
+  "categories": {
+    "oc": {
+      "label": { "zh": "形象来源", "en": "Image Source" },
+      "match": "substr",
+      "level": 0,
+      "markers": ["OC", "原型", "原IP", "IP", "版权", "形象", "立绘", "原画", "角色", "吉祥物", "人设", "设主", "单主", "系列二创", "原始模型指向"]
+    },
+    "model": {
+      "label": { "zh": "模型作者", "en": "Model Author" },
+      "match": "substr",
+      "level": 1,
+      "markers": ["模型", "建模", "Model", "model"]
+    },
+    "all": {
+      "label": { "zh": "全包作者", "en": "All-round Author" },
+      "match": "substr",
+      "level": 2,
+      "markers": ["全部", "ALL", "All", "all", "都是我做", "全包", "全做", "制作工作"],
+      "note": "模型 + 动画 + 物理 全部制作"
+    },
+    "author": {
+      "label": { "zh": "作者", "en": "Author" },
+      "match": "exact",
+      "level": 3,
+      "markers": ["作者", "Author", "author", "做者"],
+      "prefixes": ["是作者"]
+    }
+  }
+}

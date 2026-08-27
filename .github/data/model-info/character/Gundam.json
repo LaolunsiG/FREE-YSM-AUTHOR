@@ -1,0 +1,19 @@
+{
+  "work": {
+    "abbr": "Gundam",
+    "name": {
+      "zh": [
+        "机动战士高达"
+      ],
+      "en": [
+        "Mobile Suit Gundam",
+        "Gundam"
+      ],
+      "ja": [
+        "機動戦士ガンダム"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": []
+}

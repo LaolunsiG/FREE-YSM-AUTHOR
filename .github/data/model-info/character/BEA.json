@@ -1,0 +1,29 @@
+{
+  "work": {
+    "abbr": "BEA",
+    "name": {
+      "zh": [
+        "兽耳助手",
+        "兽耳桌面",
+        "兽耳 Project"
+      ],
+      "en": [
+        "Mimikko"
+      ],
+      "ja": [
+        "けもみみアシスタント"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "卡斯塔莉娅"
+      ],
+      "en": [
+        "Castalia"
+      ]
+    }
+  ]
+}

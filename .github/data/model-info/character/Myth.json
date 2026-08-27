@@ -1,0 +1,24 @@
+{
+  "work": {
+    "abbr": "Myth",
+    "name": {
+      "zh": [
+        "神话"
+      ],
+      "en": [
+        "Myth"
+      ]
+    },
+    "category": "Other"
+  },
+  "roles": [
+    {
+      "zh": [
+        "耶梦加得"
+      ],
+      "en": [
+        "jormungand"
+      ]
+    }
+  ]
+}

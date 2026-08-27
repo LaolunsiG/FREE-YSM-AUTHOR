@@ -1,0 +1,33 @@
+{
+  "work": {
+    "abbr": "Saekano",
+    "name": {
+      "zh": [
+        "路人女主的养成方法"
+      ],
+      "en": [
+        "Saekano: How to Raise a Boring Girlfriend",
+        "SAEKANO"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "加藤惠"
+      ],
+      "en": [
+        "katō megumi"
+      ]
+    },
+    {
+      "zh": [
+        "英梨梨"
+      ],
+      "en": [
+        "eriri"
+      ]
+    }
+  ]
+}

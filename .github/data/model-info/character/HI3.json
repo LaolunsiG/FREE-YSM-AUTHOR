@@ -1,0 +1,115 @@
+{
+  "work": {
+    "abbr": "HI3",
+    "name": {
+      "zh": [
+        "崩坏 3"
+      ],
+      "en": [
+        "Honkai-Impact-3",
+        "HI3"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "刻律德菈"
+      ],
+      "en": [
+        "Cerydra"
+      ]
+    },
+    {
+      "zh": [
+        "奥托.阿波卡利斯"
+      ],
+      "en": [
+        "otto-apocalypse"
+      ]
+    },
+    {
+      "zh": [
+        "布朗尼·迷城骇兔"
+      ],
+      "en": [
+        "bronee"
+      ]
+    },
+    {
+      "zh": [
+        "布洛妮娅"
+      ],
+      "en": [
+        "bronya-rand",
+        "绀海之约19c-bronya_zaychik"
+      ]
+    },
+    {
+      "zh": [
+        "希儿·绀海之忆"
+      ],
+      "en": [
+        "seeleseelesea"
+      ]
+    },
+    {
+      "zh": [
+        "希儿·芙乐艾"
+      ],
+      "en": [
+        "seele-vollerei",
+        "seele_nsfw"
+      ]
+    },
+    {
+      "zh": [
+        "帕朵菲莉丝"
+      ],
+      "en": [
+        "pardofelis"
+      ]
+    },
+    {
+      "zh": [
+        "幽兰戴尔"
+      ],
+      "en": [
+        "durandal"
+      ]
+    },
+    {
+      "zh": [
+        "无量塔姬子"
+      ],
+      "en": [
+        "murata-himeko"
+      ]
+    },
+    {
+      "zh": [
+        "爱莉希雅"
+      ],
+      "en": [
+        "elysia"
+      ]
+    },
+    {
+      "zh": [
+        "琪亚娜"
+      ],
+      "en": [
+        "kiana"
+      ]
+    },
+    {
+      "zh": [
+        "阿波尼亚"
+      ],
+      "en": [
+        "aponia"
+      ]
+    }
+  ]
+}

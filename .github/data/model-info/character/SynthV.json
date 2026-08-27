@@ -1,0 +1,19 @@
+{
+  "work": {
+    "abbr": "SynthV",
+    "name": {
+      "zh": [
+        "Synthesizer V"
+      ],
+      "en": [
+        "Synthesizer V",
+        "SynthV"
+      ],
+      "ja": [
+        "シンセサイザーV"
+      ]
+    },
+    "category": "Music"
+  },
+  "roles": []
+}

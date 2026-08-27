@@ -1,0 +1,41 @@
+{
+  "SocialPlatform": {
+    "Bilibili": ["bilibili", "bilbil", "bilibil", "blibli", "b站", "哔哩", "哔哩哔哩"],
+    "YouTube": ["youtube", "油管"],
+    "Twitter": ["twitter", "x", "推特"],
+    "Pixiv": ["pixiv", "p站"],
+    "Facebook": ["facebook", "fb", "脸书"],
+    "Weibo": ["微博", "weibo"],
+    "TikTok": ["tiktok", "抖音"],
+    "Twitch": ["twitch"],
+    "QQ": ["个人QQ号"],
+    "WeChat": ["wechat", "微信", "vx", "合作微信号"]
+  },
+  "GroupChat": {
+    "QQ-Group": ["qq", "qq群", "群聊", "交流群", "粉丝群", "反馈群聊"],
+    "Discord": ["discord", "dc"],
+    "Telegram": ["telegram", "tg", "电报"]
+  },
+  "SupportPlatform": {
+    "Afdian": ["afdian", "afd", "afadian", "ifadian", "爱发电"],
+    "Patreon": ["patreon"],
+    "Unifans": ["unifans"],
+    "ko-fi": ["ko-fi", "kofi"]
+  },
+  "OtherPlatform": {
+    "E-mail": ["email", "e-mail", "邮箱"],
+    "Sketchfab": ["sketchfab"],
+    "VGen": ["vgen"],
+    "Booth": ["booth"],
+    "BowlRoll": ["bowlroll"],
+    "Steam": ["steam"],
+    "PlanetMinecraft": ["planetminecraft"],
+    "Linktree": ["linktree"],
+    "CurseForge": ["curseforge", "cf"],
+    "Modrinth": ["modrinth"],
+    "MCBBS": ["mcbbs"],
+    "Website": ["官网", "个人网站"],
+    "萌娘百科": ["萌娘百科"],
+    "米画师": ["米画师"]
+  }
+}

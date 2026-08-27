@@ -1,0 +1,16 @@
+{
+  "work": {
+    "abbr": "CNC",
+    "name": {
+      "zh": [
+        "命令与征服"
+      ],
+      "en": [
+        "Command & Conquer",
+        "CNC"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": []
+}

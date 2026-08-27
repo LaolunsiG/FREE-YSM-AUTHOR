@@ -1,0 +1,59 @@
+{
+  "work": {
+    "abbr": "Strinova",
+    "name": {
+      "zh": [
+        "卡拉比丘"
+      ],
+      "en": [
+        "Strinova",
+        "Calabiyau"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "心夏"
+      ],
+      "en": [
+        "kokona"
+      ]
+    },
+    {
+      "zh": [
+        "梅瑞狄斯",
+        "沙猫"
+      ],
+      "en": [
+        "Meredith"
+      ]
+    },
+    {
+      "zh": [
+        "米雪儿·李"
+      ],
+      "en": [
+        "michele"
+      ]
+    },
+    {
+      "zh": [
+        "绯莎"
+      ],
+      "en": [
+        "fuchsia"
+      ]
+    },
+    {
+      "zh": [
+        "香奈美"
+      ],
+      "en": [
+        "kamami",
+        "kanami"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "work": {
+    "abbr": "SGYY",
+    "name": {
+      "zh": [
+        "三国演义"
+      ],
+      "en": [
+        "Romance-of-the-Three-Kingdoms",
+        "Three-Kingdoms"
+      ]
+    },
+    "category": "Novel"
+  },
+  "roles": []
+}

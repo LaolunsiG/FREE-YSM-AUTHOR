@@ -1,0 +1,7 @@
+{
+  "recommended": { "zh": "推荐", "en": "Recommended", "category": "quality", "emoji": "⭐", "order": 1 },
+  "high-output": { "zh": "高产", "en": "High-Output", "category": "quality", "emoji": "🔥", "order": 2 },
+  "high-quality": { "zh": "高质", "en": "High-Quality", "category": "quality", "emoji": "", "order": 3 },
+  "nsfw": { "zh": "NSFW", "en": "NSFW", "category": "nsfw", "emoji": "🔞", "order": 4 },
+  "team": { "zh": "团队", "en": "Team", "category": "team", "emoji": "👥", "order": 5 }
+}

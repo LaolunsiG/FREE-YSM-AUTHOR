@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "Tokyo-Ghoul",
+    "name": {
+      "zh": [
+        "东京食尸鬼"
+      ],
+      "en": [
+        "Tokyo Ghoul",
+        "Tokyo-Ghoul"
+      ],
+      "ja": [
+        "東京喰種トーキョーグール"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "金木研"
+      ],
+      "en": [
+        "kaneki-ken"
+      ]
+    }
+  ]
+}

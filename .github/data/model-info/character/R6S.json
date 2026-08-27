@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "R6S",
+    "name": {
+      "zh": [
+        "彩虹六号：围攻"
+      ],
+      "en": [
+        "Tom Clancy's Rainbow Six Siege",
+        "R6S"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "艾拉"
+      ],
+      "en": [
+        "ela"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "ONIMAI",
+    "name": {
+      "zh": [
+        "别当欧尼酱了！"
+      ],
+      "en": [
+        "Onii-chan wa Oshimai!",
+        "ONIMAI"
+      ],
+      "ja": [
+        "お兄ちゃんはおしまい！"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "绪山真寻"
+      ],
+      "en": [
+        "mahiro"
+      ]
+    }
+  ]
+}

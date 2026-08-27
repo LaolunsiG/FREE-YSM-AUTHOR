@@ -1,0 +1,18 @@
+{
+  "work": {
+    "abbr": "Sun Shower",
+    "name": {
+      "zh": [
+        "天气雨"
+      ],
+      "en": [
+        "Sun Shower"
+      ],
+      "ja": [
+        "天気雨（てんきあめ / Tenkiame）"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": []
+}

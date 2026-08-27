@@ -1,0 +1,53 @@
+{
+  "work": {
+    "abbr": "SAO",
+    "name": {
+      "zh": [
+        "刀剑神域"
+      ],
+      "en": [
+        "Sword Art Online",
+        "Sōdo Āto Onrain",
+        "SAO"
+      ],
+      "ja": [
+        "ソードアート・オンライン"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "亚丝娜"
+      ],
+      "en": [
+        "asuna"
+      ]
+    },
+    {
+      "zh": [
+        "桐人"
+      ],
+      "en": [
+        "kirito"
+      ]
+    },
+    {
+      "zh": [
+        "爱丽丝·滋贝鲁库"
+      ],
+      "en": [
+        "alice·synthesis·thirty"
+      ]
+    },
+    {
+      "zh": [
+        "诗乃"
+      ],
+      "en": [
+        "sinon"
+      ]
+    }
+  ]
+}

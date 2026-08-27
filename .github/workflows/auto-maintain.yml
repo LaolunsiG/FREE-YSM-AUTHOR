@@ -1,0 +1,89 @@
+name: Auto Maintain Models & Docs
+
+concurrency:
+  group: readme-auto-updates-${{ github.ref }}
+  cancel-in-progress: false
+
+on:
+  push:
+    paths:
+      - 'Models/**'
+      - 'Blockbench-Models/**'
+      - 'Other-YSM-Models/**'
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  update-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install -r .github/requirements.txt
+
+      # 0. 仓库回归测试
+      - name: Step 0 - Run regression tests
+        run: |
+          python .github/test/test_model_readme_download.py
+          python .github/test/test_parse2_fullname_priority.py
+
+      # 1. 数据契约校验
+      - name: Step 1 - Validate data
+        run: python .github/scripts/cli.py check
+
+      # 2. 变更检测
+      - name: Step 2 - Detect changed paths
+        id: detect
+        run: |
+          BEFORE="${{ github.event.before }}"
+          CHANGED=""
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            CHANGED=$(git diff --name-only "$BEFORE" "${{ github.sha }}")
+          else
+            CHANGED=$(git diff --name-only HEAD~1 HEAD 2>/dev/null || true)
+          fi
+          echo "docs=$(printf '%s\n' "$CHANGED" | grep -cE '^(Models/|Blockbench-Models/|Other-YSM-Models/)' || true)" >> "$GITHUB_OUTPUT"
+          echo "readme=$(printf '%s\n' "$CHANGED" | grep -c '^README\.md$' || true)" >> "$GITHUB_OUTPUT"
+
+      # 3a. 模型文件有变更 → 刷新作者 README / 模型 README / 索引 / 预览图
+      - name: Step 3a - Refresh docs & index
+        if: steps.detect.outputs.docs != '0'
+        run: |
+          python .github/scripts/models_organize/03_generate_author_readmes.py --apply
+          python .github/scripts/models_organize/03_generate_model_readmes.py --apply
+          python .github/scripts/models_organize/03_generate_other_models_index.py --apply
+          python .github/scripts/models_organize/01_organize_previews.py --apply --rename
+
+      # 3b. README.md 有变更 → 翻译
+      - name: Step 3b - Translate README
+        if: steps.detect.outputs.readme != '0'
+        run: python .github/scripts/models_organize/04_translate_readme.py
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+
+      # 4. 统一提交推送
+      - name: Step 4 - Commit and push all changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-update readmes, authors list, and EN translation"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

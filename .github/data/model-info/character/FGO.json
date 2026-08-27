@@ -1,0 +1,119 @@
+{
+  "work": {
+    "abbr": "FGO",
+    "name": {
+      "zh": [
+        "命运 - 冠位指定"
+      ],
+      "en": [
+        "Fate-Grand-Order",
+        "FGO"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "伽摩"
+      ],
+      "en": [
+        "kama"
+      ]
+    },
+    {
+      "zh": [
+        "克洛伊·冯·爱因兹贝伦",
+        "克洛伊"
+      ],
+      "en": [
+        "chloe-von-einzbern",
+        "chloe"
+      ]
+    },
+    {
+      "zh": [
+        "卫宫士郎"
+      ],
+      "en": [
+        "emiya"
+      ]
+    },
+    {
+      "zh": [
+        "妖精骑士·兰斯洛特"
+      ],
+      "en": [
+        "fairy-knight-lancelot"
+      ]
+    },
+    {
+      "zh": [
+        "尼禄·克劳狄乌斯",
+        "尼禄"
+      ],
+      "en": [
+        "nero-claudius",
+        "nero"
+      ]
+    },
+    {
+      "zh": [
+        "格蕾"
+      ],
+      "en": [
+        "gray"
+      ]
+    },
+    {
+      "zh": [
+        "清少纳言"
+      ],
+      "en": [
+        "sei-shonagon"
+      ]
+    },
+    {
+      "zh": [
+        "玛修·基列莱特",
+        "玛修"
+      ],
+      "en": [
+        "mash-kyrielight",
+        "mash"
+      ]
+    },
+    {
+      "zh": [
+        "贞德"
+      ],
+      "en": [
+        "joan-of-arc"
+      ]
+    },
+    {
+      "zh": [
+        "间桐樱"
+      ],
+      "en": [
+        "sakurafate"
+      ]
+    },
+    {
+      "zh": [
+        "阿基米德"
+      ],
+      "en": [
+        "archimedes"
+      ]
+    },
+    {
+      "zh": [
+        "阿尔托莉雅・潘德拉贡"
+      ],
+      "en": [
+        "saber-artoria-pendragon"
+      ]
+    }
+  ]
+}

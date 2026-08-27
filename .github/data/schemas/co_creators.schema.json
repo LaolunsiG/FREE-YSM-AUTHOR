@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "co_creators.schema.json",
+  "title": "模型 co-creator 元数据 co_creators.json",
+  "description": "'<作者编号>/<文件夹名>' → co-creator 列表。文件按需生成:无任何记录时不存在(读取方默认 {}),organize_models --apply 归档时写入。",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "required": ["co_creators"],
+    "properties": {
+      "co_creators": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "properties": {
+            "name": { "type": "string" },
+            "role": { "type": "string" },
+            "platforms": {
+              "type": "object",
+              "additionalProperties": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

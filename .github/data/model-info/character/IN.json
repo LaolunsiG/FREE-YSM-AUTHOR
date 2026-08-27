@@ -1,0 +1,26 @@
+{
+  "work": {
+    "abbr": "IN",
+    "name": {
+      "zh": [
+        "无限暖暖"
+      ],
+      "en": [
+        "Infinity Nikki",
+        "IN"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "苏暖暖",
+        "暖暖"
+      ],
+      "en": [
+        "Nikki"
+      ]
+    }
+  ]
+}

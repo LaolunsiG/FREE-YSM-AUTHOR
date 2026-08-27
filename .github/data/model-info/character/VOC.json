@@ -1,0 +1,47 @@
+{
+  "work": {
+    "abbr": "VOC",
+    "name": {
+      "zh": [
+        "虚拟歌姬",
+        "V 家",
+        "术力口",
+        "虚拟歌手"
+      ],
+      "en": [
+        "VOCALOID",
+        "VOC"
+      ]
+    },
+    "category": "Music"
+  },
+  "roles": [
+    {
+      "zh": [
+        "初音未来",
+        "初音"
+      ],
+      "en": [
+        "Hatsune-Miku",
+        "miku"
+      ]
+    },
+    {
+      "zh": [
+        "洛天依",
+        "洛天依_世末系列"
+      ],
+      "en": [
+        "luotianyi"
+      ]
+    },
+    {
+      "zh": [
+        "雪未来"
+      ],
+      "en": [
+        "yuki-miku"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "work": {
+    "abbr": "VTuber",
+    "name": {
+      "zh": [
+        "虚拟主播"
+      ],
+      "en": [
+        "Virtual YouTuber",
+        "VTuber"
+      ],
+      "ja": [
+        "バーチャルユーチューバー"
+      ]
+    },
+    "category": "Music"
+  },
+  "roles": [
+    {
+      "zh": [
+        "呜米"
+      ],
+      "en": [
+        "umyknight"
+      ]
+    },
+    {
+      "zh": [
+        "咩栗"
+      ],
+      "en": [
+        "merrryyuko"
+      ]
+    },
+    {
+      "zh": [
+        "安洛樱"
+      ],
+      "en": [
+        "anluosakura"
+      ]
+    },
+    {
+      "zh": [
+        "泠鸢",
+        "泠鸢Yousa"
+      ],
+      "en": [
+        "LingYuanYousa"
+      ]
+    },
+    {
+      "zh": [
+        "穆小泠Official",
+        "穆小泠"
+      ],
+      "en": [
+        "MuXiaoLing"
+      ]
+    },
+    {
+      "zh": [
+        "艾伊菈"
+      ],
+      "en": [
+        "ahyra"
+      ]
+    },
+    {
+      "zh": [
+        "黎歌Neeko",
+        "黎歌"
+      ],
+      "en": []
+    }
+  ]
+}

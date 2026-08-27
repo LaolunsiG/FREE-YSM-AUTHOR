@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "WT",
+    "name": {
+      "zh": [
+        "战争雷霆",
+        "战雷"
+      ],
+      "en": [
+        "War Thunder"
+      ],
+      "ja": [
+        "ウォーサンダー"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "沈凤翎"
+      ],
+      "en": [
+        "Shen-Fengling"
+      ]
+    }
+  ]
+}

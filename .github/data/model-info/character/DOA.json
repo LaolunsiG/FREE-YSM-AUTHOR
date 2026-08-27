@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "DOA",
+    "name": {
+      "zh": [
+        "死或生"
+      ],
+      "en": [
+        "Dead or Alive",
+        "DOA"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "玛丽萝斯"
+      ],
+      "en": [
+        "marie-rose"
+      ]
+    }
+  ]
+}

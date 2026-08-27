@@ -1,0 +1,42 @@
+{
+  "work": {
+    "abbr": "HNM",
+    "name": {
+      "zh": [
+        "星空的记忆"
+      ],
+      "en": [
+        "Wish upon a shooting star",
+        "Hoshizora no Memoria",
+        "HNM"
+      ],
+      "ja": [
+        "星空のメモリア"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "梅娅・S・艾菲梅拉尔"
+      ],
+      "en": [
+        "Mare-S.-Ephemeral"
+      ],
+      "ja": [
+        "メア＝S＝エフェメラル"
+      ]
+    },
+    {
+      "zh": [
+        "梦"
+      ],
+      "en": [
+        "yume",
+        "yume-spring",
+        "yume-summer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "swimsuit": {
+    "name": {
+      "en": "swimsuit",
+      "zh": "泳装"
+    },
+    "aliases": [
+      "泳装版"
+    ]
+  },
+  "default": {
+    "name": {
+      "en": "default",
+      "zh": "原皮"
+    },
+    "aliases": [
+      "原版"
+    ]
+  },
+  "summer": {
+    "name": {
+      "en": "summer",
+      "zh": "夏服"
+    },
+    "aliases": [
+      "夏日",
+      "夏装"
+    ]
+  },
+  "winter": {
+    "name": {
+      "en": "winter",
+      "zh": "冬装"
+    },
+    "aliases": [
+      "冬日"
+    ]
+  },
+  "spring": {
+    "name": {
+      "en": "spring",
+      "zh": "春装"
+    },
+    "aliases": []
+  },
+  "autumn": {
+    "name": {
+      "en": "autumn",
+      "zh": "秋装"
+    },
+    "aliases": []
+  },
+  "halloween": {
+    "name": {
+      "en": "halloween",
+      "zh": "万圣"
+    },
+    "aliases": [
+      "万圣节",
+      "万圣版",
+      "万圣节版"
+    ]
+  },
+  "christmas": {
+    "name": {
+      "en": "christmas",
+      "zh": "圣诞"
+    },
+    "aliases": [
+      "圣诞版",
+      "圣诞装",
+      "santa",
+      "xmas"
+    ]
+  },
+  "newyear": {
+    "name": {
+      "en": "newyear",
+      "zh": "新年"
+    },
+    "aliases": [
+      "新春",
+      "春节",
+      "新春版",
+      "new-year"
+    ]
+  },
+  "rabbithole": {
+    "name": {
+      "en": "rabbithole",
+      "zh": "兔子洞"
+    },
+    "aliases": [
+      "rabbit"
+    ]
+  },
+  "bunnygirl": {
+    "name": {
+      "en": "bunnygirl",
+      "zh": "兔女郎"
+    },
+    "aliases": [
+      "bunny",
+      "bunny-girl"
+    ]
+  },
+  "wedding": {
+    "name": {
+      "en": "wedding",
+      "zh": "婚纱"
+    },
+    "aliases": []
+  },
+  "maid": {
+    "name": {
+      "en": "maid",
+      "zh": "女仆"
+    },
+    "aliases": []
+  },
+  "kimono": {
+    "name": {
+      "en": "kimono",
+      "zh": "和服"
+    },
+    "aliases": []
+  },
+  "yukata": {
+    "name": {
+      "en": "yukata",
+      "zh": "浴衣"
+    },
+    "aliases": []
+  },
+  "pajamas": {
+    "name": {
+      "en": "pajamas",
+      "zh": "睡衣"
+    },
+    "aliases": [
+      "pyjamas"
+    ]
+  },
+  "uniform": {
+    "name": {
+      "en": "uniform",
+      "zh": "制服"
+    },
+    "aliases": []
+  },
+  "school": {
+    "name": {
+      "en": "school",
+      "zh": "校服"
+    },
+    "aliases": []
+  },
+  "final": {
+    "name": {
+      "en": "final",
+      "zh": "最终形态"
+    },
+    "aliases": []
+  },
+  "phase2": {
+    "name": {
+      "en": "phase2",
+      "zh": "二阶段"
+    },
+    "aliases": []
+  },
+  "phase3": {
+    "name": {
+      "en": "phase3",
+      "zh": "三阶段"
+    },
+    "aliases": []
+  },
+  "new": {
+    "name": {
+      "en": "new",
+      "zh": "新"
+    },
+    "aliases": []
+  },
+  "old": {
+    "name": {
+      "en": "old",
+      "zh": "旧"
+    },
+    "aliases": []
+  },
+  "armor": {
+    "name": {
+      "en": "armor"
+    },
+    "aliases": []
+  },
+  "casual": {
+    "name": {
+      "en": "casual"
+    },
+    "aliases": []
+  },
+  "festival": {
+    "name": {
+      "en": "festival"
+    },
+    "aliases": []
+  },
+  "idol": {
+    "name": {
+      "en": "idol"
+    },
+    "aliases": []
+  },
+  "kunoichi": {
+    "name": {
+      "en": "kunoichi"
+    },
+    "aliases": []
+  },
+  "lingerie": {
+    "name": {
+      "en": "lingerie"
+    },
+    "aliases": []
+  },
+  "mecha": {
+    "name": {
+      "en": "mecha"
+    },
+    "aliases": []
+  },
+  "sweater": {
+    "name": {
+      "en": "sweater"
+    },
+    "aliases": []
+  },
+  "valentine": {
+    "name": {
+      "en": "valentine"
+    },
+    "aliases": []
+  },
+  "l": {
+    "name": {
+      "en": "l"
+    },
+    "aliases": []
+  },
+  "free": {
+    "name": {
+      "en": "free",
+      "zh": "免费"
+    },
+    "aliases": []
+  },
+  "paid": {
+    "name": {
+      "en": "paid",
+      "zh": "付费"
+    },
+    "aliases": [
+      "收费"
+    ]
+  },
+  "public": {
+    "name": {
+      "en": "public",
+      "zh": "公开"
+    },
+    "aliases": []
+  },
+  "private": {
+    "name": {
+      "en": "private",
+      "zh": "非公开"
+    },
+    "aliases": []
+  },
+  "internal": {
+    "name": {
+      "en": "internal",
+      "zh": "内部"
+    },
+    "aliases": []
+  },
+  "limited": {
+    "name": {
+      "en": "limited",
+      "zh": "限定"
+    },
+    "aliases": []
+  },
+  "reserved": {
+    "name": {
+      "en": "reserved",
+      "zh": "预约"
+    },
+    "aliases": []
+  },
+  "trial": {
+    "name": {
+      "en": "trial",
+      "zh": "测试"
+    },
+    "aliases": [
+      "测试版",
+      "体验版",
+      "预览版",
+      "beta"
+    ]
+  },
+  "official": {
+    "name": {
+      "en": "official",
+      "zh": "正式版"
+    },
+    "aliases": [
+      "正式",
+      "最终版",
+      "正式发布"
+    ]
+  },
+  "allage": {
+    "name": {
+      "en": "all-age",
+      "zh": "全年龄"
+    },
+    "aliases": []
+  },
+  "qipao": {
+    "name": {
+      "en": "qipao",
+      "zh": "旗袍"
+    },
+    "aliases": []
+  },
+  "nurse": {
+    "name": {
+      "en": "nurse",
+      "zh": "护士"
+    },
+    "aliases": []
+  },
+  "bikini": {
+    "name": {
+      "en": "bikini",
+      "zh": "比基尼"
+    },
+    "aliases": []
+  },
+  "bride": {
+    "name": {
+      "en": "bride",
+      "zh": "新娘"
+    },
+    "aliases": []
+  },
+  "military": {
+    "name": {
+      "en": "military",
+      "zh": "军装"
+    },
+    "aliases": []
+  },
+  "gothic": {
+    "name": {
+      "en": "gothic",
+      "zh": "哥特"
+    },
+    "aliases": []
+  },
+  "blackstocking": {
+    "name": {
+      "en": "black-stocking",
+      "zh": "黑丝"
+    },
+    "aliases": []
+  },
+  "whitestocking": {
+    "name": {
+      "en": "white-stocking",
+      "zh": "白丝"
+    },
+    "aliases": []
+  },
+  "cat-ear": {
+    "name": {
+      "en": "cat-ear",
+      "zh": "猫耳"
+    },
+    "aliases": []
+  },
+  "bunny-ear": {
+    "name": {
+      "en": "bunny-ear",
+      "zh": "兔耳"
+    },
+    "aliases": []
+  }
+}

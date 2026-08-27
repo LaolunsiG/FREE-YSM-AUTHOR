@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "Utau",
+    "name": {
+      "zh": [
+        "虚拟歌手",
+        "术力口"
+      ],
+      "en": [
+        "Utauloid",
+        "UTAU"
+      ]
+    },
+    "category": "Music"
+  },
+  "roles": [
+    {
+      "zh": [
+        "重音Teto",
+        "重音"
+      ],
+      "en": [
+        "kasane-teto",
+        "teto"
+      ]
+    }
+  ]
+}

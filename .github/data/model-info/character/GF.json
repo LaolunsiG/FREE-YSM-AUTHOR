@@ -1,0 +1,254 @@
+{
+  "work": {
+    "abbr": "GF",
+    "name": {
+      "zh": [
+        "少女前线",
+        "少女前线 2",
+        "少女前线 2：追放",
+        "少前 2：追放",
+        "少女前线：云图计划",
+        "云图计划"
+      ],
+      "en": [
+        "Girls' Frontline",
+        "GF",
+        "GF2",
+        "GIRLS' FRONTLINE 2:EXILIUM",
+        "Girls' Frontline: Neural Cloud",
+        "Project Neural Cloud",
+        "NC"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "AN‑94‑安提娅",
+        "AN‑94"
+      ],
+      "en": [
+        "AN‑94",
+        "Antiya"
+      ]
+    },
+    {
+      "zh": [
+        "HK416‑可露凯",
+        "HK416",
+        "416"
+      ],
+      "en": [
+        "HK416",
+        "Klukai"
+      ]
+    },
+    {
+      "zh": [
+        "KP‑31‑索米",
+        "KP‑31",
+        "索米"
+      ],
+      "en": [
+        "KP‑31",
+        "Suomi"
+      ]
+    },
+    {
+      "zh": [
+        "M200‑夏安",
+        "M200"
+      ],
+      "en": [
+        "M200",
+        "Cheyanne"
+      ]
+    },
+    {
+      "zh": [
+        "UMP9‑莱娜",
+        "UMP9"
+      ],
+      "en": [
+        "UMP9",
+        "Lenna"
+      ]
+    },
+    {
+      "zh": [
+        "WA2000‑玛绮朵",
+        "WA2000"
+      ],
+      "en": [
+        "WA2000",
+        "Macqiato"
+      ]
+    },
+    {
+      "zh": [
+        "UMP45",
+        "UMP45‑卡琳娜",
+        "45姐"
+      ],
+      "en": [
+        "UMP45",
+        "Kalina"
+      ]
+    },
+    {
+      "zh": [
+        "G11‑米什缇",
+        "G11"
+      ],
+      "en": [
+        "G11",
+        "Mishty"
+      ]
+    },
+    {
+      "zh": [
+        "M4A1‑露尼西亚",
+        "M4A1"
+      ],
+      "en": [
+        "M4A1",
+        "Lunasia"
+      ]
+    },
+    {
+      "zh": [
+        "M4 SOPMOD II‑索普",
+        "M4 SOPMOD II",
+        "SOPII"
+      ],
+      "en": [
+        "M4 SOPMOD II",
+        "Soppo"
+      ]
+    },
+    {
+      "zh": [
+        "ST AR‑15‑艾芙琳",
+        "ST AR‑15"
+      ],
+      "en": [
+        "ST AR‑15",
+        "Evelyn"
+      ]
+    },
+    {
+      "zh": [
+        "RO635‑洛贝拉",
+        "RO635",
+        "RO"
+      ],
+      "en": [
+        "RO635",
+        "Robella"
+      ]
+    },
+    {
+      "zh": [
+        "AK‑12‑露契娅",
+        "AK‑12"
+      ],
+      "en": [
+        "AK‑12",
+        "Lucia"
+      ]
+    },
+    {
+      "zh": [
+        "AK‑15‑艾尔文",
+        "AK‑15"
+      ],
+      "en": [
+        "AK‑15",
+        "Alvin"
+      ]
+    },
+    {
+      "zh": [
+        "RPK‑16‑蕾娜特",
+        "RPK‑16"
+      ],
+      "en": [
+        "RPK‑16",
+        "Renate"
+      ]
+    },
+    {
+      "zh": [
+        "95式‑黛烟",
+        "95式"
+      ],
+      "en": [
+        "QBZ‑95",
+        "Daiyan"
+      ]
+    },
+    {
+      "zh": [
+        "丹德莱"
+      ],
+      "en": [
+        "Dandelion"
+      ]
+    },
+    {
+      "zh": [
+        "安洁莉娅",
+        "安娜・维克多洛夫纳・崔",
+        "安洁"
+      ],
+      "en": [
+        "Anna‑Viktorovna‑Tsoi",
+        "Angelia"
+      ],
+      "ja": [
+        "アンジェリア"
+      ]
+    },
+    {
+      "zh": [
+        "芙洛伦"
+      ],
+      "en": [
+        "Florence"
+      ]
+    },
+    {
+      "zh": [
+        "赫丽安"
+      ],
+      "en": [
+        "Helian"
+      ]
+    },
+    {
+      "zh": [
+        "克鲁格"
+      ],
+      "en": [
+        "Kruger"
+      ]
+    },
+    {
+      "zh": [
+        "帕斯卡"
+      ],
+      "en": [
+        "Persica"
+      ]
+    },
+    {
+      "zh": [
+        "格琳娜"
+      ],
+      "en": [
+        "Griffin"
+      ]
+    }
+  ]
+}

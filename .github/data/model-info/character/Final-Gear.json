@@ -1,0 +1,24 @@
+{
+  "work": {
+    "abbr": "Final-Gear",
+    "name": {
+      "zh": [
+        "重装战姬"
+      ],
+      "en": [
+        "Final Gear"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "爱塔"
+      ],
+      "en": [
+        "Aita"
+      ]
+    }
+  ]
+}

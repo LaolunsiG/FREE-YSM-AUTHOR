@@ -1,0 +1,29 @@
+{
+  "work": {
+    "abbr": "KG",
+    "name": {
+      "zh": [
+        "兽耳学园",
+        "兽耳学院"
+      ],
+      "en": [
+        "Kemomimi Gakuen",
+        "KG"
+      ],
+      "ja": [
+        "ケモミミ学園"
+      ]
+    },
+    "category": "Other"
+  },
+  "roles": [
+    {
+      "zh": [
+        "阿尔维娜酱"
+      ],
+      "en": [
+        "arvina_chan"
+      ]
+    }
+  ]
+}

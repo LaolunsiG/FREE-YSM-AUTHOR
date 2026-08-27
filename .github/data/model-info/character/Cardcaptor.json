@@ -1,0 +1,37 @@
+{
+  "work": {
+    "abbr": "Cardcaptor",
+    "name": {
+      "zh": [
+        "魔卡少女樱",
+        "百变小樱"
+      ],
+      "en": [
+        "Cardcaptor Sakura",
+        "Cardcaptor"
+      ],
+      "ja": [
+        "カードキャプターさくら"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "大道寺知世"
+      ],
+      "en": [
+        "daidouji-tomoyo"
+      ]
+    },
+    {
+      "zh": [
+        "木之本樱"
+      ],
+      "en": [
+        "kinomoto-sakura"
+      ]
+    }
+  ]
+}

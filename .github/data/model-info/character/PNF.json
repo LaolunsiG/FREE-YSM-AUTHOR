@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "PNF",
+    "name": {
+      "zh": [
+        "飞哥与小佛"
+      ],
+      "en": [
+        "Phineas and Ferb",
+        "PNF"
+      ],
+      "ja": [
+        "フィニアスとファーブ"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "鸭嘴兽泰瑞"
+      ],
+      "en": [
+        "perry-the-platypus"
+      ]
+    }
+  ]
+}

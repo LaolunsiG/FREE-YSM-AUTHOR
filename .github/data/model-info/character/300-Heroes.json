@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "300-Heroes",
+    "name": {
+      "zh": [
+        "300 英雄"
+      ],
+      "en": [
+        "300 Heroes",
+        "300-Heroes"
+      ],
+      "ja": [
+        "300 ヒーローズ"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "缇米"
+      ],
+      "en": [
+        "timi"
+      ]
+    }
+  ]
+}

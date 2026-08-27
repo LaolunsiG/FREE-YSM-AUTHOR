@@ -1,0 +1,2213 @@
+{
+  "version": 1,
+  "generated": "2026-08-18T11:41:30+00:00",
+  "authors": {
+    "0000": {
+      "name": [
+        "#-OMEGAZERO-"
+      ],
+      "readme": "0000--OMEGAZERO-/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/359658906"
+      }
+    },
+    "0001": {
+      "name": [
+        "#02Bunny",
+        "#蓝玫瑰"
+      ],
+      "readme": "0001-02Bunny,蓝玫瑰/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/11814817",
+        "QQ": "584570528"
+      }
+    },
+    "0002": {
+      "name": [
+        "#映素",
+        "#映素作坊"
+      ],
+      "readme": "0002-映素,映素作坊/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/400235810",
+        "QQ": "833187861",
+        "Afdian": "https://afdian.com/a/6TGESILA"
+      }
+    },
+    "0003": {
+      "name": [
+        "#XGancheng_Tao"
+      ],
+      "readme": "0003-XGancheng_Tao/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1406170630"
+      }
+    },
+    "0004": {
+      "name": [
+        "#XG残党"
+      ],
+      "readme": "0004-XG残党/README.md",
+      "platforms": {
+        "Afdian": "https://afdian.com/a/x416g"
+      }
+    },
+    "0005": {
+      "name": [
+        "#omo仙贝2号",
+        "#omo",
+        "#mo",
+        "#FujiwaranoMoku114514"
+      ],
+      "readme": "0005-omo仙贝2号,omo,mo,FujiwaranoMoku114514/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1959304255",
+        "YouTube": "https://www.youtube.com/@%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-i3q",
+        "Twitter": "https://x.com/wOelxdwlnwq5Zl0",
+        "Afdian": "https://afdian.com/a/omomomomomomo",
+        "Patreon": "https://www.patreon.com/c/omo595/posts"
+      },
+      "badges": [
+        "high-output",
+        "recommended",
+        "nsfw"
+      ]
+    },
+    "0006": {
+      "name": [
+        "#Nekuro",
+        "#NekuroMC"
+      ],
+      "readme": "0006-Nekuro,NekuroMC/README.md",
+      "platforms": {
+        "YouTube": "https://www.youtube.com/@NekuroMC",
+        "ko-fi": "https://ko-fi.com/nekuromc/shop",
+        "Sketchfab": "https://sketchfab.com/NekuroMC/models"
+      }
+    },
+    "0007": {
+      "name": [
+        "#啊这-_-0",
+        "#伍炎"
+      ],
+      "readme": "0007-啊这-_-0,伍炎/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/347376421"
+      }
+    },
+    "0008": {
+      "name": [
+        "#白色北熊"
+      ],
+      "readme": "0008-白色北熊/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/175342453",
+        "QQ": "1067426280",
+        "Afdian": "https://afdian.com/a/bx233"
+      }
+    },
+    "0009": {
+      "name": [
+        "#白亚奈Anay"
+      ],
+      "readme": "0009-白亚奈Anay/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/454110884"
+      }
+    },
+    "0010": {
+      "name": [
+        "#波普Popu"
+      ],
+      "readme": "0010-波普Popu/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/446941285",
+        "QQ": "3612246475"
+      }
+    },
+    "0011": {
+      "name": [
+        "#池塘-tl",
+        "#池塘"
+      ],
+      "readme": "0011-池塘-tl,池塘/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546379886529242",
+        "QQ": "981134198",
+        "Afdian": "https://afdian.com/a/114514ctjl"
+      }
+    },
+    "0012": {
+      "name": [
+        "#赤恒-AzaMire",
+        "赤恒RedConstant"
+      ],
+      "readme": "0012-赤恒-AzaMire,赤恒RedConstant/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/235888316"
+      },
+      "badges": []
+    },
+    "0013": {
+      "name": [
+        "#对羧基苯酚"
+      ],
+      "readme": "0013-对羧基苯酚/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3461562335496256"
+      }
+    },
+    "0014": {
+      "name": [
+        "#哈雷汰多"
+      ],
+      "readme": "0014-哈雷汰多/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/385810311"
+      }
+    },
+    "0015": {
+      "name": [
+        "#寒叔hs",
+        "#烈鸟比百",
+        "#Frosty_Uncle"
+      ],
+      "readme": "0015-寒叔hs,烈鸟比百,Frosty_Uncle/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/329066935",
+        "YouTube": "https://www.youtube.com/@%E7%83%88%E9%B8%9F%E6%AF%94%E7%99%BE",
+        "Afdian": "https://afdian.com/a/Aigoblin"
+      },
+      "badges": [
+        "high-output",
+        "nsfw"
+      ]
+    },
+    "0016": {
+      "name": [
+        "#祸御神"
+      ],
+      "readme": "0016-祸御神/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/164557734",
+        "Afdian": "https://afdian.com/a/YS444"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0017": {
+      "name": [
+        "#寄水晶"
+      ],
+      "readme": "0017-寄水晶/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/505272945"
+      }
+    },
+    "0018": {
+      "name": [
+        "#夹心果风"
+      ],
+      "readme": "0018-夹心果风/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/178099567",
+        "QQ": "916346960",
+        "Afdian": "https://afdian.com/a/jxgf2077"
+      }
+    },
+    "0019": {
+      "name": [
+        "#江竹雨offical",
+        "#AAA家电批发江竹雨"
+      ],
+      "readme": "0019-江竹雨offical,AAA家电批发江竹雨/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/493607297",
+        "Afdian": "https://afdian.com/a/lyza1031"
+      }
+    },
+    "0020": {
+      "name": [
+        "#就叫纸板",
+        "#纸板",
+        "木宁苒"
+      ],
+      "readme": "0020-就叫纸板,纸板/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/29208164",
+        "QQ": "1535492940",
+        "Afdian": "https://afdian.com/a/15354qq"
+      },
+      "badges": [
+        "high-output",
+        "recommended"
+      ]
+    },
+    "0021": {
+      "name": [
+        "#酷酷の霜叶小姐姐"
+      ],
+      "readme": "0021-酷酷の霜叶小姐姐/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/106626083"
+      }
+    },
+    "0022": {
+      "name": [
+        "#Tu_tou"
+      ],
+      "readme": "0022-Tu_tou/README.md",
+      "platforms": {
+        "QQ": "126088260"
+      }
+    },
+    "0023": {
+      "name": [
+        "#狸民limin",
+        "#狸民",
+        "#limin"
+      ],
+      "readme": "0023-狸民limin,狸民,limin/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/38974741",
+        "QQ": "975530811",
+        "Afdian": "https://afdian.com/a/limin"
+      }
+    },
+    "0024": {
+      "name": [
+        "#栗坂猫厘子"
+      ],
+      "readme": "0024-栗坂猫厘子/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/380914010"
+      }
+    },
+    "0025": {
+      "name": [
+        "#绫独之落"
+      ],
+      "readme": "0025-绫独之落/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/39655169"
+      }
+    },
+    "0026": {
+      "name": [
+        "#雒仁"
+      ],
+      "readme": "0026-雒仁/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/13550783",
+        "QQ": "528146909",
+        "Afdian": "https://afdian.com/a/luoren"
+      }
+    },
+    "0027": {
+      "name": [
+        "#猫耳魂魄妖梦"
+      ],
+      "readme": "0027-猫耳魂魄妖梦/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1436299"
+      }
+    },
+    "0028": {
+      "name": [
+        "#喵Kuroneko",
+        "#KuroNeko"
+      ],
+      "readme": "0028-喵Kuroneko,KuroNeko/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/323374106",
+        "QQ": "1050145781",
+        "Afdian": "https://afdian.com/a/QwQlalalaKuroNe"
+      }
+    },
+    "0029": {
+      "name": [
+        "#墓野奈奈"
+      ],
+      "readme": "0029-墓野奈奈/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/269519870",
+        "QQ": "3194755414"
+      }
+    },
+    "0030": {
+      "name": [
+        "#嗯嗯owo"
+      ],
+      "readme": "0030-嗯嗯owo/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/167202500",
+        "YouTube": "https://space.bilibili.com/167202500",
+        "Afdian": "https://afdian.com/a/enenowo"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0031": {
+      "name": [
+        "#泥泞中的小猫",
+        "#PZGR.40"
+      ],
+      "readme": "0031-泥泞中的小猫,PZGR.40/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/87435859",
+        "QQ": "1012212180",
+        "Pixiv": "PZGR.40",
+        "QQ-Group": "1012212180"
+      }
+    },
+    "0032": {
+      "name": [
+        "#你个人机cc",
+        "#cc"
+      ],
+      "readme": "0032-你个人机cc,cc/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/400763031",
+        "QQ": "1055945725",
+        "Afdian": "https://afdian.com/a/ccnie"
+      }
+    },
+    "0033": {
+      "name": [
+        "#胖狐狸工作室",
+        "#红色幽默"
+      ],
+      "readme": "0033-胖狐狸工作室,红色幽默/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1839129371"
+      }
+    },
+    "0034": {
+      "name": [
+        "#平衡芝光"
+      ],
+      "readme": "0034-平衡芝光/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/526319760"
+      }
+    },
+    "0035": {
+      "name": [
+        "#谱露阿凯",
+        "#普露阿凯",
+        "#谱露阿kai",
+        "#饭"
+      ],
+      "readme": "0035-谱露阿凯,普露阿凯,谱露阿kai,饭/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/426183597",
+        "Afdian": "https://afdian.com/a/11434fan"
+      }
+    },
+    "0036": {
+      "name": [
+        "#日月明567"
+      ],
+      "readme": "0036-日月明567/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1803539047",
+        "Afdian": "https://afdian.com/a/rym567"
+      }
+    },
+    "0037": {
+      "name": [
+        "#史莱姆坍缩"
+      ],
+      "readme": "0037-史莱姆坍缩/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/10547419"
+      }
+    },
+    "0038": {
+      "name": [
+        "#试刀",
+        "#试Tj"
+      ],
+      "readme": "0038-试刀,试Tj/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/543273563",
+        "Afdian": "https://ifdian.net/a/SDA114"
+      }
+    },
+    "0039": {
+      "name": [
+        "#松鼠式坦克兵工",
+        "#松鼠式坦克"
+      ],
+      "readme": "0039-松鼠式坦克兵工,松鼠式坦克/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/354791477",
+        "Afdian": "https://afdian.com/a/Gaimetear2333"
+      }
+    },
+    "0040": {
+      "name": [
+        "#碎de帆"
+      ],
+      "readme": "0040-碎de帆/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/381524342"
+      }
+    },
+    "0041": {
+      "name": [
+        "#提可拉",
+        "晓苯升易"
+      ],
+      "readme": "0041-提可拉/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/326133289",
+        "QQ": "881921312",
+        "Afdian": "https://afdian.com/a/6Canim"
+      }
+    },
+    "0042": {
+      "name": [
+        "#天弓干亦",
+        "#筅袔"
+      ],
+      "readme": "0042-天弓干亦,筅袔/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/13098279"
+      }
+    },
+    "0043": {
+      "name": [
+        "#完全凍結ALL",
+        "#完全冻结",
+        "#绝对冻结"
+      ],
+      "readme": "0043-完全凍結ALL,完全冻结,绝对冻结/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/393110",
+        "Afdian": "https://afdian.com/a/AllFreeze"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0044": {
+      "name": [
+        "#韦懦夫斯菲尔",
+        "#汪"
+      ],
+      "readme": "0044-韦懦夫斯菲尔,汪/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546753760496536",
+        "QQ": "624971642"
+      }
+    },
+    "0045": {
+      "name": [
+        "#雾雨波波沙"
+      ],
+      "readme": "0045-雾雨波波沙/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/36761228",
+        "Pixiv": "https://www.pixiv.net/users/26720481"
+      },
+      "badges": [
+        "recommended",
+        "high-output"
+      ]
+    },
+    "0046": {
+      "name": [
+        "#小萌新idjdkd"
+      ],
+      "readme": "0046-小萌新idjdkd/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1573788561"
+      }
+    },
+    "0048": {
+      "name": [
+        "#星屑海螺",
+        "#磁小轨制作组（星屑海螺）",
+        "#不是海螺"
+      ],
+      "readme": "0048-星屑海螺,磁小轨制作组（星屑海螺）,不是海螺/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/14975572",
+        "QQ": "682546342",
+        "Afdian": "https://afdian.com/a/lucia2048"
+      }
+    },
+    "0049": {
+      "name": [
+        "#星语TAT"
+      ],
+      "readme": "0049-星语TAT/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/316739550",
+        "QQ": "1039376704"
+      }
+    },
+    "0050": {
+      "name": [
+        "#荨蒿栗里",
+        "#荨蒿之栗里",
+        "#栗里"
+      ],
+      "readme": "0050-荨蒿栗里,荨蒿之栗里,栗里/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/501046951",
+        "Afdian": "https://ifdian.net/a/xphkvilili?tab=home"
+      }
+    },
+    "0051": {
+      "name": [
+        "#动员鼬"
+      ],
+      "readme": "0051-动员鼬/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/348421936/upload/video",
+        "Afdian": "https://afdian.com/a/dyy114514"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0052": {
+      "name": [
+        "#゚烟雨画桥"
+      ],
+      "readme": "0052-゚烟雨画桥/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1268865161",
+        "Afdian": "https://afdian.com/a/mj204"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0053": {
+      "name": [
+        "#羊毛毛毛毛_Official喵"
+      ],
+      "readme": "0053-羊毛毛毛毛_Official喵/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/85335217",
+        "QQ": "1018367746"
+      }
+    },
+    "0054": {
+      "name": [
+        "#一只霜狐Owo"
+      ],
+      "readme": "0054-一只霜狐Owo/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1214393496",
+        "QQ": "1048762984"
+      }
+    },
+    "0055": {
+      "name": [
+        "#伊蕾娜家的咸鱼"
+      ],
+      "readme": "0055-伊蕾娜家的咸鱼/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/20682514",
+        "Afdian": "https://afdian.com/a/elainasaltfish"
+      }
+    },
+    "0056": {
+      "name": [
+        "#伊洛是哥斯拉嘛",
+        "#伊洛是哥斯拉吗",
+        "#哥斯拉",
+        "#落阳不养羊",
+        "#黎家诚",
+        "#BradKidd",
+        "晓苯升易"
+      ],
+      "readme": "0056-伊洛是哥斯拉嘛,伊洛是哥斯拉吗,哥斯拉,落阳不养羊,黎家诚/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/17798027",
+        "Afdian": "https://afdian.com/a/6TGESILA"
+      },
+      "badges": [
+        "recommended",
+        "high-output"
+      ],
+      "team": "#映素 #映素作坊"
+    },
+    "0057": {
+      "name": [
+        "#忆尘yc27",
+        "#忆尘27"
+      ],
+      "readme": "0057-忆尘yc27,忆尘27/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/192438862",
+        "Afdian": "https://afdian.com/a/114514aabb"
+      }
+    },
+    "0058": {
+      "name": [
+        "#艺方像素",
+        "#艺方堂",
+        "#尻",
+        "#艺方坊",
+        "#艺方阁"
+      ],
+      "readme": "0058-艺方像素,艺方堂,尻,艺方坊,艺方阁/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/107318873",
+        "QQ": "1320812591"
+      },
+      "badges": [
+        "high-output"
+      ],
+      "team": "#艺方像素 | #艺方堂 | #艺方坊 | #艺方阁"
+    },
+    "0059": {
+      "name": [
+        "#瀛猫"
+      ],
+      "readme": "0059-瀛猫/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/647224460",
+        "QQ": "1037786416",
+        "Afdian": "https://afdian.com/a/wincatpro"
+      }
+    },
+    "0060": {
+      "name": [
+        "#油七桶"
+      ],
+      "readme": "0060-油七桶/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/4896879"
+      }
+    },
+    "0061": {
+      "name": [
+        "#狱际星芒"
+      ],
+      "readme": "0061-狱际星芒/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/349150095",
+        "QQ": "218129003",
+        "Afdian": "https://afdian.com/a/3256286845xingmang"
+      }
+    },
+    "0062": {
+      "name": [
+        "#云曦-Yunxxi_ugo",
+        "#云曦"
+      ],
+      "readme": "0062-云曦-Yunxxi_ugo,云曦/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/28954757",
+        "QQ": "924884449",
+        "Afdian": "https://afdian.com/a/Yunxxi_ugo"
+      }
+    },
+    "0063": {
+      "name": [
+        "#再来几斤小莫莫"
+      ],
+      "readme": "0063-再来几斤小莫莫/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3493267685509797",
+        "Afdian": "https://afdian.com/a/starmoon679"
+      }
+    },
+    "0064": {
+      "name": [
+        "#纸盒ALifang",
+        "#Cc-纸盒",
+        "#Cc纸盒"
+      ],
+      "readme": "0064-纸盒ALifang,Cc-纸盒,Cc纸盒/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1494015242",
+        "QQ": "619035464"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0065": {
+      "name": [
+        "#烛火的次元宇宙"
+      ],
+      "readme": "0065-烛火的次元宇宙/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/57715833",
+        "Afdian": "https://afdian.com/a/zhuhuo"
+      },
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0066": {
+      "name": [
+        "#A_su杏仁"
+      ],
+      "readme": "0066-A_su杏仁/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/524666730",
+        "QQ": "1019752550"
+      }
+    },
+    "0067": {
+      "name": [
+        "#Almeta_owx"
+      ],
+      "readme": "0067-Almeta_owx/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/4328692",
+        "Afdian": "https://afdian.com/a/Almeta"
+      },
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0068": {
+      "name": [
+        "#AnluoSakura"
+      ],
+      "readme": "0068-AnluoSakura/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1275761002",
+        "Afdian": "https://afdian.com/a/AnluoSakura"
+      },
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0069": {
+      "name": [
+        "#ccci202"
+      ],
+      "readme": "0069-ccci202/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/2019133736",
+        "Afdian": "https://afdian.com/a/ccci202"
+      }
+    },
+    "0070": {
+      "name": [
+        "#Dashcode",
+        "#ASHES356"
+      ],
+      "readme": "0070-Dashcode,ASHES356/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/51204057",
+        "Afdian": "https://afdian.com/a/ashes356"
+      }
+    },
+    "0071": {
+      "name": [
+        "#Dr咕咚"
+      ],
+      "readme": "0071-Dr咕咚/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/5950899"
+      }
+    },
+    "0072": {
+      "name": [
+        "#Eiven-ly",
+        "#Eiven"
+      ],
+      "readme": "0072-Eiven-ly,Eiven/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546623741266008",
+        "QQ": "649086784",
+        "Afdian": "https://afdian.com/a/Eivenly"
+      }
+    },
+    "0073": {
+      "name": [
+        "#MicroCraft_",
+        "#MicroCraft"
+      ],
+      "readme": "0073-MicroCraft_,MicroCraft/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/701974112"
+      }
+    },
+    "0074": {
+      "name": [
+        "#Killot",
+        "#Killot945"
+      ],
+      "readme": "0074-Killot,Killot945/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/6348825",
+        "Afdian": "https://afdian.com/a/Killot945"
+      }
+    },
+    "0075": {
+      "name": [
+        "#Wadanohara_Rika"
+      ],
+      "readme": "0075-Wadanohara_Rika/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/397318084"
+      }
+    },
+    "0076": {
+      "name": [
+        "#White_clams白蛤蜊",
+        "#白蛤蜊",
+        "#White_Clams白蛤蜊"
+      ],
+      "readme": "0076-White_clams白蛤蜊,白蛤蜊,White_Clams白蛤蜊/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/168185637",
+        "Afdian": "https://afdian.com/a/whiteclams"
+      },
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0077": {
+      "name": [
+        "#旭门只玩驹",
+        "#Zeonjin-旭门只玩驹"
+      ],
+      "readme": "0077-旭门只玩驹,Zeonjin-旭门只玩驹/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/183381720",
+        "QQ": "2479819954",
+        "Afdian": "https://afdian.com/a/Zeonjin-Kogasa"
+      }
+    },
+    "0078": {
+      "name": [
+        "#LuXi233",
+        "#小早川希"
+      ],
+      "readme": "0078-LuXi233,小早川希/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/183485702"
+      }
+    },
+    "0079": {
+      "name": [
+        "#小多利鸭"
+      ],
+      "readme": "0079-小多利鸭/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/295570429"
+      }
+    },
+    "0080": {
+      "name": [
+        "#Nona_Reeves",
+        "#Nona_reeves",
+        "#Nona-Reeves"
+      ],
+      "readme": "0080-Nona_Reeves,Nona_reeves,Nona-Reeves/README.md",
+      "platforms": {
+        "QQ": "1926615510"
+      },
+      "team": "#映素 #映素作坊",
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0081": {
+      "name": [
+        "#窝窝头"
+      ],
+      "readme": "0081-窝窝头/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/357608680",
+        "Afdian": "https://afdian.com/a/WWTman"
+      }
+    },
+    "0082": {
+      "name": [
+        "#树枝没虈枝"
+      ],
+      "readme": "0082-树枝没虈枝/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3494364170946713"
+      }
+    },
+    "0083": {
+      "name": [
+        "#鼠标会梦到光猫吗"
+      ],
+      "readme": "0083-鼠标会梦到光猫吗/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546800153692981"
+      }
+    },
+    "0084": {
+      "name": [
+        "#幻古诗"
+      ],
+      "readme": "0084-幻古诗/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/443702321",
+        "Afdian": "https://afdian.com/a/huangushi"
+      }
+    },
+    "0085": {
+      "name": [
+        "#平行Rosmontis"
+      ],
+      "readme": "0085-平行Rosmontis/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/473170444"
+      }
+    },
+    "0086": {
+      "name": [
+        "#深海沉光"
+      ],
+      "readme": "0086-深海沉光/README.md",
+      "platforms": {}
+    },
+    "0087": {
+      "name": [
+        "#ポーラーソース"
+      ],
+      "readme": "0087-ポーラーソース/README.md",
+      "platforms": {}
+    },
+    "0088": {
+      "name": [
+        "#无名氏"
+      ],
+      "readme": "0088-无名氏/README.md",
+      "platforms": {
+        "QQ": "2568904644"
+      }
+    },
+    "0089": {
+      "name": [
+        "#踽魍估恶真君"
+      ],
+      "readme": "0089-踽魍估恶真君/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/696375171",
+        "Afdian": "https://www.ifdian.net/a/mxj2005"
+      }
+    },
+    "0090": {
+      "name": [
+        "#九碳糖",
+        "#九碳糖BI3NVZ"
+      ],
+      "readme": "0090-九碳糖,九碳糖BI3NVZ/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/543291461"
+      }
+    },
+    "0091": {
+      "name": [
+        "#trita"
+      ],
+      "readme": "0091-trita/README.md",
+      "platforms": {
+        "QQ": "3490790346"
+      }
+    },
+    "0092": {
+      "name": [
+        "#菊姥爷"
+      ],
+      "readme": "0092-菊姥爷/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/376780490",
+        "Afdian": "https://afdian.com/a/julaoye"
+      }
+    },
+    "0093": {
+      "name": [
+        "#苏依凛",
+        "#炽湮"
+      ],
+      "readme": "0093-苏依凛,炽湮/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/76987486",
+        "Afdian": "https://afdian.com/a/supermonsterking"
+      },
+      "badges": [
+        "high-output",
+        "nsfw"
+      ]
+    },
+    "0094": {
+      "name": [
+        "#墨染逝羽",
+        "#Feather_aya"
+      ],
+      "readme": "0094-墨染逝羽,Feather_aya/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/5718046",
+        "Afdian": "https://afdian.com/a/FliegeSA"
+      }
+    },
+    "0095": {
+      "name": [
+        "#源石姬变体",
+        "#raw_chicken",
+        "#鸡姬"
+      ],
+      "readme": "0095-源石姬变体,raw_chicken,鸡姬/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/219540765",
+        "Pixiv": "https://www.pixiv.net/users/31376770",
+        "Afdian": "https://afdian.com/a/rawchicken",
+        "Unifans": "https://app.unifans.io/c/rawchickenneg"
+      },
+      "badges": [
+        "nsfw",
+        "high-output"
+      ]
+    },
+    "0096": {
+      "name": [
+        "#Kria月明"
+      ],
+      "readme": "0096-Kria月明/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/182808322"
+      }
+    },
+    "0097": {
+      "name": [
+        "#艾雷克亚"
+      ],
+      "readme": "0097-艾雷克亚/README.md",
+      "platforms": {},
+      "team": "#映素 | #映素作坊"
+    },
+    "0098": {
+      "name": [
+        "#coldM00N",
+        "#ガラスのような青空",
+        "#coldm00n"
+      ],
+      "readme": "0098-coldM00N,ガラスのような青空,coldm00n/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/11382763",
+        "Afdian": "https://afdian.com/a/coldMOON048"
+      }
+    },
+    "0099": {
+      "name": [
+        "#Dumnheint"
+      ],
+      "readme": "0099-Dumnheint/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/36644599"
+      }
+    },
+    "0100": {
+      "name": [
+        "#京泉"
+      ],
+      "readme": "0100-京泉/README.md",
+      "platforms": {}
+    },
+    "0101": {
+      "name": [
+        "#獒子coco",
+        "#獒子酱的杂货店",
+        "#獒子獒子獒"
+      ],
+      "readme": "0101-獒子coco,獒子酱的杂货店,獒子獒子獒/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/19140392",
+        "Afdian": "https://afdian.com/a/AOZICOCO"
+      }
+    },
+    "0102": {
+      "name": [
+        "#Dreamer",
+        "#普通的木屐"
+      ],
+      "readme": "0102-Dreamer,普通的木屐/README.md",
+      "platforms": {
+        "Bilibili": "https://afdian.com/a/CommonMuJi",
+        "WeChat": "MC_CommonMuJi",
+        "QQ": "1776296661",
+        "Afdian": "https://space.bilibili.com/768300"
+      },
+      "badges": [
+        "high-output",
+        "recommended"
+      ]
+    },
+    "0103": {
+      "name": [
+        "#浅陌菌"
+      ],
+      "readme": "0103-浅陌菌/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/24513198",
+        "QQ": "1063585053",
+        "Afdian": "https://afdian.com/a/tc_fox"
+      },
+      "badges": [
+        "high-output",
+        "recommended"
+      ]
+    },
+    "0104": {
+      "name": [
+        "#科列夫斯基",
+        "Kolevsky128"
+      ],
+      "readme": "0104-科列夫斯基,Kolevsky128/README.md",
+      "platforms": {
+        "Twitter": "https://x.com/Kolevsky128",
+        "Bilibili": "https://space.bilibili.com/1504662164",
+        "Afdian": "https://afdian.com/a/Kolevsky",
+        "Unifans": "https://app.unifans.io/c/kolevsky"
+      }
+    },
+    "0105": {
+      "name": [
+        "#超级大鸡腿丶",
+        "#Nss"
+      ],
+      "readme": "0105-超级大鸡腿丶,Nss/README.md",
+      "platforms": {}
+    },
+    "0106": {
+      "name": [
+        "#ナヒーダ"
+      ],
+      "readme": "0106-ナヒーダ/README.md",
+      "platforms": {
+        "QQ": "639518184"
+      }
+    },
+    "0107": {
+      "name": [
+        "#宇宙影帝の终焉"
+      ],
+      "readme": "0107-宇宙影帝の终焉/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/364412316/",
+        "QQ": "3249851858",
+        "Afdian": "https://ifdian.net/a/redder_p"
+      }
+    },
+    "0108": {
+      "name": [
+        "#原原本本空空"
+      ],
+      "readme": "0108-原原本本空空/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/407818720",
+        "QQ": "1082258207"
+      }
+    },
+    "0109": {
+      "name": [
+        "#水神"
+      ],
+      "readme": "0109-水神/README.md",
+      "platforms": {}
+    },
+    "0110": {
+      "name": [
+        "雅音宫羽"
+      ],
+      "readme": "0110-雅音宫羽/README.md",
+      "platforms": {
+        "Game": "#Unknown",
+        "Role": "#模型 #动作 #动画 | #Model #Motion #Animation"
+      }
+    },
+    "0111": {
+      "name": [
+        "#奶油桃NaytoTime",
+        "#奶油桃"
+      ],
+      "readme": "0111-奶油桃NaytoTime,奶油桃/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/74167922",
+        "Afdian": "https://afdian.com/a/liberstellae"
+      }
+    },
+    "0112": {
+      "name": [
+        "#大莫家",
+        "#MCZ工作室",
+        "#mcz莫莫",
+        "#犟猫"
+      ],
+      "readme": "0112-大莫家,MCZ工作室,mcz莫莫,犟猫/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/385797854",
+        "QQ": "167941105 已满",
+        "Afdian": "https://afdian.com/a/mcz_8888",
+        "QQ-Group": "167941105 已满"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0113": {
+      "name": [
+        "#秋风",
+        "#每天都睡不醒的秋风",
+        "#睡不死死不睡的秋风"
+      ],
+      "readme": "0113-秋风,每天都睡不醒的秋风,睡不死死不睡的秋风/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/375227559",
+        "Afdian": "https://afdian.com/a/qf0224"
+      },
+      "badges": [
+        "nsfw"
+      ]
+    },
+    "0114": {
+      "name": [
+        "#迷糊晓雾"
+      ],
+      "readme": "0114-迷糊晓雾/README.md",
+      "platforms": {
+        "QQ": "3313645023",
+        "E-mail": "3313645023@qq.com"
+      }
+    },
+    "0115": {
+      "name": [
+        "#荒漠"
+      ],
+      "readme": "0115-荒漠/README.md",
+      "platforms": {}
+    },
+    "0116": {
+      "name": [
+        "#1111111re",
+        "#伊伊蕾"
+      ],
+      "readme": "0116-1111111re,伊伊蕾/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/35073555",
+        "QQ": "769939358",
+        "Afdian": "https://afdian.com/a/114514yire"
+      }
+    },
+    "0117": {
+      "name": [
+        "#聚模道",
+        "#聚核重工Minecraft",
+        "#语文喵喵拳"
+      ],
+      "readme": "0117-聚模道,聚核重工Minecraft,语文喵喵拳/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/450162369",
+        "Afdian": "https://afdian.com/a/yr9964332"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0118": {
+      "name": [
+        "Mr黄金君"
+      ],
+      "readme": "0118-Mr黄金君/README.md",
+      "platforms": {}
+    },
+    "0119": {
+      "name": [
+        "#奇葩的小毛"
+      ],
+      "readme": "0119-奇葩的小毛/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/642514655"
+      }
+    },
+    "0120": {
+      "name": [
+        "Nicy_奈汐",
+        "苏溟0w0",
+        "沐星喵OwO",
+        "星咲不是白桃",
+        "星见时璃_Tokiri"
+      ],
+      "readme": "0120-Nicy_奈汐,苏溟0w0,沐星喵OwO,星咲不是白桃,星见时璃_Tokiri/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/171415484",
+        "QQ": "743807609"
+      },
+      "badges": []
+    },
+    "0121": {
+      "name": [
+        "#准尉werner"
+      ],
+      "readme": "0121-准尉werner/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/23427031",
+        "QQ": "1102665952"
+      }
+    },
+    "0122": {
+      "name": [
+        "#茶-GreenTea"
+      ],
+      "readme": "0122-茶-GreenTea/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/458058211"
+      }
+    },
+    "0123": {
+      "name": [
+        "#Anrieal"
+      ],
+      "readme": "0123-Anrieal/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1421932069"
+      }
+    },
+    "0124": {
+      "name": [
+        "#超吊的点点"
+      ],
+      "readme": "0124-超吊的点点/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/123656442",
+        "QQ": "581856520"
+      }
+    },
+    "0125": {
+      "name": [
+        "#辅助EinHeld"
+      ],
+      "readme": "0125-辅助EinHeld/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/483015918"
+      }
+    },
+    "0126": {
+      "name": [
+        "#空洞qwq"
+      ],
+      "readme": "0126-空洞qwq/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1230961559"
+      }
+    },
+    "0127": {
+      "name": [
+        "#总督神绮"
+      ],
+      "readme": "0127-总督神绮/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/37854534",
+        "Afdian": "https://ifdian.net/a/sShinki"
+      }
+    },
+    "0128": {
+      "name": [
+        "#Ark样本"
+      ],
+      "readme": "0128-Ark样本/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3081780"
+      }
+    },
+    "0129": {
+      "name": [
+        "#Dr观星",
+        "#Dr-观星"
+      ],
+      "readme": "0129-Dr观星,Dr-观星/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/157282636",
+        "QQ": "1087347018"
+      },
+      "badges": [
+        "high-output"
+      ]
+    },
+    "0130": {
+      "name": [
+        "#断罪千念"
+      ],
+      "readme": "0130-断罪千念/README.md",
+      "platforms": {}
+    },
+    "0131": {
+      "name": [
+        "#星璇_tbod"
+      ],
+      "readme": "0131-星璇_tbod/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/2123185882"
+      }
+    },
+    "0132": {
+      "name": [
+        "#qf欸",
+        "#qf"
+      ],
+      "readme": "0132-qf欸,qf/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/452194950"
+      }
+    },
+    "0133": {
+      "name": [
+        "#SI_VD"
+      ],
+      "readme": "0133-SI_VD/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1413470251",
+        "Afdian": "https://ifdian.net/a/3832254VD"
+      }
+    },
+    "0134": {
+      "name": [
+        "#黑喵みそ"
+      ],
+      "readme": "0134-黑喵みそ/README.md",
+      "platforms": {}
+    },
+    "0135": {
+      "name": [
+        "#Lvara"
+      ],
+      "readme": "0135-Lvara/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/34068391",
+        "QQ": "1477827530",
+        "E-mail": "1477827530@qq.com"
+      }
+    },
+    "0136": {
+      "name": [
+        "#Fllz"
+      ],
+      "readme": "0136-Fllz/README.md",
+      "platforms": {
+        "Facebook": "https://www.facebook.com/asche.scheer",
+        "Pixiv": "https://www.pixiv.net/users/34822407",
+        "VGen": "https://vgen.co/fllz"
+      }
+    },
+    "0137": {
+      "name": [
+        "#Maks",
+        "#Maks怜悯"
+      ],
+      "readme": "0137-Maks,Maks怜悯/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/352177387",
+        "QQ": "1047117247"
+      }
+    },
+    "0138": {
+      "name": [
+        "#夜森岚_Noxsil"
+      ],
+      "readme": "0138-夜森岚_Noxsil/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3706963248548243",
+        "QQ": "3910084829"
+      }
+    },
+    "0139": {
+      "name": [
+        "#穿越小魔王"
+      ],
+      "readme": "0139-穿越小魔王/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1562115685"
+      }
+    },
+    "0140": {
+      "name": [
+        "#TUTU秃"
+      ],
+      "readme": "0140-TUTU秃/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/88821626",
+        "Afdian": "https://afdian.com/a/tututugongfang"
+      }
+    },
+    "0141": {
+      "name": [
+        "#映白L",
+        "#映白"
+      ],
+      "readme": "0141-映白L,映白/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/10208258",
+        "Afdian": "https://afdian.com/a/ehaku"
+      }
+    },
+    "0142": {
+      "name": [
+        "#Omegaff0048",
+        "#FF0048"
+      ],
+      "readme": "0142-Omegaff0048,FF0048/README.md",
+      "platforms": {
+        "YouTube": "https://www.youtube.com/@omegaff0048"
+      }
+    },
+    "0143": {
+      "name": [
+        "#yuoke",
+        "#bili_yuoyuoyuo"
+      ],
+      "readme": "0143-yuoke,bili_yuoyuoyuo/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/497425837"
+      }
+    },
+    "0144": {
+      "name": [
+        "#叁雫MitsukuDayo"
+      ],
+      "readme": "0144-叁雫MitsukuDayo/README.md",
+      "platforms": {
+        "QQ": "2780077625",
+        "Afdian": "https://afdian.com/a/MitsukuDayo"
+      }
+    },
+    "0145": {
+      "name": [
+        "#咕咕鸡",
+        "#咕咕叫的小菜鸡"
+      ],
+      "readme": "0145-咕咕鸡,咕咕叫的小菜鸡/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/11989730",
+        "Afdian": "https://afdian.com/a/GuGuChicken"
+      }
+    },
+    "0146": {
+      "name": [
+        "#泉溪鸽"
+      ],
+      "readme": "0146-泉溪鸽/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/44619913"
+      }
+    },
+    "0147": {
+      "name": [
+        "#清晨的一阵风"
+      ],
+      "readme": "0147-清晨的一阵风/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/510956578"
+      }
+    },
+    "0148": {
+      "name": [
+        "#黑喵"
+      ],
+      "readme": "0148-黑喵/README.md",
+      "platforms": {}
+    },
+    "0149": {
+      "name": [
+        "#安欣"
+      ],
+      "readme": "0149-安欣/README.md",
+      "platforms": {
+        "Afdian": "https://afdian.com/a/Anxin520X"
+      }
+    },
+    "0150": {
+      "name": [
+        "#幻梦星璇",
+        "#-幻梦星璇-"
+      ],
+      "readme": "0150-幻梦星璇,-幻梦星璇-/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/526060723",
+        "Afdian": "https://afdian.com/a/704550273Yy"
+      }
+    },
+    "0151": {
+      "name": [
+        "#WisteriaZy",
+        "#大触紫衣"
+      ],
+      "readme": "0151-WisteriaZy,大触紫衣/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/694519335"
+      }
+    },
+    "0152": {
+      "name": [
+        "#wwww琨"
+      ],
+      "readme": "0152-wwww琨/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/99065359",
+        "Afdian": "https://afdian.com/a/wwwwkun"
+      }
+    },
+    "0153": {
+      "name": [
+        "#绘飞"
+      ],
+      "readme": "0153-绘飞/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/8714030",
+        "Afdian": "https://afdian.com/a/huifei"
+      }
+    },
+    "0154": {
+      "name": [
+        "#银河铁道CRH2"
+      ],
+      "readme": "0154-银河铁道CRH2/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1605920",
+        "Afdian": "https://afdian.com/a/CRH233"
+      }
+    },
+    "0155": {
+      "name": [
+        "#叶无道_M"
+      ],
+      "readme": "0155-叶无道_M/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/11897609",
+        "Afdian": "https://afdian.com/a/YWDM333"
+      }
+    },
+    "0156": {
+      "name": [
+        "#Deovolente",
+        "#GhastRiv"
+      ],
+      "readme": "0156-Deovolente,GhastRiv/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/188295",
+        "Afdian": "https://afdian.com/a/Deovolente"
+      }
+    },
+    "0157": {
+      "name": [
+        "#TiRLey",
+        "#TiRLey二号机"
+      ],
+      "readme": "0157-TiRLey,TiRLey二号机/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/494506386",
+        "Afdian": "https://afdian.com/a/HSTVsuckBVMrelikt"
+      }
+    },
+    "0158": {
+      "name": [
+        "#兔兔猫officials",
+        "#阴阳兔兔猫offcial"
+      ],
+      "readme": "0158-兔兔猫officials,阴阳兔兔猫offcial/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546785165347464",
+        "Afdian": "https://ifdian.net/a/RABET"
+      }
+    },
+    "0159": {
+      "name": [
+        "#宅在佳",
+        "#宅在佳丶"
+      ],
+      "readme": "0159-宅在佳,宅在佳丶/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/400228841"
+      }
+    },
+    "0160": {
+      "name": [
+        "#-_-_-_-_草-_-_-_-",
+        "#ckdr251"
+      ],
+      "readme": "0160--_-_-_-_草-_-_-_-,ckdr251/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3493129483192453",
+        "Afdian": "https://afdian.com/a/ckdr251"
+      }
+    },
+    "0161": {
+      "name": [
+        "#失踪的李元"
+      ],
+      "readme": "0161-失踪的李元/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/505613984",
+        "Afdian": "https://afdian.com/a/ly3064421540"
+      }
+    },
+    "0162": {
+      "name": [
+        "#Rhein雨倩",
+        "#雨倩先生"
+      ],
+      "readme": "0162-Rhein雨倩,雨倩先生/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/35515394",
+        "Afdian": "https://afdian.com/a/Rheinyuq"
+      }
+    },
+    "0163": {
+      "name": [
+        "#toolat嫌晚",
+        "#toolat洗碗"
+      ],
+      "readme": "0163-toolat嫌晚,toolat洗碗/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1610653319",
+        "QQ": "324563469",
+        "Afdian": "https://afdian.com/a/123456xianwan"
+      }
+    },
+    "0164": {
+      "name": [
+        "#默栖",
+        "#某嘞个默栖",
+        "#默嘞个某栖"
+      ],
+      "readme": "0164-默栖,某嘞个默栖,默嘞个某栖/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/477165698",
+        "Afdian": "https://afdian.com/a/DLMoqi"
+      }
+    },
+    "0165": {
+      "name": [
+        "#棒锤锤",
+        "#棒锤锤QWQ"
+      ],
+      "readme": "0165-棒锤锤,棒锤锤QWQ/README.md",
+      "platforms": {
+        "Afdian": "https://afdian.com/a/bbc6868"
+      }
+    },
+    "0166": {
+      "name": [
+        "#炼狱在旅行"
+      ],
+      "readme": "0166-炼狱在旅行/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/2137283416"
+      }
+    },
+    "0167": {
+      "name": [
+        "#丁真蟹",
+        "#ZHEN"
+      ],
+      "readme": "0167-丁真蟹,ZHEN/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/652519489",
+        "Afdian": "https://afdian.com/a/ZHEN2023"
+      }
+    },
+    "0168": {
+      "name": [
+        "#ShiroKaze"
+      ],
+      "readme": "0168-ShiroKaze/README.md",
+      "platforms": {}
+    },
+    "0169": {
+      "name": [
+        "#木宁苒"
+      ],
+      "readme": "0169-木宁苒/README.md",
+      "platforms": {}
+    },
+    "0170": {
+      "name": [
+        "#艾卡斯特"
+      ],
+      "readme": "0170-艾卡斯特/README.md",
+      "platforms": {}
+    },
+    "0171": {
+      "name": [
+        "#艾卡"
+      ],
+      "readme": "0171-艾卡/README.md",
+      "platforms": {}
+    },
+    "0172": {
+      "name": [
+        "#流风LFly"
+      ],
+      "readme": "0172-流风LFly/README.md",
+      "platforms": {}
+    },
+    "0173": {
+      "name": [
+        "#鹘鸦Yata"
+      ],
+      "readme": "0173-鹘鸦Yata/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/402425842"
+      }
+    },
+    "0174": {
+      "name": [
+        "#集栎",
+        "#Nebulathus"
+      ],
+      "readme": "0174-集栎,Nebulathus/README.md",
+      "platforms": {}
+    },
+    "0175": {
+      "name": [
+        "#Bubuker",
+        "#rintaroa",
+        "#Torontopizza",
+        "#rintaroA"
+      ],
+      "readme": "0175-Bubuker,rintaroa,Torontopizza,rintaroA/README.md",
+      "platforms": {
+        "YouTube": "@rintaroA",
+        "Twitter": "Torontopizza",
+        "ko-fi": "rintaroa",
+        "Discord": "Bubuker"
+      }
+    },
+    "0176": {
+      "name": [
+        "#永夜极星_official",
+        "#永夜极星"
+      ],
+      "readme": "0176-永夜极星_official,永夜极星/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/504612792",
+        "QQ": "1909319978"
+      }
+    },
+    "0177": {
+      "name": [
+        "#qidai",
+        "#一点小期待"
+      ],
+      "readme": "0177-qidai,一点小期待/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/172318031"
+      }
+    },
+    "0178": {
+      "name": [
+        "#Cookiebox"
+      ],
+      "readme": "0178-Cookiebox/README.md",
+      "platforms": {}
+    },
+    "0179": {
+      "name": [
+        "#杂果沙拉"
+      ],
+      "readme": "0179-杂果沙拉/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/21032727"
+      }
+    },
+    "0180": {
+      "name": [
+        "#北上",
+        "#NorthWard"
+      ],
+      "readme": "0180-北上,NorthWard/README.md",
+      "platforms": {}
+    },
+    "0181": {
+      "name": [
+        "#不-择"
+      ],
+      "readme": "0181-不-择/README.md",
+      "platforms": {}
+    },
+    "0182": {
+      "name": [
+        "#Aaaaaaafeng"
+      ],
+      "readme": "0182-Aaaaaaafeng/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/12133120",
+        "QQ": "220993928",
+        "Afdian": "https://afdian.com/a/Aaaaaaafeng",
+        "Pixiv": "Aaaaaaafeng",
+        "QQ-Group": "220993928"
+      }
+    },
+    "0183": {
+      "name": [
+        "#MC-ZBM"
+      ],
+      "readme": "0183-MC-ZBM/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/604228173"
+      }
+    },
+    "0184": {
+      "name": [
+        "#滑滑滑纸隐",
+        "#滑纸隐"
+      ],
+      "readme": "0184-滑滑滑纸隐,滑纸隐/README.md",
+      "platforms": {}
+    },
+    "0185": {
+      "name": [
+        "#裤管炸了救救我"
+      ],
+      "readme": "0185-裤管炸了救救我/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/243846071"
+      }
+    },
+    "0186": {
+      "name": [
+        "#爱听书的旅人",
+        "#爱听小说的旅人"
+      ],
+      "readme": "0186-爱听书的旅人,爱听小说的旅人/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/128909195",
+        "Afdian": "https://afdian.com/a/ATSDLR"
+      }
+    },
+    "0187": {
+      "name": [
+        "#鸢尾"
+      ],
+      "readme": "0187-鸢尾/README.md",
+      "platforms": {},
+      "badges": [
+        "nsfw"
+      ]
+    },
+    "0188": {
+      "name": [
+        "#TIS长夜孤星"
+      ],
+      "readme": "0188-TIS长夜孤星/README.md",
+      "platforms": {}
+    },
+    "0189": {
+      "name": [
+        "#奈忒倪"
+      ],
+      "readme": "0189-奈忒倪/README.md",
+      "platforms": {}
+    },
+    "0190": {
+      "name": [
+        "#新隆肰懿"
+      ],
+      "readme": "0190-新隆肰懿/README.md",
+      "platforms": {}
+    },
+    "0191": {
+      "name": [
+        "#苏瑞铃",
+        "#苏瑞铃_official"
+      ],
+      "readme": "0191-苏瑞铃,苏瑞铃_official/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/37942254",
+        "Afdian": "https://ifdian.net/a/surainy"
+      },
+      "badges": [
+        "recommended"
+      ]
+    },
+    "0193": {
+      "name": [
+        "#一只键盘虾"
+      ],
+      "readme": "0193-一只键盘虾/README.md",
+      "platforms": {}
+    },
+    "0192": {
+      "name": [
+        "#咖喱饭饭好吃"
+      ],
+      "readme": "0192-咖喱饭饭好吃/README.md",
+      "platforms": {}
+    },
+    "0194": {
+      "name": [
+        "#秘糸西里"
+      ],
+      "readme": "0194-秘糸西里/README.md",
+      "platforms": {
+        "Afdian": "爱发电搜索“秘糸西里”",
+        "Bilibili": "B站搜索“秘糸西里”"
+      }
+    },
+    "0195": {
+      "name": [
+        "#比那名居天然气"
+      ],
+      "readme": "0195-比那名居天然气/README.md",
+      "platforms": {
+        "Afdian": "no",
+        "Bilibili": "https://space.bilibili.com/167202500?spm_id_from=333.999.0.0",
+        "Bilibili-1": "https://space.bilibili.com/167202500",
+        "Bilibili-2": "https://space.bilibili.com/167202500"
+      }
+    },
+    "0196": {
+      "name": [
+        "#楸冥Au_ming"
+      ],
+      "readme": "0196-楸冥Au_ming/README.md",
+      "platforms": {},
+      "team": "#映素 #映素作坊"
+    },
+    "0197": {
+      "name": [
+        "#kurumaマ"
+      ],
+      "readme": "0197-kurumaマ/README.md",
+      "platforms": {
+        "主页": "https://space.bilibili.com/76672787",
+        "Bilibili": "https://space.bilibili.com/76672787"
+      }
+    },
+    "0198": {
+      "name": [
+        "#星海同上"
+      ],
+      "readme": "0198-星海同上/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/1982130269"
+      }
+    },
+    "0199": {
+      "name": [
+        "Dumrnheint"
+      ],
+      "readme": "0199-Dumrnheint/README.md",
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/36644599"
+      }
+    },
+    "0200": {
+      "name": [
+        "消失的雨"
+      ],
+      "readme": "0200-消失的雨/README.md",
+      "platforms": {}
+    },
+    "0201": {
+      "name": [
+        "我是名名酱"
+      ],
+      "readme": "0201-我是名名酱/README.md",
+      "platforms": {}
+    },
+    "0202": {
+      "name": [
+        "亰瑔"
+      ],
+      "readme": "0202-亰瑔/README.md"
+    },
+    "0203": {
+      "name": [
+        "邶幽妲"
+      ],
+      "readme": "0203-邶幽妲/README.md",
+      "platforms": {
+        "Bilibili": "https://b23.tv/PLnTTqw"
+      }
+    },
+    "0204": {
+      "name": [
+        "DM朔风不想加班"
+      ],
+      "readme": "0204-DM朔风不想加班/README.md",
+      "platforms": {
+        "bilibli": "https://space.bilibili.com/430347964",
+        "小红书": "https://www.xiaohongshu.com/user/profile/616fc7720000000002027d06"
+      }
+    },
+    "0205": {
+      "name": [
+        "嚼铝赤城酸"
+      ],
+      "readme": "0205-嚼铝赤城酸/README.md",
+      "platforms": {}
+    },
+    "0206": {
+      "name": [
+        "暖笙小憨猪"
+      ],
+      "readme": "0206-暖笙小憨猪/README.md",
+      "platforms": {}
+    },
+    "0047": {
+      "name": [
+        "Nicy_奈汐",
+        "苏溟0w0",
+        "沐星喵OwO",
+        "星见时璃_Tokiri"
+      ],
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3494363390806334",
+        "QQ": "743807609"
+      }
+    },
+    "0207": {
+      "name": [
+        "失语喵"
+      ]
+    },
+    "0208": {
+      "name": [
+        "亰瑔",
+        "幻迹工坊"
+      ],
+      "platforms": {
+        "WeChat": "DreamCraft",
+        "QQ": "2630489378"
+      },
+      "team": "#幻迹工坊"
+    },
+    "0209": {
+      "name": [
+        "黑水凝云"
+      ],
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/2131418856"
+      }
+    },
+    "0210": {
+      "name": [
+        "三叶虫trita"
+      ],
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/3546853285038916"
+      }
+    },
+    "0211": {
+      "name": [
+        "墨染水"
+      ],
+      "platforms": {
+        "Bilibili": "https://space.bilibili.com/493968620",
+        "Afdian": "https://ifdian.net/a/Inkstain"
+      }
+    }
+  }
+}

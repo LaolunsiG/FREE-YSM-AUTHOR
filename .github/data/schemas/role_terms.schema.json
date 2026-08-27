@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "role_terms.schema.json",
+  "title": "角色术语表 role_terms.json",
+  "description": "把 .ysm 作者块 Role 的不同表达（中/英/日别名）归一为标准中英术语。terms 每项含 key/cn/en/aliases。",
+  "type": "object",
+  "required": ["terms"],
+  "properties": {
+    "version": { "type": "integer" },
+    "terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "zh", "en", "aliases"],
+        "properties": {
+          "key": { "type": "string" },
+          "zh": { "type": "string" },
+          "en": { "type": "string" },
+          "aliases": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6975 @@
+{
+  "version": "2.0",
+  "generated": "2026-08-24",
+  "characters": {
+    "300-Heroes": [
+      {
+        "zh": [
+          "缇米"
+        ],
+        "en": [
+          "timi"
+        ]
+      }
+    ],
+    "AH": [
+      {
+        "zh": [
+          "舞伶"
+        ],
+        "en": [
+          "wuling"
+        ]
+      }
+    ],
+    "AIC": [
+      {
+        "zh": [
+          "爱丽丝"
+        ],
+        "en": [
+          "Alice"
+        ]
+      },
+      {
+        "zh": [
+          "诺艾儿",
+          "诺艾尔"
+        ],
+        "en": [
+          "Noelle"
+        ]
+      }
+    ],
+    "AIRI": [
+      {
+        "zh": [
+          "亚托莉"
+        ],
+        "en": [
+          "atri"
+        ]
+      }
+    ],
+    "AK": [
+      {
+        "zh": [
+          "Mon3tr"
+        ],
+        "en": [
+          "mon3tr",
+          "m3"
+        ]
+      },
+      {
+        "zh": [
+          "临光"
+        ],
+        "en": [
+          "nearl"
+        ]
+      },
+      {
+        "zh": [
+          "令"
+        ],
+        "en": [
+          "ling"
+        ]
+      },
+      {
+        "zh": [
+          "伊内丝"
+        ],
+        "en": [
+          "ines"
+        ]
+      },
+      {
+        "zh": [
+          "伊芙利特"
+        ],
+        "en": [
+          "ifrit"
+        ]
+      },
+      {
+        "zh": [
+          "余"
+        ],
+        "en": [
+          "yu"
+        ]
+      },
+      {
+        "zh": [
+          "佩佩"
+        ],
+        "en": [
+          "pepe"
+        ]
+      },
+      {
+        "zh": [
+          "傀影"
+        ],
+        "en": [
+          "phantom"
+        ]
+      },
+      {
+        "zh": [
+          "克洛丝"
+        ],
+        "en": [
+          "kroos"
+        ]
+      },
+      {
+        "zh": [
+          "凛冬"
+        ],
+        "en": [
+          "zima"
+        ]
+      },
+      {
+        "zh": [
+          "凯尔希"
+        ],
+        "en": [
+          "kal'tsit"
+        ]
+      },
+      {
+        "zh": [
+          "初雪"
+        ],
+        "en": [
+          "pramanix"
+        ]
+      },
+      {
+        "zh": [
+          "刻刀"
+        ],
+        "en": [
+          "cutter"
+        ]
+      },
+      {
+        "zh": [
+          "华法琳"
+        ],
+        "en": [
+          "warfarin"
+        ]
+      },
+      {
+        "zh": [
+          "卡涅利安"
+        ],
+        "en": [
+          "carnelian"
+        ]
+      },
+      {
+        "zh": [
+          "古米"
+        ],
+        "en": [
+          "gummy"
+        ]
+      },
+      {
+        "zh": [
+          "可露希尔"
+        ],
+        "en": [
+          "closure"
+        ]
+      },
+      {
+        "zh": [
+          "史尔特尔"
+        ],
+        "en": [
+          "surtr"
+        ]
+      },
+      {
+        "zh": [
+          "号角"
+        ],
+        "en": [
+          "horn"
+        ]
+      },
+      {
+        "zh": [
+          "司霆惊蛰",
+          "惊蛰"
+        ],
+        "en": [
+          "santalla",
+          "siting-jingzhe"
+        ]
+      },
+      {
+        "zh": [
+          "圣约送葬人"
+        ],
+        "en": [
+          "executor-the-ex-foedere"
+        ]
+      },
+      {
+        "zh": [
+          "塑心"
+        ],
+        "en": [
+          "virtuosa"
+        ]
+      },
+      {
+        "zh": [
+          "塞雷娅"
+        ],
+        "en": [
+          "saria"
+        ]
+      },
+      {
+        "zh": [
+          "夕"
+        ],
+        "en": [
+          "dusk"
+        ]
+      },
+      {
+        "zh": [
+          "多萝西"
+        ],
+        "en": [
+          "dorothy"
+        ]
+      },
+      {
+        "zh": [
+          "夜莺"
+        ],
+        "en": [
+          "nightingale"
+        ]
+      },
+      {
+        "zh": [
+          "天狼星"
+        ],
+        "en": [
+          "sirius"
+        ]
+      },
+      {
+        "zh": [
+          "娜仁图亚"
+        ],
+        "en": [
+          "narantuya"
+        ]
+      },
+      {
+        "zh": [
+          "守林人"
+        ],
+        "en": [
+          "firewatch"
+        ]
+      },
+      {
+        "zh": [
+          "安洁莉娜"
+        ],
+        "en": [
+          "angelina"
+        ]
+      },
+      {
+        "zh": [
+          "山"
+        ],
+        "en": [
+          "mountain"
+        ]
+      },
+      {
+        "zh": [
+          "崖心"
+        ],
+        "en": [
+          "cliffheart"
+        ]
+      },
+      {
+        "zh": [
+          "嵯峨"
+        ],
+        "en": [
+          "saga"
+        ]
+      },
+      {
+        "zh": [
+          "巫恋"
+        ],
+        "en": [
+          "shamare-witchfeast"
+        ]
+      },
+      {
+        "zh": [
+          "帕拉斯"
+        ],
+        "en": [
+          "pallas"
+        ]
+      },
+      {
+        "zh": [
+          "年"
+        ],
+        "en": [
+          "nian",
+          "nian-2"
+        ]
+      },
+      {
+        "zh": [
+          "归溟幽灵鲨",
+          "幽灵鲨"
+        ],
+        "en": [
+          "specter-the-unchained",
+          "specter"
+        ]
+      },
+      {
+        "zh": [
+          "德克萨斯"
+        ],
+        "en": [
+          "texas"
+        ]
+      },
+      {
+        "zh": [
+          "忍冬"
+        ],
+        "en": [
+          "vulpisfoglia"
+        ]
+      },
+      {
+        "zh": [
+          "慕斯"
+        ],
+        "en": [
+          "mousse"
+        ]
+      },
+      {
+        "zh": [
+          "推进之王"
+        ],
+        "en": [
+          "siege"
+        ]
+      },
+      {
+        "zh": [
+          "提丰"
+        ],
+        "en": [
+          "typhon"
+        ]
+      },
+      {
+        "zh": [
+          "斥罪"
+        ],
+        "en": [
+          "penance"
+        ]
+      },
+      {
+        "zh": [
+          "斯卡蒂"
+        ],
+        "en": [
+          "skadi"
+        ]
+      },
+      {
+        "zh": [
+          "新约能天使",
+          "能天使"
+        ],
+        "en": [
+          "exusiai-the-new-covenant",
+          "exusiai"
+        ]
+      },
+      {
+        "zh": [
+          "早露"
+        ],
+        "en": [
+          "rosa"
+        ]
+      },
+      {
+        "zh": [
+          "星极"
+        ],
+        "en": [
+          "astesia"
+        ]
+      },
+      {
+        "zh": [
+          "星熊"
+        ],
+        "en": [
+          "hoshiguma"
+        ]
+      },
+      {
+        "zh": [
+          "普瑞赛斯"
+        ],
+        "en": [
+          "priestess"
+        ]
+      },
+      {
+        "zh": [
+          "普罗旺斯"
+        ],
+        "en": [
+          "provence"
+        ]
+      },
+      {
+        "zh": [
+          "极光"
+        ],
+        "en": [
+          "aurora"
+        ]
+      },
+      {
+        "zh": [
+          "极境"
+        ],
+        "en": [
+          "elysium"
+        ]
+      },
+      {
+        "zh": [
+          "桃金娘"
+        ],
+        "en": [
+          "myrtle"
+        ]
+      },
+      {
+        "zh": [
+          "梅"
+        ],
+        "en": [
+          "may"
+        ]
+      },
+      {
+        "zh": [
+          "梅尔"
+        ],
+        "en": [
+          "mayer"
+        ]
+      },
+      {
+        "zh": [
+          "棘刺"
+        ],
+        "en": [
+          "thorns"
+        ]
+      },
+      {
+        "zh": [
+          "森蚺"
+        ],
+        "en": [
+          "eunectes"
+        ]
+      },
+      {
+        "zh": [
+          "歌蕾蒂娅"
+        ],
+        "en": [
+          "gladiia"
+        ]
+      },
+      {
+        "zh": [
+          "武装流泪猫猫头"
+        ],
+        "en": [
+          "jessica"
+        ]
+      },
+      {
+        "zh": [
+          "水月"
+        ],
+        "en": [
+          "mizuki"
+        ]
+      },
+      {
+        "zh": [
+          "泥岩"
+        ],
+        "en": [
+          "mudrock"
+        ]
+      },
+      {
+        "zh": [
+          "浊心斯卡蒂"
+        ],
+        "en": [
+          "skadi-the-corrupting-heart"
+        ]
+      },
+      {
+        "zh": [
+          "温蒂"
+        ],
+        "en": [
+          "weedy"
+        ]
+      },
+      {
+        "zh": [
+          "澄闪"
+        ],
+        "en": [
+          "goldenglow"
+        ]
+      },
+      {
+        "zh": [
+          "灰喉"
+        ],
+        "en": [
+          "greythroat"
+        ]
+      },
+      {
+        "zh": [
+          "灰烬"
+        ],
+        "en": [
+          "ash"
+        ],
+        "note": "联动：彩虹六号围攻"
+      },
+      {
+        "zh": [
+          "灵知"
+        ],
+        "en": [
+          "gnosis"
+        ]
+      },
+      {
+        "zh": [
+          "炎客"
+        ],
+        "en": [
+          "flamebringer"
+        ]
+      },
+      {
+        "zh": [
+          "焰尾"
+        ],
+        "en": [
+          "flametail"
+        ]
+      },
+      {
+        "zh": [
+          "煌"
+        ],
+        "en": [
+          "blaze"
+        ]
+      },
+      {
+        "zh": [
+          "爱布拉娜"
+        ],
+        "en": [
+          "eblana"
+        ]
+      },
+      {
+        "zh": [
+          "特蕾西娅"
+        ],
+        "en": [
+          "theresa"
+        ]
+      },
+      {
+        "zh": [
+          "玛恩纳"
+        ],
+        "en": [
+          "mlynar"
+        ]
+      },
+      {
+        "zh": [
+          "琴柳"
+        ],
+        "en": [
+          "saileach"
+        ]
+      },
+      {
+        "zh": [
+          "瑕光"
+        ],
+        "en": [
+          "blemishine"
+        ]
+      },
+      {
+        "zh": [
+          "白金"
+        ],
+        "en": [
+          "platinum"
+        ]
+      },
+      {
+        "zh": [
+          "白铁"
+        ],
+        "en": [
+          "stainless"
+        ]
+      },
+      {
+        "zh": [
+          "白面鸮"
+        ],
+        "en": [
+          "ptilopsis"
+        ]
+      },
+      {
+        "zh": [
+          "真理"
+        ],
+        "en": [
+          "istina"
+        ]
+      },
+      {
+        "zh": [
+          "空弦"
+        ],
+        "en": [
+          "archetto"
+        ]
+      },
+      {
+        "zh": [
+          "红"
+        ],
+        "en": [
+          "projekt-red"
+        ]
+      },
+      {
+        "zh": [
+          "红豆"
+        ],
+        "en": [
+          "vigna"
+        ]
+      },
+      {
+        "zh": [
+          "纯烬艾雅法拉",
+          "艾雅法拉"
+        ],
+        "en": [
+          "eyjafjalla",
+          "eyjafjalla-the-hvit-aska"
+        ]
+      },
+      {
+        "zh": [
+          "绮良"
+        ],
+        "en": [
+          "kirara"
+        ]
+      },
+      {
+        "zh": [
+          "维什戴尔"
+        ],
+        "en": [
+          "wisadel",
+          "wiš'adel"
+        ]
+      },
+      {
+        "zh": [
+          "缄默德克萨斯"
+        ],
+        "en": [
+          "texas-the-omertosa"
+        ]
+      },
+      {
+        "zh": [
+          "缪尔赛思"
+        ],
+        "en": [
+          "muelsyse"
+        ]
+      },
+      {
+        "zh": [
+          "羽毛笔"
+        ],
+        "en": [
+          "lapluma"
+        ]
+      },
+      {
+        "zh": [
+          "羽生萌萌香"
+        ],
+        "en": [
+          "haruka"
+        ]
+      },
+      {
+        "zh": [
+          "耀骑士临光"
+        ],
+        "en": [
+          "nearl-the-radiant-knight"
+        ]
+      },
+      {
+        "zh": [
+          "老鲤"
+        ],
+        "en": [
+          "lee"
+        ]
+      },
+      {
+        "zh": [
+          "艾丽妮"
+        ],
+        "en": [
+          "irene"
+        ]
+      },
+      {
+        "zh": [
+          "苇草"
+        ],
+        "en": [
+          "reed-the-flame-shadow"
+        ]
+      },
+      {
+        "zh": [
+          "苏苏洛"
+        ],
+        "en": [
+          "sussurro"
+        ]
+      },
+      {
+        "zh": [
+          "荒芜拉普兰德",
+          "拉普兰德"
+        ],
+        "en": [
+          "lappland-the-decadenza",
+          "lappland"
+        ]
+      },
+      {
+        "zh": [
+          "莫斯提马"
+        ],
+        "en": [
+          "mostima"
+        ]
+      },
+      {
+        "zh": [
+          "莱伊"
+        ],
+        "en": [
+          "ray"
+        ]
+      },
+      {
+        "zh": [
+          "菲亚梅塔"
+        ],
+        "en": [
+          "fiammetta"
+        ]
+      },
+      {
+        "zh": [
+          "蓝毒"
+        ],
+        "en": [
+          "blue-poison"
+        ]
+      },
+      {
+        "zh": [
+          "诗怀雅"
+        ],
+        "en": [
+          "miesy"
+        ]
+      },
+      {
+        "zh": [
+          "调香师"
+        ],
+        "en": [
+          "Perfumer",
+          "tiaoxiangshi"
+        ]
+      },
+      {
+        "zh": [
+          "赫拉格"
+        ],
+        "en": [
+          "hellagur"
+        ]
+      },
+      {
+        "zh": [
+          "赫默"
+        ],
+        "en": [
+          "silence"
+        ]
+      },
+      {
+        "zh": [
+          "远牙"
+        ],
+        "en": [
+          "fartooth"
+        ]
+      },
+      {
+        "zh": [
+          "迷迭香"
+        ],
+        "en": [
+          "rosmontis"
+        ]
+      },
+      {
+        "zh": [
+          "送葬人"
+        ],
+        "en": [
+          "executor"
+        ]
+      },
+      {
+        "zh": [
+          "逻各斯"
+        ],
+        "en": [
+          "logos"
+        ]
+      },
+      {
+        "zh": [
+          "重岳"
+        ],
+        "en": [
+          "chongyue"
+        ]
+      },
+      {
+        "zh": [
+          "铃兰"
+        ],
+        "en": [
+          "suzuran"
+        ]
+      },
+      {
+        "zh": [
+          "银灰"
+        ],
+        "en": [
+          "silverash"
+        ]
+      },
+      {
+        "zh": [
+          "铸铁"
+        ],
+        "en": [
+          "coralcoast"
+        ]
+      },
+      {
+        "zh": [
+          "锏"
+        ],
+        "en": [
+          "degenbrecher"
+        ]
+      },
+      {
+        "zh": [
+          "锡兰"
+        ],
+        "en": [
+          "ceylon"
+        ]
+      },
+      {
+        "zh": [
+          "闪灵"
+        ],
+        "en": [
+          "shining"
+        ]
+      },
+      {
+        "zh": [
+          "阿米娅"
+        ],
+        "en": [
+          "amiya",
+          "amyia"
+        ]
+      },
+      {
+        "zh": [
+          "陈"
+        ],
+        "en": [
+          "ch'en"
+        ]
+      },
+      {
+        "zh": [
+          "陨星"
+        ],
+        "en": [
+          "meteorite"
+        ]
+      },
+      {
+        "zh": [
+          "隐德来希"
+        ],
+        "en": [
+          "entelechia"
+        ]
+      },
+      {
+        "zh": [
+          "霍尔海雅"
+        ],
+        "en": [
+          "ho'olheyak"
+        ]
+      },
+      {
+        "zh": [
+          "霜星"
+        ],
+        "en": [
+          "frostnova"
+        ]
+      },
+      {
+        "zh": [
+          "风笛"
+        ],
+        "en": [
+          "bagpipe"
+        ]
+      },
+      {
+        "zh": [
+          "食铁兽"
+        ],
+        "en": [
+          "feater"
+        ]
+      },
+      {
+        "zh": [
+          "麦哲伦"
+        ],
+        "en": [
+          "magallan"
+        ]
+      },
+      {
+        "zh": [
+          "黍"
+        ],
+        "en": [
+          "su"
+        ]
+      },
+      {
+        "zh": [
+          "黑"
+        ],
+        "en": [
+          "schwarz"
+        ]
+      }
+    ],
+    "AKE": [
+      {
+        "zh": [
+          "余烬"
+        ],
+        "en": [
+          "ember"
+        ]
+      },
+      {
+        "zh": [
+          "洛茜",
+          "洛茜娜・狼珀・卢皮诺"
+        ],
+        "en": [
+          "Rossi",
+          "Rossina-Wulfperl-Luppino"
+        ]
+      },
+      {
+        "zh": [
+          "莱万汀"
+        ],
+        "en": [
+          "laevatain"
+        ]
+      }
+    ],
+    "AL": [
+      {
+        "zh": [
+          "伊势"
+        ],
+        "en": [
+          "ise"
+        ]
+      },
+      {
+        "zh": [
+          "信浓"
+        ],
+        "en": [
+          "shinano"
+        ]
+      },
+      {
+        "zh": [
+          "兴登堡"
+        ],
+        "en": [
+          "hindenburg"
+        ]
+      },
+      {
+        "zh": [
+          "列克星敦"
+        ],
+        "en": [
+          "ii-lexington-ii"
+        ]
+      },
+      {
+        "zh": [
+          "利托里奥"
+        ],
+        "en": [
+          "littorio"
+        ]
+      },
+      {
+        "zh": [
+          "吸血鬼"
+        ],
+        "en": [
+          "vampire"
+        ]
+      },
+      {
+        "zh": [
+          "埃吉尔"
+        ],
+        "en": [
+          "kms-ägir"
+        ]
+      },
+      {
+        "zh": [
+          "大凤"
+        ],
+        "en": [
+          "taihou"
+        ]
+      },
+      {
+        "zh": [
+          "天城"
+        ],
+        "en": [
+          "amagi"
+        ]
+      },
+      {
+        "zh": [
+          "天狼星"
+        ],
+        "en": [
+          "sirius"
+        ]
+      },
+      {
+        "zh": [
+          "奇尔沙治"
+        ],
+        "en": [
+          "kearsarge"
+        ]
+      },
+      {
+        "zh": [
+          "尼米"
+        ],
+        "en": [
+          "z23"
+        ]
+      },
+      {
+        "zh": [
+          "尾张"
+        ],
+        "en": [
+          "owari"
+        ]
+      },
+      {
+        "zh": [
+          "山城"
+        ],
+        "en": [
+          "yamashiro"
+        ]
+      },
+      {
+        "zh": [
+          "山风"
+        ],
+        "en": [
+          "Yamakaze"
+        ]
+      },
+      {
+        "zh": [
+          "怨仇",
+          "怨仇级航空母舰"
+        ],
+        "en": [
+          "implacable"
+        ]
+      },
+      {
+        "zh": [
+          "恶毒"
+        ],
+        "en": [
+          "lemalin"
+        ]
+      },
+      {
+        "zh": [
+          "扶桑"
+        ],
+        "en": [
+          "fusou"
+        ]
+      },
+      {
+        "zh": [
+          "拉菲"
+        ],
+        "en": [
+          "laffey"
+        ]
+      },
+      {
+        "zh": [
+          "摩耶"
+        ],
+        "en": [
+          "maya"
+        ]
+      },
+      {
+        "zh": [
+          "新泽西"
+        ],
+        "en": [
+          "new-jersey",
+          "new-jersy"
+        ]
+      },
+      {
+        "zh": [
+          "柴郡"
+        ],
+        "en": [
+          "cheshire"
+        ]
+      },
+      {
+        "zh": [
+          "标枪"
+        ],
+        "en": [
+          "javelin"
+        ]
+      },
+      {
+        "zh": [
+          "欧根亲王"
+        ],
+        "en": [
+          "prinz-eugen"
+        ]
+      },
+      {
+        "zh": [
+          "武藏"
+        ],
+        "en": [
+          "ijn-musashi",
+          "musashi"
+        ]
+      },
+      {
+        "zh": [
+          "江风"
+        ],
+        "en": [
+          "kawakaze"
+        ]
+      },
+      {
+        "zh": [
+          "筑摩"
+        ],
+        "en": [
+          "chikuma"
+        ]
+      },
+      {
+        "zh": [
+          "约克城II"
+        ],
+        "en": [
+          "Yorktown‑II"
+        ]
+      },
+      {
+        "zh": [
+          "纳希莫夫海军上将"
+        ],
+        "en": [
+          "admiral-nakhimov"
+        ]
+      },
+      {
+        "zh": [
+          "绀紫之心"
+        ],
+        "en": [
+          "hdn-purple-heart"
+        ]
+      },
+      {
+        "zh": [
+          "绫波"
+        ],
+        "en": [
+          "ayanami"
+        ]
+      },
+      {
+        "zh": [
+          "莫加多尔"
+        ],
+        "en": [
+          "mogador"
+        ]
+      },
+      {
+        "zh": [
+          "长春"
+        ],
+        "en": [
+          "chang-chun"
+        ]
+      },
+      {
+        "zh": [
+          "长门"
+        ],
+        "en": [
+          "nagato"
+        ]
+      },
+      {
+        "zh": [
+          "长风"
+        ],
+        "en": [
+          "ch'ang feng"
+        ]
+      },
+      {
+        "zh": [
+          "阿尔萨斯"
+        ],
+        "en": [
+          "alsace"
+        ]
+      },
+      {
+        "zh": [
+          "阿达尔伯特亲王"
+        ],
+        "en": [
+          "prinz-adalbert"
+        ]
+      },
+      {
+        "zh": [
+          "雪风"
+        ],
+        "en": [
+          "kancollect-yukikaze",
+          "yukikaze"
+        ]
+      },
+      {
+        "zh": [
+          "鞍山"
+        ],
+        "en": [
+          "an-shan"
+        ]
+      },
+      {
+        "zh": [
+          "鲁普雷希特亲王"
+        ],
+        "en": [
+          "prinz-rupprecht"
+        ]
+      }
+    ],
+    "AliceInWonderland": [
+      {
+        "zh": [
+          "爱丽丝"
+        ],
+        "en": [
+          "Alice"
+        ]
+      }
+    ],
+    "Analog-Horror": [
+      {
+        "zh": [
+          "沸腾者",
+          "煮沸者"
+        ],
+        "en": [
+          "The-Boiled-One"
+        ]
+      },
+      {
+        "zh": [
+          "神之模型"
+        ],
+        "en": [
+          "The‑God‑Model"
+        ]
+      },
+      {
+        "zh": [
+          "蝗虫"
+        ],
+        "en": [
+          "The-Locust"
+        ]
+      }
+    ],
+    "Animal": [
+      {
+        "zh": [
+          "蟑螂娘"
+        ],
+        "en": [
+          "cockroach-girl"
+        ]
+      },
+      {
+        "zh": [
+          "鸭子"
+        ],
+        "en": [
+          "Duck"
+        ]
+      }
+    ],
+    "AP": [
+      {
+        "zh": [
+          "诺诺"
+        ],
+        "en": [
+          "nono"
+        ]
+      }
+    ],
+    "AstralParty": [
+      {
+        "zh": [
+          "南希露",
+          "网络魅影"
+        ],
+        "en": [
+          "nancylu"
+        ]
+      },
+      {
+        "zh": [
+          "太刀使"
+        ],
+        "en": [
+          "misaki"
+        ]
+      },
+      {
+        "zh": [
+          "芬妮"
+        ],
+        "en": [
+          "fanny"
+        ]
+      }
+    ],
+    "AveMujica": [
+      {
+        "zh": [
+          "三角初华"
+        ],
+        "en": [
+          "misumi-uika"
+        ]
+      },
+      {
+        "zh": [
+          "丰川祥子"
+        ],
+        "en": [
+          "togawa-sakiko"
+        ]
+      },
+      {
+        "zh": [
+          "八幡海铃",
+          "八幡海玲"
+        ],
+        "en": [
+          "yahata-umiri"
+        ]
+      },
+      {
+        "zh": [
+          "祐天寺若麦",
+          "喵梦"
+        ],
+        "en": [
+          "yutenji-wakaba",
+          "nyamu"
+        ]
+      },
+      {
+        "zh": [
+          "若叶睦"
+        ],
+        "en": [
+          "wakaba-mutsumi"
+        ]
+      }
+    ],
+    "BA": [
+      {
+        "zh": [
+          "一之濑明日奈",
+          "明日奈",
+          "阿苏娜"
+        ],
+        "en": [
+          "Ichinose-Asuna",
+          "Asuna-Ero",
+          "asuna"
+        ]
+      },
+      {
+        "zh": [
+          "七度雪乃"
+        ],
+        "en": [
+          "fox1"
+        ]
+      },
+      {
+        "zh": [
+          "下江小春",
+          "小春"
+        ],
+        "en": [
+          "shimoe koharu",
+          "shimoe-koharu"
+        ]
+      },
+      {
+        "zh": [
+          "丹花伊吹"
+        ],
+        "en": [
+          "tanga-ibuki"
+        ]
+      },
+      {
+        "zh": [
+          "伊吕波"
+        ],
+        "en": [
+          "iroha"
+        ]
+      },
+      {
+        "zh": [
+          "伊草遥香",
+          "遥香"
+        ],
+        "en": [
+          "igusa haruka",
+          "igusa-haruka",
+          "haruka"
+        ]
+      },
+      {
+        "zh": [
+          "伊落玛丽"
+        ],
+        "en": [
+          "iochi-marī"
+        ]
+      },
+      {
+        "zh": [
+          "十六夜野宫"
+        ],
+        "en": [
+          "izayoi-nonomi"
+        ]
+      },
+      {
+        "zh": [
+          "古关忧"
+        ],
+        "en": [
+          "kozeki-ui"
+        ]
+      },
+      {
+        "zh": [
+          "和乐千世"
+        ],
+        "en": [
+          "waraku-chise"
+        ]
+      },
+      {
+        "zh": [
+          "圣园未花",
+          "未花",
+          "末花"
+        ],
+        "en": [
+          "mika-misono",
+          "Mug_Mika",
+          "mika"
+        ]
+      },
+      {
+        "zh": [
+          "天童爱丽丝",
+          "爱丽丝"
+        ],
+        "en": [
+          "tendou-arisu"
+        ]
+      },
+      {
+        "zh": [
+          "奥空绫音"
+        ],
+        "en": [
+          "okusora-ayane"
+        ]
+      },
+      {
+        "zh": [
+          "妮可"
+        ],
+        "en": [
+          "fox2"
+        ]
+      },
+      {
+        "zh": [
+          "宇泽玲纱"
+        ],
+        "en": [
+          "uzawa-reisa"
+        ],
+        "ja": [
+          "宇沢レイサ"
+        ]
+      },
+      {
+        "zh": [
+          "小涂真纪"
+        ],
+        "en": [
+          "konuri-maki"
+        ]
+      },
+      {
+        "zh": [
+          "小钩晴"
+        ],
+        "en": [
+          "omagari-hare"
+        ]
+      },
+      {
+        "zh": [
+          "小鸟游星野",
+          "星野"
+        ],
+        "en": [
+          "takanashi-hoshino",
+          "hoshino"
+        ]
+      },
+      {
+        "zh": [
+          "戒野美咲"
+        ],
+        "en": [
+          "imashino-misaki"
+        ]
+      },
+      {
+        "zh": [
+          "才羽桃井"
+        ],
+        "en": [
+          "saiba-momoi"
+        ]
+      },
+      {
+        "zh": [
+          "才羽绿"
+        ],
+        "en": [
+          "saiba-midori"
+        ]
+      },
+      {
+        "zh": [
+          "日富美"
+        ],
+        "en": [
+          "ajitani-hifumi"
+        ]
+      },
+      {
+        "zh": [
+          "早濑优香"
+        ],
+        "en": [
+          "hayase-yūka"
+        ]
+      },
+      {
+        "zh": [
+          "春原心奈"
+        ],
+        "en": [
+          "sunohara-kokona"
+        ]
+      },
+      {
+        "zh": [
+          "春原瞬"
+        ],
+        "en": [
+          "sunohara shun"
+        ]
+      },
+      {
+        "zh": [
+          "普拉娜"
+        ],
+        "en": [
+          "plana"
+        ]
+      },
+      {
+        "zh": [
+          "月雪宫子"
+        ],
+        "en": [
+          "tsukiyuki-miyako"
+        ]
+      },
+      {
+        "zh": [
+          "杏山和纱"
+        ],
+        "en": [
+          "kyōyama-kazusa"
+        ]
+      },
+      {
+        "zh": [
+          "板垣鹿江"
+        ],
+        "en": [
+          "itagaki-kanoe"
+        ]
+      },
+      {
+        "zh": [
+          "柚鸟夏"
+        ],
+        "en": [
+          "yutori-natsu"
+        ]
+      },
+      {
+        "zh": [
+          "桐生桔梗"
+        ],
+        "en": [
+          "kiryū-kikyō"
+        ]
+      },
+      {
+        "zh": [
+          "桐藤渚",
+          "渚"
+        ],
+        "en": [
+          "kirifuji-nagisa"
+        ]
+      },
+      {
+        "zh": [
+          "槌永日和"
+        ],
+        "en": [
+          "tsuchinaga-hiyori"
+        ]
+      },
+      {
+        "zh": [
+          "樱井美代"
+        ],
+        "en": [
+          "sakurai-miyo"
+        ]
+      },
+      {
+        "zh": [
+          "橘光",
+          "橘光明",
+          "光"
+        ],
+        "en": [
+          "tachibana-hikari",
+          "hikari"
+        ]
+      },
+      {
+        "zh": [
+          "橘望",
+          "橘希望",
+          "望"
+        ],
+        "en": [
+          "tachibana-nozomi",
+          "nozomi"
+        ]
+      },
+      {
+        "zh": [
+          "浦和花子",
+          "花子"
+        ],
+        "en": [
+          "urawa-hanako"
+        ]
+      },
+      {
+        "zh": [
+          "爱清风香"
+        ],
+        "en": [
+          "aisei-fuuka"
+        ]
+      },
+      {
+        "zh": [
+          "狐坂若藻"
+        ],
+        "en": [
+          "kosaka-wakamo",
+          "wakamo"
+        ]
+      },
+      {
+        "zh": [
+          "生盐诺亚",
+          "诺亚"
+        ],
+        "en": [
+          "ushio-noa",
+          "noa"
+        ]
+      },
+      {
+        "zh": [
+          "白尾惠理"
+        ],
+        "en": [
+          "Shirao‑Eri"
+        ],
+        "ja": [
+          "白尾エリ"
+        ]
+      },
+      {
+        "zh": [
+          "白尾绘里"
+        ],
+        "en": [
+          "shirao-eri"
+        ]
+      },
+      {
+        "zh": [
+          "白洲梓"
+        ],
+        "en": [
+          "shirasu-azusa"
+        ]
+      },
+      {
+        "zh": [
+          "百合园圣娅",
+          "圣娅"
+        ],
+        "en": [
+          "yurizono-seia",
+          "shengya"
+        ]
+      },
+      {
+        "zh": [
+          "睦月"
+        ],
+        "en": [
+          "mutsuki"
+        ]
+      },
+      {
+        "zh": [
+          "砂狼白子",
+          "白子"
+        ],
+        "en": [
+          "sunaookami-shiroko"
+        ]
+      },
+      {
+        "zh": [
+          "秤亚津子",
+          "亚津子"
+        ],
+        "en": [
+          "hakari-atsuko"
+        ]
+      },
+      {
+        "zh": [
+          "空井咲"
+        ],
+        "en": [
+          "sorai-saki"
+        ]
+      },
+      {
+        "zh": [
+          "空崎日奈",
+          "日奈"
+        ],
+        "en": [
+          "sorasaki-hina",
+          "hina"
+        ]
+      },
+      {
+        "zh": [
+          "笑面教授"
+        ],
+        "en": [
+          "niyaniya"
+        ]
+      },
+      {
+        "zh": [
+          "羽川莲实"
+        ],
+        "en": [
+          "hanekawa-hasumi"
+        ]
+      },
+      {
+        "zh": [
+          "胡桃"
+        ],
+        "en": [
+          "fox3"
+        ]
+      },
+      {
+        "zh": [
+          "花岗柚子"
+        ],
+        "en": [
+          "hanaoka-yuzu"
+        ]
+      },
+      {
+        "zh": [
+          "若叶日向"
+        ],
+        "en": [
+          "wakaba-hinata"
+        ]
+      },
+      {
+        "zh": [
+          "调月莉音"
+        ],
+        "en": [
+          "tsukatsuki-rio"
+        ]
+      },
+      {
+        "zh": [
+          "锭前纱织"
+        ],
+        "en": [
+          "jomae-saori"
+        ]
+      },
+      {
+        "zh": [
+          "阿罗娜",
+          "阿罗纳"
+        ],
+        "en": [
+          "arona"
+        ]
+      },
+      {
+        "zh": [
+          "陆八魔阿露",
+          "阿露"
+        ],
+        "en": [
+          "rikuhachima-aru",
+          "aru"
+        ]
+      },
+      {
+        "zh": [
+          "霞泽美游",
+          "美游"
+        ],
+        "en": [
+          "miyu"
+        ]
+      },
+      {
+        "zh": [
+          "音濑小玉"
+        ],
+        "en": [
+          "otose kotama"
+        ]
+      },
+      {
+        "zh": [
+          "音葵"
+        ],
+        "en": [
+          "fox4"
+        ]
+      },
+      {
+        "zh": [
+          "风仓萌绘"
+        ],
+        "en": [
+          "kazekura-moe"
+        ]
+      },
+      {
+        "zh": [
+          "飞鸟马时"
+        ],
+        "en": [
+          "asuma-toki",
+          "toki"
+        ]
+      },
+      {
+        "zh": [
+          "鬼方佳代子",
+          "佳代子"
+        ],
+        "en": [
+          "onikata-kayoko",
+          "kayoko"
+        ]
+      },
+      {
+        "zh": [
+          "黑见芹香",
+          "黑见茜香"
+        ],
+        "en": [
+          "kuromi-serika",
+          "serika"
+        ]
+      },
+      {
+        "zh": [
+          "龙华妃咲"
+        ],
+        "en": [
+          "kisaki-ryuuge",
+          "ryūge-kisaki"
+        ]
+      }
+    ],
+    "BEA": [
+      {
+        "zh": [
+          "卡斯塔莉娅"
+        ],
+        "en": [
+          "Castalia"
+        ]
+      }
+    ],
+    "BRS": [
+      {
+        "zh": [
+          "黑岩射手"
+        ],
+        "en": [
+          "black-rock-shooter"
+        ]
+      }
+    ],
+    "BtR": [
+      {
+        "zh": [
+          "伊地知虹夏"
+        ],
+        "en": [
+          "nijika-ijichi"
+        ]
+      },
+      {
+        "zh": [
+          "后藤一里",
+          "波奇酱"
+        ],
+        "en": [
+          "gotoh-hitori",
+          "hitori-goto"
+        ]
+      },
+      {
+        "zh": [
+          "喜多郁代"
+        ],
+        "en": [
+          "kita-ikuyo"
+        ]
+      },
+      {
+        "zh": [
+          "酸甜凉",
+          "山田凉",
+          "凉爷"
+        ],
+        "en": [
+          "ryou-yamada"
+        ]
+      }
+    ],
+    "Cardcaptor": [
+      {
+        "zh": [
+          "大道寺知世"
+        ],
+        "en": [
+          "daidouji-tomoyo"
+        ]
+      },
+      {
+        "zh": [
+          "木之本樱"
+        ],
+        "en": [
+          "kinomoto-sakura"
+        ]
+      }
+    ],
+    "DAL": [
+      {
+        "zh": [
+          "四糸乃"
+        ],
+        "en": [
+          "yoshino"
+        ]
+      },
+      {
+        "zh": [
+          "夜刀神十香"
+        ],
+        "en": [
+          "yatogami-tohka"
+        ]
+      },
+      {
+        "zh": [
+          "崇宫澪"
+        ],
+        "en": [
+          "takamiya-mio"
+        ]
+      },
+      {
+        "zh": [
+          "时崎狂三"
+        ],
+        "en": [
+          "kurumi"
+        ]
+      },
+      {
+        "zh": [
+          "诱宵美九"
+        ],
+        "en": [
+          "izayoi-miku"
+        ]
+      },
+      {
+        "zh": [
+          "鸢一折纸"
+        ],
+        "en": [
+          "itsuka-origami"
+        ]
+      }
+    ],
+    "Delta-Force": [
+      {
+        "zh": [
+          "露娜"
+        ],
+        "en": [
+          "luna-kim"
+        ]
+      }
+    ],
+    "DM": [
+      {
+        "zh": [
+          "玛露西尔"
+        ],
+        "en": [
+          "marcille"
+        ]
+      }
+    ],
+    "DMC": [
+      {
+        "zh": [
+          "维吉尔"
+        ],
+        "en": [
+          "Vergil"
+        ]
+      }
+    ],
+    "DOA": [
+      {
+        "zh": [
+          "玛丽萝斯"
+        ],
+        "en": [
+          "marie-rose"
+        ]
+      }
+    ],
+    "DOHNA": [
+      {
+        "zh": [
+          "菊千代"
+        ],
+        "en": [
+          "mibu-kikuchiyo"
+        ]
+      }
+    ],
+    "DR": [
+      {
+        "zh": [
+          "夏弥"
+        ],
+        "en": [
+          "jormungandr"
+        ]
+      }
+    ],
+    "Fate": [
+      {
+        "zh": [
+          "伊莉雅丝菲尔"
+        ],
+        "en": [
+          "illyasviel"
+        ]
+      }
+    ],
+    "FGO": [
+      {
+        "zh": [
+          "伽摩"
+        ],
+        "en": [
+          "kama"
+        ]
+      },
+      {
+        "zh": [
+          "克洛伊·冯·爱因兹贝伦",
+          "克洛伊"
+        ],
+        "en": [
+          "chloe-von-einzbern",
+          "chloe"
+        ]
+      },
+      {
+        "zh": [
+          "卫宫士郎"
+        ],
+        "en": [
+          "emiya"
+        ]
+      },
+      {
+        "zh": [
+          "妖精骑士·兰斯洛特"
+        ],
+        "en": [
+          "fairy-knight-lancelot"
+        ]
+      },
+      {
+        "zh": [
+          "尼禄·克劳狄乌斯",
+          "尼禄"
+        ],
+        "en": [
+          "nero-claudius",
+          "nero"
+        ]
+      },
+      {
+        "zh": [
+          "格蕾"
+        ],
+        "en": [
+          "gray"
+        ]
+      },
+      {
+        "zh": [
+          "清少纳言"
+        ],
+        "en": [
+          "sei-shonagon"
+        ]
+      },
+      {
+        "zh": [
+          "玛修·基列莱特",
+          "玛修"
+        ],
+        "en": [
+          "mash-kyrielight",
+          "mash"
+        ]
+      },
+      {
+        "zh": [
+          "贞德"
+        ],
+        "en": [
+          "joan-of-arc"
+        ]
+      },
+      {
+        "zh": [
+          "间桐樱"
+        ],
+        "en": [
+          "sakurafate"
+        ]
+      },
+      {
+        "zh": [
+          "阿基米德"
+        ],
+        "en": [
+          "archimedes"
+        ]
+      },
+      {
+        "zh": [
+          "阿尔托莉雅・潘德拉贡"
+        ],
+        "en": [
+          "saber-artoria-pendragon"
+        ]
+      }
+    ],
+    "FHZ": [
+      {
+        "zh": [
+          "茉莉"
+        ],
+        "en": [
+          "mori"
+        ]
+      }
+    ],
+    "Final-Gear": [
+      {
+        "zh": [
+          "爱塔"
+        ],
+        "en": [
+          "Aita"
+        ]
+      }
+    ],
+    "Frieren": [
+      {
+        "zh": [
+          "芙莉莲"
+        ],
+        "en": [
+          "frieren"
+        ]
+      },
+      {
+        "zh": [
+          "菲伦"
+        ],
+        "en": [
+          "fern"
+        ]
+      }
+    ],
+    "FSM": [
+      {
+        "zh": [
+          "东方月初"
+        ],
+        "en": [
+          "dongfang-yuechu"
+        ]
+      },
+      {
+        "zh": [
+          "东方淮竹"
+        ],
+        "en": [
+          "dongfang-huaizhu"
+        ]
+      },
+      {
+        "zh": [
+          "平丘月初"
+        ],
+        "en": [
+          "pingqiu-yuechu"
+        ]
+      },
+      {
+        "zh": [
+          "律笺文"
+        ],
+        "en": [
+          "lvjianwen"
+        ]
+      },
+      {
+        "zh": [
+          "杨蔑"
+        ],
+        "en": [
+          "yangmie"
+        ]
+      },
+      {
+        "zh": [
+          "欢都擎天"
+        ],
+        "en": [
+          "huandu-qingtian"
+        ]
+      },
+      {
+        "zh": [
+          "涂山容容"
+        ],
+        "en": [
+          "tushan-rongrong"
+        ]
+      },
+      {
+        "zh": [
+          "涂山红红"
+        ],
+        "en": [
+          "tushan-honghong"
+        ]
+      },
+      {
+        "zh": [
+          "涂山苏苏"
+        ],
+        "en": [
+          "tushan-susu"
+        ]
+      },
+      {
+        "zh": [
+          "涂山雅雅"
+        ],
+        "en": [
+          "tushan-yaya"
+        ]
+      },
+      {
+        "zh": [
+          "清瞳"
+        ],
+        "en": [
+          "qingtong"
+        ]
+      },
+      {
+        "zh": [
+          "王富贵"
+        ],
+        "en": [
+          "wang-fugui"
+        ]
+      },
+      {
+        "zh": [
+          "王权富贵"
+        ],
+        "en": [
+          "wangquan-fugui"
+        ]
+      },
+      {
+        "zh": [
+          "王权霸业"
+        ],
+        "en": [
+          "wangquan-baye"
+        ]
+      },
+      {
+        "zh": [
+          "白月初"
+        ],
+        "en": [
+          "bai-yuechu"
+        ]
+      },
+      {
+        "zh": [
+          "翠玉灵"
+        ],
+        "en": [
+          "cuiyuling"
+        ]
+      },
+      {
+        "zh": [
+          "黑狐娘娘"
+        ],
+        "en": [
+          "heihu-niangniang"
+        ]
+      }
+    ],
+    "GBC": [
+      {
+        "zh": [
+          "井芹仁菜"
+        ],
+        "en": [
+          "iseri-nina"
+        ]
+      },
+      {
+        "zh": [
+          "卢帕"
+        ],
+        "en": [
+          "rupa"
+        ]
+      },
+      {
+        "zh": [
+          "原木桃香"
+        ],
+        "en": [
+          "kawaragi-momoka"
+        ]
+      },
+      {
+        "zh": [
+          "海老冢智"
+        ],
+        "en": [
+          "Ebizuka‑Tomo",
+          "Tomo"
+        ]
+      }
+    ],
+    "GBTT": [
+      {
+        "zh": [
+          "观束总二"
+        ],
+        "en": [
+          "tail-red"
+        ]
+      }
+    ],
+    "GCG": [
+      {
+        "zh": [
+          "时无瑕"
+        ],
+        "en": [
+          "shi-wuxia"
+        ]
+      }
+    ],
+    "GF": [
+      {
+        "zh": [
+          "AN-94"
+        ],
+        "en": [
+          "AN-94"
+        ]
+      },
+      {
+        "zh": [
+          "HK416",
+          "可露凯"
+        ],
+        "en": [
+          "hk416",
+          "klukai"
+        ]
+      },
+      {
+        "zh": [
+          "KP31",
+          "索米"
+        ],
+        "en": [
+          "kp31",
+          "suomi"
+        ]
+      },
+      {
+        "zh": [
+          "M200",
+          "夏安"
+        ],
+        "en": [
+          "m200",
+          "cheyanne"
+        ]
+      },
+      {
+        "zh": [
+          "UMP9",
+          "莱娜"
+        ],
+        "en": [
+          "ump9",
+          "lenna"
+        ]
+      },
+      {
+        "zh": [
+          "WA2000",
+          "玛绮朵"
+        ],
+        "en": [
+          "wa2000",
+          "macqiato"
+        ]
+      },
+      {
+        "zh": [
+          "丹德莱"
+        ],
+        "en": [
+          "dandelion"
+        ]
+      },
+      {
+        "zh": [
+          "芙洛伦"
+        ],
+        "en": [
+          "florence"
+        ]
+      }
+    ],
+    "GI": [
+      {
+        "zh": [
+          "七七"
+        ],
+        "en": [
+          "qiqi"
+        ]
+      },
+      {
+        "zh": [
+          "丽莎"
+        ],
+        "en": [
+          "lisa"
+        ]
+      },
+      {
+        "zh": [
+          "久岐忍"
+        ],
+        "en": [
+          "kuki-shinobu"
+        ]
+      },
+      {
+        "zh": [
+          "九条裟罗"
+        ],
+        "en": [
+          "kujou-sara"
+        ]
+      },
+      {
+        "zh": [
+          "云堇",
+          "云锦"
+        ],
+        "en": [
+          "yun-jin",
+          "yunjin"
+        ]
+      },
+      {
+        "zh": [
+          "五郎"
+        ],
+        "en": [
+          "gorou"
+        ]
+      },
+      {
+        "zh": [
+          "仆人"
+        ],
+        "en": [
+          "arlecchino"
+        ]
+      },
+      {
+        "zh": [
+          "伊安珊"
+        ],
+        "en": [
+          "iansan"
+        ]
+      },
+      {
+        "zh": [
+          "优菈"
+        ],
+        "en": [
+          "eula",
+          "youla"
+        ]
+      },
+      {
+        "zh": [
+          "克洛琳德"
+        ],
+        "en": [
+          "clorinde"
+        ]
+      },
+      {
+        "zh": [
+          "八重神子",
+          "神子"
+        ],
+        "en": [
+          "yae-miko"
+        ]
+      },
+      {
+        "zh": [
+          "凝光"
+        ],
+        "en": [
+          "ningguang"
+        ]
+      },
+      {
+        "zh": [
+          "凯亚"
+        ],
+        "en": [
+          "kaeya"
+        ]
+      },
+      {
+        "zh": [
+          "刻晴"
+        ],
+        "en": [
+          "keqing"
+        ]
+      },
+      {
+        "zh": [
+          "北斗"
+        ],
+        "en": [
+          "beidou"
+        ]
+      },
+      {
+        "zh": [
+          "千织"
+        ],
+        "en": [
+          "chiori",
+          "qianzhi"
+        ]
+      },
+      {
+        "zh": [
+          "卡维"
+        ],
+        "en": [
+          "kaveh"
+        ]
+      },
+      {
+        "zh": [
+          "卡齐娜"
+        ],
+        "en": [
+          "kachina"
+        ]
+      },
+      {
+        "zh": [
+          "可莉"
+        ],
+        "en": [
+          "klee"
+        ]
+      },
+      {
+        "zh": [
+          "哥伦比娅"
+        ],
+        "en": [
+          "columbina"
+        ]
+      },
+      {
+        "zh": [
+          "嘉明"
+        ],
+        "en": [
+          "gaming"
+        ]
+      },
+      {
+        "zh": [
+          "坎蒂丝"
+        ],
+        "en": [
+          "candace"
+        ]
+      },
+      {
+        "zh": [
+          "基尼奇"
+        ],
+        "en": [
+          "kinich"
+        ]
+      },
+      {
+        "zh": [
+          "夏沃蕾"
+        ],
+        "en": [
+          "chevreuse"
+        ]
+      },
+      {
+        "zh": [
+          "夏洛蒂"
+        ],
+        "en": [
+          "charlotte"
+        ]
+      },
+      {
+        "zh": [
+          "多莉"
+        ],
+        "en": [
+          "dori"
+        ]
+      },
+      {
+        "zh": [
+          "夜兰"
+        ],
+        "en": [
+          "yelan"
+        ]
+      },
+      {
+        "zh": [
+          "女士",
+          "罗莎琳",
+          "罗莎琳·克鲁兹希卡·洛厄法特"
+        ],
+        "en": [
+          "signora",
+          "la-signora",
+          "rosalyne-kruzchka-lohefalter"
+        ]
+      },
+      {
+        "zh": [
+          "妮露"
+        ],
+        "en": [
+          "nilou",
+          "nilu",
+          "nilu_nsfw"
+        ]
+      },
+      {
+        "zh": [
+          "娜维娅",
+          "纳维亚"
+        ],
+        "en": [
+          "navia",
+          "nawy"
+        ]
+      },
+      {
+        "zh": [
+          "安柏"
+        ],
+        "en": [
+          "amber"
+        ]
+      },
+      {
+        "zh": [
+          "宵宫"
+        ],
+        "en": [
+          "yoimiya",
+          "xiaogong"
+        ]
+      },
+      {
+        "zh": [
+          "希格雯"
+        ],
+        "en": [
+          "sigewinne"
+        ]
+      },
+      {
+        "zh": [
+          "希诺宁"
+        ],
+        "en": [
+          "xilonen"
+        ]
+      },
+      {
+        "zh": [
+          "恰斯卡"
+        ],
+        "en": [
+          "chasca"
+        ]
+      },
+      {
+        "zh": [
+          "托马"
+        ],
+        "en": [
+          "thoma"
+        ]
+      },
+      {
+        "zh": [
+          "提纳里"
+        ],
+        "en": [
+          "tighnari"
+        ]
+      },
+      {
+        "zh": [
+          "早柚"
+        ],
+        "en": [
+          "sayu"
+        ]
+      },
+      {
+        "zh": [
+          "林尼"
+        ],
+        "en": [
+          "lyney"
+        ]
+      },
+      {
+        "zh": [
+          "枫原万叶"
+        ],
+        "en": [
+          "kaedehara-kazuha"
+        ]
+      },
+      {
+        "zh": [
+          "柯莱"
+        ],
+        "en": [
+          "collei"
+        ]
+      },
+      {
+        "zh": [
+          "欧洛伦"
+        ],
+        "en": [
+          "ororon"
+        ]
+      },
+      {
+        "zh": [
+          "派蒙"
+        ],
+        "en": [
+          "paimon",
+          "paimeng"
+        ]
+      },
+      {
+        "zh": [
+          "流浪者",
+          "散兵"
+        ],
+        "en": [
+          "wanderer",
+          "scaramouche"
+        ]
+      },
+      {
+        "zh": [
+          "温迪"
+        ],
+        "en": [
+          "venti"
+        ]
+      },
+      {
+        "zh": [
+          "烟绯"
+        ],
+        "en": [
+          "yanfei"
+        ]
+      },
+      {
+        "zh": [
+          "爱可菲"
+        ],
+        "en": [
+          "escoffier"
+        ]
+      },
+      {
+        "zh": [
+          "玛拉妮"
+        ],
+        "en": [
+          "mualani"
+        ]
+      },
+      {
+        "zh": [
+          "玛薇卡"
+        ],
+        "en": [
+          "mavuika",
+          "maweika"
+        ]
+      },
+      {
+        "zh": [
+          "珊瑚宫心海"
+        ],
+        "en": [
+          "sangonomiya-kokomi"
+        ]
+      },
+      {
+        "zh": [
+          "珐露珊"
+        ],
+        "en": [
+          "faruzan"
+        ]
+      },
+      {
+        "zh": [
+          "班尼特"
+        ],
+        "en": [
+          "bennett"
+        ]
+      },
+      {
+        "zh": [
+          "琳妮特"
+        ],
+        "en": [
+          "lynette"
+        ]
+      },
+      {
+        "zh": [
+          "琴"
+        ],
+        "en": [
+          "jean"
+        ]
+      },
+      {
+        "zh": [
+          "瑶瑶"
+        ],
+        "en": [
+          "yaoyao"
+        ]
+      },
+      {
+        "zh": [
+          "瓦雷莎"
+        ],
+        "en": [
+          "varesa"
+        ]
+      },
+      {
+        "zh": [
+          "甘雨"
+        ],
+        "en": [
+          "ganyu"
+        ]
+      },
+      {
+        "zh": [
+          "申鹤"
+        ],
+        "en": [
+          "shenghe"
+        ]
+      },
+      {
+        "zh": [
+          "砂糖"
+        ],
+        "en": [
+          "sucrose"
+        ]
+      },
+      {
+        "zh": [
+          "神里绫人"
+        ],
+        "en": [
+          "kamisato-ayato"
+        ]
+      },
+      {
+        "zh": [
+          "神里绫华"
+        ],
+        "en": [
+          "kamisato-ayaka",
+          "shenlilinhua"
+        ]
+      },
+      {
+        "zh": [
+          "空"
+        ],
+        "en": [
+          "aether"
+        ]
+      },
+      {
+        "zh": [
+          "米卡"
+        ],
+        "en": [
+          "mika"
+        ]
+      },
+      {
+        "zh": [
+          "纳西妲"
+        ],
+        "en": [
+          "nahida"
+        ]
+      },
+      {
+        "zh": [
+          "绮良良"
+        ],
+        "en": [
+          "kirara"
+        ]
+      },
+      {
+        "zh": [
+          "罗莎莉亚"
+        ],
+        "en": [
+          "rosaria"
+        ]
+      },
+      {
+        "zh": [
+          "胡桃"
+        ],
+        "en": [
+          "hu-tao",
+          "hutao"
+        ]
+      },
+      {
+        "zh": [
+          "艾尔海森"
+        ],
+        "en": [
+          "alhaitham"
+        ]
+      },
+      {
+        "zh": [
+          "艾梅莉埃"
+        ],
+        "en": [
+          "emilie"
+        ]
+      },
+      {
+        "zh": [
+          "芙宁娜",
+          "芙芙"
+        ],
+        "en": [
+          "furina",
+          "impact"
+        ]
+      },
+      {
+        "zh": [
+          "芭芭拉"
+        ],
+        "en": [
+          "barbara"
+        ]
+      },
+      {
+        "zh": [
+          "茜特菈莉"
+        ],
+        "en": [
+          "citlali"
+        ]
+      },
+      {
+        "zh": [
+          "荒泷一斗"
+        ],
+        "en": [
+          "arataki-itto"
+        ]
+      },
+      {
+        "zh": [
+          "荧"
+        ],
+        "en": [
+          "lumine"
+        ]
+      },
+      {
+        "zh": [
+          "莫娜"
+        ],
+        "en": [
+          "mona"
+        ]
+      },
+      {
+        "zh": [
+          "莱依拉"
+        ],
+        "en": [
+          "layla"
+        ]
+      },
+      {
+        "zh": [
+          "莱欧斯利"
+        ],
+        "en": [
+          "wriothesley"
+        ]
+      },
+      {
+        "zh": [
+          "菲米尼"
+        ],
+        "en": [
+          "freminet"
+        ]
+      },
+      {
+        "zh": [
+          "菲谢尔",
+          "皇女"
+        ],
+        "en": [
+          "fischl"
+        ]
+      },
+      {
+        "zh": [
+          "蓝砚"
+        ],
+        "en": [
+          "lan-yan"
+        ]
+      },
+      {
+        "zh": [
+          "行秋"
+        ],
+        "en": [
+          "xingqiu"
+        ]
+      },
+      {
+        "zh": [
+          "诺艾尔"
+        ],
+        "en": [
+          "noelle"
+        ]
+      },
+      {
+        "zh": [
+          "赛索斯"
+        ],
+        "en": [
+          "sethos"
+        ]
+      },
+      {
+        "zh": [
+          "赛诺"
+        ],
+        "en": [
+          "cyno"
+        ]
+      },
+      {
+        "zh": [
+          "辛焱"
+        ],
+        "en": [
+          "xinyan",
+          "xinyi"
+        ]
+      },
+      {
+        "zh": [
+          "达达利亚",
+          "公子"
+        ],
+        "en": [
+          "tartaglia",
+          "childe"
+        ]
+      },
+      {
+        "zh": [
+          "迪卢克"
+        ],
+        "en": [
+          "diluc",
+          "diluke"
+        ]
+      },
+      {
+        "zh": [
+          "迪奥娜"
+        ],
+        "en": [
+          "diona"
+        ]
+      },
+      {
+        "zh": [
+          "迪希雅"
+        ],
+        "en": [
+          "dehya"
+        ]
+      },
+      {
+        "zh": [
+          "那维莱特"
+        ],
+        "en": [
+          "neuvillette"
+        ]
+      },
+      {
+        "zh": [
+          "重云"
+        ],
+        "en": [
+          "chongyun"
+        ]
+      },
+      {
+        "zh": [
+          "钟离"
+        ],
+        "en": [
+          "zhongli"
+        ]
+      },
+      {
+        "zh": [
+          "闲云"
+        ],
+        "en": [
+          "xianyun"
+        ]
+      },
+      {
+        "zh": [
+          "阿贝多"
+        ],
+        "en": [
+          "albedo"
+        ]
+      },
+      {
+        "zh": [
+          "雷泽"
+        ],
+        "en": [
+          "razor"
+        ]
+      },
+      {
+        "zh": [
+          "雷电将军"
+        ],
+        "en": [
+          "raiden-shogun"
+        ]
+      },
+      {
+        "zh": [
+          "香菱"
+        ],
+        "en": [
+          "xiangling"
+        ]
+      },
+      {
+        "zh": [
+          "魈"
+        ],
+        "en": [
+          "xiao"
+        ]
+      }
+    ],
+    "Granblue": [
+      {
+        "zh": [
+          "娜露梅亚"
+        ],
+        "en": [
+          "narmaya"
+        ]
+      }
+    ],
+    "HI3": [
+      {
+        "zh": [
+          "刻律德菈"
+        ],
+        "en": [
+          "Cerydra"
+        ]
+      },
+      {
+        "zh": [
+          "奥托.阿波卡利斯"
+        ],
+        "en": [
+          "otto-apocalypse"
+        ]
+      },
+      {
+        "zh": [
+          "布朗尼·迷城骇兔"
+        ],
+        "en": [
+          "bronee"
+        ]
+      },
+      {
+        "zh": [
+          "布洛妮娅"
+        ],
+        "en": [
+          "bronya-rand",
+          "绀海之约19c-bronya_zaychik"
+        ]
+      },
+      {
+        "zh": [
+          "希儿·绀海之忆"
+        ],
+        "en": [
+          "seeleseelesea"
+        ]
+      },
+      {
+        "zh": [
+          "希儿·芙乐艾"
+        ],
+        "en": [
+          "seele-vollerei",
+          "seele_nsfw"
+        ]
+      },
+      {
+        "zh": [
+          "帕朵菲莉丝"
+        ],
+        "en": [
+          "pardofelis"
+        ]
+      },
+      {
+        "zh": [
+          "幽兰戴尔"
+        ],
+        "en": [
+          "durandal"
+        ]
+      },
+      {
+        "zh": [
+          "无量塔姬子"
+        ],
+        "en": [
+          "murata-himeko"
+        ]
+      },
+      {
+        "zh": [
+          "爱莉希雅"
+        ],
+        "en": [
+          "elysia"
+        ]
+      },
+      {
+        "zh": [
+          "琪亚娜"
+        ],
+        "en": [
+          "kiana"
+        ]
+      },
+      {
+        "zh": [
+          "阿波尼亚"
+        ],
+        "en": [
+          "aponia"
+        ]
+      }
+    ],
+    "HLP": [
+      {
+        "zh": [
+          "伊卡洛斯"
+        ],
+        "en": [
+          "ikaros"
+        ]
+      }
+    ],
+    "HNM": [
+      {
+        "zh": [
+          "梅娅・S・艾菲梅拉尔"
+        ],
+        "en": [
+          "Mare-S.-Ephemeral"
+        ],
+        "ja": [
+          "メア＝S＝エフェメラル"
+        ]
+      },
+      {
+        "zh": [
+          "梦"
+        ],
+        "en": [
+          "yume",
+          "yume-spring",
+          "yume-summer"
+        ]
+      }
+    ],
+    "HNTSADL": [
+      {
+        "zh": [
+          "塞尔维"
+        ],
+        "en": []
+      }
+    ],
+    "HSR": [
+      {
+        "zh": [
+          "万敌"
+        ],
+        "en": [
+          "mydei",
+          "mydeimos"
+        ]
+      },
+      {
+        "zh": [
+          "三月七",
+          "三月"
+        ],
+        "en": [
+          "sanyue",
+          "march-7th"
+        ]
+      },
+      {
+        "zh": [
+          "停云"
+        ],
+        "en": [
+          "tingyun"
+        ]
+      },
+      {
+        "zh": [
+          "克拉拉"
+        ],
+        "en": [
+          "clara"
+        ]
+      },
+      {
+        "zh": [
+          "卡芙卡"
+        ],
+        "en": [
+          "kafka"
+        ]
+      },
+      {
+        "zh": [
+          "娜塔莎"
+        ],
+        "en": [
+          "natasha"
+        ]
+      },
+      {
+        "zh": [
+          "幻胧"
+        ],
+        "en": [
+          "phantylia"
+        ]
+      },
+      {
+        "zh": [
+          "忘归人"
+        ],
+        "en": [
+          "fugue"
+        ]
+      },
+      {
+        "zh": [
+          "昔涟",
+          "大昔涟"
+        ],
+        "en": [
+          "cyrene"
+        ]
+      },
+      {
+        "zh": [
+          "星期日"
+        ],
+        "en": [
+          "sunday"
+        ]
+      },
+      {
+        "zh": [
+          "流萤"
+        ],
+        "en": [
+          "firefly"
+        ]
+      },
+      {
+        "zh": [
+          "海瑟音"
+        ],
+        "en": [
+          "hyacine"
+        ]
+      },
+      {
+        "zh": [
+          "火花"
+        ],
+        "en": []
+      },
+      {
+        "zh": [
+          "灵砂"
+        ],
+        "en": [
+          "lingsha"
+        ]
+      },
+      {
+        "zh": [
+          "瑕蝶"
+        ],
+        "en": [
+          "castorice"
+        ]
+      },
+      {
+        "zh": [
+          "白厄"
+        ],
+        "en": [
+          "phainon",
+          "plus"
+        ]
+      },
+      {
+        "zh": [
+          "白露"
+        ],
+        "en": [
+          "bailu"
+        ]
+      },
+      {
+        "zh": [
+          "知更鸟"
+        ],
+        "en": [
+          "robin"
+        ]
+      },
+      {
+        "zh": [
+          "符玄"
+        ],
+        "en": [
+          "fuxuan"
+        ]
+      },
+      {
+        "zh": [
+          "缇宝"
+        ],
+        "en": [
+          "tribbie"
+        ]
+      },
+      {
+        "zh": [
+          "花火"
+        ],
+        "en": [
+          "huahuo"
+        ]
+      },
+      {
+        "zh": [
+          "赛飞儿"
+        ],
+        "en": [
+          "cipher"
+        ]
+      },
+      {
+        "zh": [
+          "赞达尔·壹·桑原"
+        ],
+        "en": [
+          "zandar-one-kuwabara"
+        ]
+      },
+      {
+        "zh": [
+          "那刻夏"
+        ],
+        "en": [
+          "anaxa",
+          "anaxagoras"
+        ]
+      },
+      {
+        "zh": [
+          "银狼"
+        ],
+        "en": [
+          "silver-wolf",
+          "silverwolf"
+        ]
+      },
+      {
+        "zh": [
+          "镜流"
+        ],
+        "en": [
+          "jingliu"
+        ]
+      },
+      {
+        "zh": [
+          "阮梅"
+        ],
+        "en": [
+          "ruan-mei"
+        ]
+      },
+      {
+        "zh": [
+          "阿格莱雅"
+        ],
+        "en": [
+          "aglaea"
+        ]
+      },
+      {
+        "zh": [
+          "霍霍"
+        ],
+        "en": [
+          "huohuo"
+        ]
+      },
+      {
+        "zh": [
+          "飞霄"
+        ],
+        "en": [
+          "feixiao"
+        ]
+      },
+      {
+        "zh": [
+          "黄泉"
+        ],
+        "en": [
+          "raiden-bosenmori-mei"
+        ]
+      },
+      {
+        "zh": [
+          "黑塔"
+        ],
+        "en": [
+          "herta",
+          "heita"
+        ]
+      }
+    ],
+    "Identity-V": [
+      {
+        "zh": [
+          "锁芯"
+        ],
+        "en": [
+          "lockheart"
+        ]
+      }
+    ],
+    "IN": [
+      {
+        "zh": [
+          "苏暖暖",
+          "暖暖"
+        ],
+        "en": [
+          "Nikki"
+        ]
+      }
+    ],
+    "JJK": [
+      {
+        "zh": [
+          "宿傩"
+        ],
+        "en": [
+          "ryomen-sukuna"
+        ]
+      }
+    ],
+    "KanCollect": [
+      {
+        "zh": [
+          "北方栖姬"
+        ],
+        "en": [
+          "northern-princess"
+        ]
+      }
+    ],
+    "KG": [
+      {
+        "zh": [
+          "阿尔维娜酱"
+        ],
+        "en": [
+          "arvina_chan"
+        ]
+      }
+    ],
+    "Kisekoi": [
+      {
+        "zh": [
+          "喜多川海梦"
+        ],
+        "en": [
+          "kitagawa-marin"
+        ]
+      }
+    ],
+    "KonoSuba": [
+      {
+        "zh": [
+          "佐藤和真"
+        ],
+        "en": [
+          "satou-kazuma"
+        ]
+      },
+      {
+        "zh": [
+          "惠惠"
+        ],
+        "en": [
+          "megumin"
+        ]
+      },
+      {
+        "zh": [
+          "达克妮斯"
+        ],
+        "en": [
+          "darkness"
+        ]
+      },
+      {
+        "zh": [
+          "阿克娅"
+        ],
+        "en": [
+          "aqua"
+        ]
+      }
+    ],
+    "LC": [
+      {
+        "zh": [
+          "以实玛丽"
+        ],
+        "en": [
+          "limbus_ishmael"
+        ]
+      }
+    ],
+    "LCOD": [
+      {
+        "zh": [
+          "小鸟游六花",
+          "六花"
+        ],
+        "en": [
+          "takanashi-rikka",
+          "Chuunibyou_Takanashi-Rikka"
+        ]
+      }
+    ],
+    "LOL": [
+      {
+        "zh": [
+          "格温"
+        ],
+        "en": [
+          "gwen"
+        ]
+      },
+      {
+        "zh": [
+          "破败之王"
+        ],
+        "en": [
+          "viego"
+        ]
+      }
+    ],
+    "LOR": [
+      {
+        "zh": [
+          "卡莉"
+        ],
+        "en": [
+          "kali"
+        ]
+      },
+      {
+        "zh": [
+          "比娜"
+        ],
+        "en": [
+          "binah"
+        ]
+      }
+    ],
+    "LoveMe": [
+      {
+        "zh": [
+          "枫"
+        ],
+        "en": [
+          "hoshitsuki-kaede"
+        ]
+      },
+      {
+        "zh": [
+          "铃"
+        ],
+        "en": [
+          "hoshitsuki-suzu"
+        ]
+      }
+    ],
+    "LR": [
+      {
+        "zh": [
+          "井之上泷奈"
+        ],
+        "en": [
+          "Inoue-Takina"
+        ]
+      }
+    ],
+    "Madoka": [
+      {
+        "zh": [
+          "丘比"
+        ],
+        "en": [
+          "incubator"
+        ]
+      },
+      {
+        "zh": [
+          "佐仓杏子"
+        ],
+        "en": [
+          "sakura-kyouko"
+        ]
+      },
+      {
+        "zh": [
+          "巴麻美"
+        ],
+        "en": [
+          "tomoe-mami"
+        ]
+      },
+      {
+        "zh": [
+          "晓美焰"
+        ],
+        "en": [
+          "akemi-homura"
+        ]
+      },
+      {
+        "zh": [
+          "美树沙耶加"
+        ],
+        "en": [
+          "miki-sayaka"
+        ]
+      },
+      {
+        "zh": [
+          "鹿目圆",
+          "小圆"
+        ],
+        "en": [
+          "kaname-madoka"
+        ]
+      }
+    ],
+    "Magia-Record": [
+      {
+        "zh": [
+          "濑奈命"
+        ],
+        "en": [
+          "sena-mikoto"
+        ]
+      },
+      {
+        "zh": [
+          "环彩羽"
+        ],
+        "en": [
+          "tamaki-iroha"
+        ]
+      }
+    ],
+    "Maimai-DX": [
+      {
+        "zh": [
+          "百合咲美香"
+        ],
+        "en": [
+          "yurisaki-mika",
+          "mika"
+        ]
+      }
+    ],
+    "Meme": [
+      {
+        "zh": [
+          "埃及猫"
+        ],
+        "en": [
+          "egyptian-cat"
+        ]
+      }
+    ],
+    "MGC": [
+      {
+        "zh": [
+          "天穹法尼雅"
+        ],
+        "en": [
+          "fania"
+        ]
+      }
+    ],
+    "MGWT": [
+      {
+        "zh": [
+          "冰上梅露露"
+        ],
+        "en": [
+          "Hikami‑Meruru"
+        ],
+        "ja": [
+          "氷上メルル",
+          "メルちゃん"
+        ]
+      },
+      {
+        "zh": [
+          "樱羽艾玛"
+        ],
+        "en": [
+          "sakuraba-ema"
+        ]
+      }
+    ],
+    "MH": [
+      {
+        "zh": [
+          "兮尔瓦",
+          "天慧龙娘",
+          "天慧龙"
+        ],
+        "en": [
+          "Xierwa"
+        ]
+      }
+    ],
+    "MHO": [
+      {
+        "zh": [
+          "八奈见杏菜"
+        ],
+        "en": [
+          "yanami-anna"
+        ]
+      }
+    ],
+    "MIA": [
+      {
+        "zh": [
+          "娜娜奇",
+          "奈奈祈"
+        ],
+        "en": [
+          "Nanachi",
+          "Nanaki"
+        ],
+        "ja": [
+          "ナナチ"
+        ]
+      }
+    ],
+    "Minecraft": [
+      {
+        "zh": [
+          "僵尸酱"
+        ],
+        "en": [
+          "zombie"
+        ]
+      },
+      {
+        "zh": [
+          "凋灵骷髅酱"
+        ],
+        "en": [
+          "wither-skeleton"
+        ]
+      },
+      {
+        "zh": [
+          "凋零娘",
+          "小凋零"
+        ],
+        "en": [
+          "wither"
+        ]
+      },
+      {
+        "zh": [
+          "发光鱿鱼娘"
+        ],
+        "en": [
+          "Glowing-Squid-Girl"
+        ]
+      },
+      {
+        "zh": [
+          "坚守者娘",
+          "监守者酱"
+        ],
+        "en": [
+          "warden"
+        ]
+      },
+      {
+        "zh": [
+          "女巫酱"
+        ],
+        "en": [
+          "witch"
+        ]
+      },
+      {
+        "zh": [
+          "守卫者酱"
+        ],
+        "en": [
+          "guardian"
+        ]
+      },
+      {
+        "zh": [
+          "幻翼酱"
+        ],
+        "en": [
+          "phantom-wings"
+        ]
+      },
+      {
+        "zh": [
+          "恶魂酱"
+        ],
+        "en": [
+          "demon's-souls"
+        ]
+      },
+      {
+        "zh": [
+          "末影人酱",
+          "末影人娘",
+          "末影人"
+        ],
+        "en": [
+          "enderman"
+        ]
+      },
+      {
+        "zh": [
+          "末影龙娘"
+        ],
+        "en": [
+          "ender-dragon"
+        ]
+      },
+      {
+        "zh": [
+          "杀手兔酱"
+        ],
+        "en": [
+          "killer-rabbit"
+        ]
+      },
+      {
+        "zh": [
+          "流浪商人酱"
+        ],
+        "en": [
+          "wandering-trader"
+        ]
+      },
+      {
+        "zh": [
+          "溺尸酱"
+        ],
+        "en": [
+          "drowned"
+        ]
+      },
+      {
+        "zh": [
+          "烈焰人酱",
+          "烈焰人娘"
+        ],
+        "en": [
+          "blaze"
+        ]
+      },
+      {
+        "zh": [
+          "狐狸"
+        ],
+        "en": [
+          "fox"
+        ]
+      },
+      {
+        "zh": [
+          "猪灵酱"
+        ],
+        "en": [
+          "piglin"
+        ]
+      },
+      {
+        "zh": [
+          "美西螈"
+        ],
+        "en": [
+          "axolotl"
+        ]
+      },
+      {
+        "zh": [
+          "艾利克斯酱"
+        ],
+        "en": [
+          "alex"
+        ]
+      },
+      {
+        "zh": [
+          "苦力怕酱",
+          "苦力怕"
+        ],
+        "en": [
+          "creeper"
+        ]
+      },
+      {
+        "zh": [
+          "蜘蛛酱"
+        ],
+        "en": [
+          "spider"
+        ]
+      },
+      {
+        "zh": [
+          "远古守卫者"
+        ],
+        "en": [
+          "ancient-guardian"
+        ]
+      },
+      {
+        "zh": [
+          "骷髅酱"
+        ],
+        "en": [
+          "skeleton"
+        ]
+      }
+    ],
+    "MiSide": [
+      {
+        "zh": [
+          "2D米塔"
+        ],
+        "en": [
+          "2d-mita"
+        ]
+      },
+      {
+        "zh": [
+          "Q版米塔",
+          "柴比米塔"
+        ],
+        "en": [
+          "chibi-mita"
+        ]
+      },
+      {
+        "zh": [
+          "人偶米塔",
+          "替身米塔"
+        ],
+        "en": [
+          "dummy-mita"
+        ]
+      },
+      {
+        "zh": [
+          "善心米塔",
+          "善良米塔"
+        ],
+        "en": [
+          "kind-mita"
+        ]
+      },
+      {
+        "zh": [
+          "小小米塔",
+          "小米塔",
+          "迷你米塔"
+        ],
+        "en": [
+          "tiny-mita"
+        ]
+      },
+      {
+        "zh": [
+          "巨米塔"
+        ],
+        "en": [
+          "giant-mita"
+        ]
+      },
+      {
+        "zh": [
+          "幽灵米塔"
+        ],
+        "en": [
+          "ghostly-mita"
+        ]
+      },
+      {
+        "zh": [
+          "恐怖米塔",
+          "丑陋米塔"
+        ],
+        "en": [
+          "creepy-mita"
+        ]
+      },
+      {
+        "zh": [
+          "戴帽米塔",
+          "Cappie"
+        ],
+        "en": [
+          "cap-wearing-mita",
+          "cappie"
+        ]
+      },
+      {
+        "zh": [
+          "核心米塔"
+        ],
+        "en": [
+          "core-mita"
+        ]
+      },
+      {
+        "zh": [
+          "疯狂米塔"
+        ],
+        "en": [
+          "crazy-mita"
+        ]
+      },
+      {
+        "zh": [
+          "睡梦米塔"
+        ],
+        "en": [
+          "sleepy-mita"
+        ]
+      },
+      {
+        "zh": [
+          "短发米塔"
+        ],
+        "en": [
+          "short-haired-mita"
+        ]
+      },
+      {
+        "zh": [
+          "米塔"
+        ],
+        "en": [
+          "mita"
+        ]
+      },
+      {
+        "zh": [
+          "米拉"
+        ],
+        "en": [
+          "mila"
+        ]
+      },
+      {
+        "zh": [
+          "美丽米塔"
+        ],
+        "en": [
+          "pretty-mita"
+        ]
+      },
+      {
+        "zh": [
+          "长腿米塔"
+        ],
+        "en": [
+          "long-legged-mita"
+        ]
+      }
+    ],
+    "MKDM": [
+      {
+        "zh": [
+          "康娜"
+        ],
+        "en": [
+          "kanna-kamui"
+        ]
+      },
+      {
+        "zh": [
+          "托尔"
+        ],
+        "en": [
+          "tohru"
+        ]
+      }
+    ],
+    "MKZ": [
+      {
+        "zh": [
+          "琉璃川"
+        ],
+        "en": [
+          "rurikawa-tsubaki"
+        ]
+      }
+    ],
+    "MNT": [
+      {
+        "zh": [
+          "伊蕾娜"
+        ],
+        "en": [
+          "elaina"
+        ]
+      }
+    ],
+    "Mochiyama Kingyo": [
+      {
+        "zh": [
+          "方块"
+        ],
+        "en": [
+          "kipfel"
+        ]
+      }
+    ],
+    "MonMusu": [
+      {
+        "zh": [
+          "米亚",
+          "拉弥亚",
+          "蛇娘"
+        ],
+        "en": [
+          "Miia"
+        ],
+        "ja": [
+          "ミーア"
+        ]
+      }
+    ],
+    "MSNS": [
+      {
+        "zh": [
+          "山城恋"
+        ],
+        "en": [
+          "yamashiro-ren"
+        ]
+      }
+    ],
+    "MushokuTensei": [
+      {
+        "zh": [
+          "洛琪希",
+          "洛淇希"
+        ],
+        "en": [
+          "roxy-migurdia",
+          "roxy_migurdia"
+        ]
+      }
+    ],
+    "MyGO": [
+      {
+        "zh": [
+          "千早爱音",
+          "爱音"
+        ],
+        "en": [
+          "chihaya-anon"
+        ]
+      },
+      {
+        "zh": [
+          "椎名立希"
+        ],
+        "en": [
+          "shiina-taki"
+        ]
+      },
+      {
+        "zh": [
+          "若叶睦"
+        ],
+        "en": [
+          "wakaba-mutsumi"
+        ]
+      },
+      {
+        "zh": [
+          "要乐奈"
+        ],
+        "en": [
+          "kaname-raana"
+        ]
+      },
+      {
+        "zh": [
+          "长崎素世"
+        ],
+        "en": [
+          "nagasaki-soyo"
+        ],
+        "ja": [
+          "長崎そよ"
+        ]
+      },
+      {
+        "zh": [
+          "高松灯",
+          "高松燈"
+        ],
+        "en": [
+          "takamatsu-tomori"
+        ]
+      }
+    ],
+    "Myth": [
+      {
+        "zh": [
+          "耶梦加得"
+        ],
+        "en": [
+          "jormungand"
+        ]
+      }
+    ],
+    "NAR": [
+      {
+        "zh": [
+          "佐助"
+        ],
+        "en": [
+          "sasuke"
+        ]
+      },
+      {
+        "zh": [
+          "鸣人"
+        ],
+        "en": [
+          "naruto"
+        ]
+      }
+    ],
+    "NEO": [
+      {
+        "zh": [
+          "超天酱"
+        ],
+        "en": [
+          "kangel_nsfw"
+        ]
+      }
+    ],
+    "NGE": [
+      {
+        "zh": [
+          "明日香"
+        ],
+        "en": [
+          "asuka"
+        ]
+      }
+    ],
+    "Nikke": [
+      {
+        "zh": [
+          "桃乐丝"
+        ],
+        "en": [
+          "dorothy-doro",
+          "Doro"
+        ]
+      },
+      {
+        "zh": [
+          "灰姑娘"
+        ],
+        "en": [
+          "cinderella"
+        ]
+      },
+      {
+        "zh": [
+          "爱丽丝"
+        ],
+        "en": [
+          "alice"
+        ]
+      },
+      {
+        "zh": [
+          "玛丽安"
+        ],
+        "en": [
+          "marian",
+          "modernia"
+        ]
+      }
+    ],
+    "NTE": [
+      {
+        "zh": [
+          "安魂曲"
+        ],
+        "en": [
+          "lacrimosa"
+        ]
+      },
+      {
+        "zh": [
+          "薄荷"
+        ],
+        "en": [
+          "bohe"
+        ]
+      }
+    ],
+    "OC": [
+      {
+        "zh": [
+          "NavalArt"
+        ],
+        "en": [
+          "海军艺术"
+        ]
+      },
+      {
+        "zh": [
+          "Niya"
+        ],
+        "en": [
+          "Niya"
+        ]
+      },
+      {
+        "zh": [
+          "上官绘凛"
+        ],
+        "en": [
+          "Shangguan‑Huilin"
+        ]
+      },
+      {
+        "zh": [
+          "仙狐小姐"
+        ],
+        "en": []
+      },
+      {
+        "zh": [
+          "女仆"
+        ],
+        "en": [
+          "Maid"
+        ]
+      },
+      {
+        "zh": [
+          "小小魔王"
+        ],
+        "en": [
+          "Littledevil"
+        ]
+      },
+      {
+        "zh": [
+          "德意志国"
+        ],
+        "en": [
+          "deutschland (1871-1918)"
+        ]
+      },
+      {
+        "zh": [
+          "提可拉"
+        ],
+        "en": [
+          "tikola"
+        ]
+      },
+      {
+        "zh": [
+          "星见时璃"
+        ],
+        "en": [
+          "Tokiri"
+        ]
+      },
+      {
+        "zh": [
+          "本子魔法师",
+          "本子魔法使"
+        ],
+        "en": [
+          "benzi-mofashi"
+        ]
+      },
+      {
+        "zh": [
+          "海太umita"
+        ],
+        "en": [
+          "haitai-umita"
+        ]
+      },
+      {
+        "zh": [
+          "特莉丝"
+        ],
+        "en": [
+          "trissy"
+        ]
+      },
+      {
+        "zh": [
+          "琴雨梦"
+        ],
+        "en": [
+          "qym"
+        ]
+      },
+      {
+        "zh": [
+          "男孩骑酒狐"
+        ],
+        "en": [
+          "boy-ride-wine-fox"
+        ]
+      },
+      {
+        "zh": [
+          "白川雨弓"
+        ],
+        "en": [
+          "ameyumi"
+        ]
+      },
+      {
+        "zh": [
+          "糖一色Shiny"
+        ],
+        "en": []
+      },
+      {
+        "zh": [
+          "纸板"
+        ],
+        "en": [
+          "zhiban"
+        ]
+      },
+      {
+        "zh": [
+          "联合王国"
+        ],
+        "en": [
+          "united-kingdom (17–19c.)"
+        ]
+      },
+      {
+        "zh": [
+          "艾尔莎"
+        ],
+        "en": [
+          "elsa-channel"
+        ]
+      },
+      {
+        "zh": [
+          "苏瑞铃"
+        ]
+      },
+      {
+        "zh": [
+          "莫尔里奈"
+        ],
+        "en": [
+          "molliena"
+        ]
+      },
+      {
+        "zh": [
+          "赤月·阿撒迈尔·恒"
+        ],
+        "en": [
+          "azamire"
+        ]
+      },
+      {
+        "zh": [
+          "酒狐"
+        ],
+        "en": [
+          "Wine-Fox"
+        ]
+      },
+      {
+        "zh": [
+          "阿尔维娜酱"
+        ],
+        "en": [
+          "arvina-chan"
+        ]
+      },
+      {
+        "zh": [
+          "鱿鱿"
+        ],
+        "en": [
+          "youyou"
+        ]
+      },
+      {
+        "zh": [
+          "鲸鱼娘"
+        ],
+        "en": [
+          "deepseek"
+        ]
+      }
+    ],
+    "ONIMAI": [
+      {
+        "zh": [
+          "绪山真寻"
+        ],
+        "en": [
+          "mahiro"
+        ]
+      }
+    ],
+    "PCD": [
+      {
+        "zh": [
+          "森亚露露卡",
+          "露露卡"
+        ],
+        "en": [
+          "Moria‑Ruruka"
+        ],
+        "ja": [
+          "森亜るるか"
+        ]
+      }
+    ],
+    "PGR": [
+      {
+        "zh": [
+          "卡列尼娜"
+        ],
+        "en": [
+          "karenina"
+        ]
+      }
+    ],
+    "PNF": [
+      {
+        "zh": [
+          "鸭嘴兽泰瑞"
+        ],
+        "en": [
+          "perry-the-platypus"
+        ]
+      }
+    ],
+    "PTE": [
+      {
+        "zh": [
+          "PIPI美"
+        ],
+        "en": [
+          "pipimi"
+        ]
+      },
+      {
+        "zh": [
+          "POP子"
+        ],
+        "en": [
+          "popuko"
+        ]
+      }
+    ],
+    "R6S": [
+      {
+        "zh": [
+          "艾拉"
+        ],
+        "en": [
+          "ela"
+        ]
+      }
+    ],
+    "RDND": [
+      {
+        "zh": [
+          "樱岛麻衣"
+        ],
+        "en": [
+          "sakurajima-mai"
+        ]
+      }
+    ],
+    "Real": [
+      {
+        "zh": [
+          "美依礼芽"
+        ],
+        "en": [
+          "maria"
+        ]
+      }
+    ],
+    "Red": [
+      {
+        "zh": [
+          "95大头兵"
+        ],
+        "en": [
+          "alert"
+        ]
+      },
+      {
+        "zh": [
+          "mod步兵",
+          "步兵"
+        ],
+        "en": [
+          "alert_2",
+          "alert_3"
+        ]
+      }
+    ],
+    "ReZero": [
+      {
+        "zh": [
+          "雷姆"
+        ],
+        "en": [
+          "rem"
+        ]
+      }
+    ],
+    "Saekano": [
+      {
+        "zh": [
+          "加藤惠"
+        ],
+        "en": [
+          "katō megumi"
+        ]
+      },
+      {
+        "zh": [
+          "英梨梨"
+        ],
+        "en": [
+          "eriri"
+        ]
+      }
+    ],
+    "SakuraMoyu": [
+      {
+        "zh": [
+          "小黑"
+        ],
+        "en": [
+          "kuro"
+        ]
+      }
+    ],
+    "SAO": [
+      {
+        "zh": [
+          "亚丝娜"
+        ],
+        "en": [
+          "asuna"
+        ]
+      },
+      {
+        "zh": [
+          "桐人"
+        ],
+        "en": [
+          "kirito"
+        ]
+      },
+      {
+        "zh": [
+          "爱丽丝·滋贝鲁库"
+        ],
+        "en": [
+          "alice·synthesis·thirty"
+        ]
+      },
+      {
+        "zh": [
+          "诗乃"
+        ],
+        "en": [
+          "sinon"
+        ]
+      }
+    ],
+    "SENREN": [
+      {
+        "zh": [
+          "丛雨"
+        ],
+        "en": [
+          "murasame",
+          "murasame_uniform"
+        ]
+      }
+    ],
+    "Snowbreak": [
+      {
+        "zh": [
+          "卜卜"
+        ],
+        "en": [
+          "bubu"
+        ]
+      },
+      {
+        "zh": [
+          "里芙无限之视",
+          "里芙"
+        ],
+        "en": [
+          "reeve"
+        ]
+      }
+    ],
+    "SP": [
+      {
+        "zh": [
+          "阿尔法零"
+        ],
+        "en": [
+          "alphazero"
+        ]
+      }
+    ],
+    "SPY×FAMILY": [
+      {
+        "zh": [
+          "阿尼亚"
+        ],
+        "en": [
+          "anya"
+        ]
+      }
+    ],
+    "SSW": [
+      {
+        "zh": [
+          "雪乃深冬"
+        ],
+        "en": [
+          "yukino-mifuyu"
+        ]
+      }
+    ],
+    "Steins-Gate": [
+      {
+        "zh": [
+          "牧濑红莉栖"
+        ],
+        "en": [
+          "makise-kurisu"
+        ]
+      }
+    ],
+    "Strinova": [
+      {
+        "zh": [
+          "心夏"
+        ],
+        "en": [
+          "kokona"
+        ]
+      },
+      {
+        "zh": [
+          "梅瑞狄斯",
+          "沙猫"
+        ],
+        "en": [
+          "Meredith"
+        ]
+      },
+      {
+        "zh": [
+          "米雪儿·李"
+        ],
+        "en": [
+          "michele"
+        ]
+      },
+      {
+        "zh": [
+          "绯莎"
+        ],
+        "en": [
+          "fuchsia"
+        ]
+      },
+      {
+        "zh": [
+          "香奈美"
+        ],
+        "en": [
+          "kamami",
+          "kanami"
+        ]
+      }
+    ],
+    "Tenshi": [
+      {
+        "zh": [
+          "白雪乃爱"
+        ],
+        "en": [
+          "shirayuki-noa"
+        ]
+      }
+    ],
+    "TF": [
+      {
+        "zh": [
+          "希尔薇"
+        ],
+        "en": [
+          "silvy"
+        ]
+      }
+    ],
+    "TFD": [
+      {
+        "zh": [
+          "我妻由乃"
+        ],
+        "en": [
+          "gasai-yuno"
+        ]
+      }
+    ],
+    "TMNI": [
+      {
+        "zh": [
+          "御坂美琴"
+        ],
+        "en": [
+          "misaka-mikoto"
+        ]
+      },
+      {
+        "zh": [
+          "食蜂操祈"
+        ],
+        "en": [
+          "shokuhou-misaki"
+        ]
+      }
+    ],
+    "To-LOVE-Ru": [
+      {
+        "zh": [
+          "伊芙"
+        ],
+        "en": [
+          "eve"
+        ]
+      }
+    ],
+    "Tokyo-Ghoul": [
+      {
+        "zh": [
+          "金木研"
+        ],
+        "en": [
+          "kaneki-ken"
+        ]
+      }
+    ],
+    "Touhou": [
+      {
+        "zh": [
+          "上白泽慧音"
+        ],
+        "en": [
+          "keine-kamishirasawa"
+        ]
+      },
+      {
+        "zh": [
+          "东风谷早苗"
+        ],
+        "en": [
+          "kochiya-sanae"
+        ]
+      },
+      {
+        "zh": [
+          "伊吹萃香"
+        ],
+        "en": [
+          "ibuki-suika"
+        ]
+      },
+      {
+        "zh": [
+          "依神紫苑"
+        ],
+        "en": [
+          "yorigami-shion"
+        ]
+      },
+      {
+        "zh": [
+          "八云紫"
+        ],
+        "en": [
+          "yakumo-yukari"
+        ]
+      },
+      {
+        "zh": [
+          "八意永琳"
+        ],
+        "en": [
+          "yagokoro-eirin"
+        ]
+      },
+      {
+        "zh": [
+          "十六夜咲夜"
+        ],
+        "en": [
+          "izayoi-sakuya",
+          "sakuya"
+        ]
+      },
+      {
+        "zh": [
+          "博丽灵梦"
+        ],
+        "en": [
+          "hakurei-reimu",
+          "reimu"
+        ]
+      },
+      {
+        "zh": [
+          "卡娜·安娜贝拉尔"
+        ],
+        "en": [
+          "kana-anaberal"
+        ]
+      },
+      {
+        "zh": [
+          "古明地恋"
+        ],
+        "en": [
+          "komeiji-koishi"
+        ]
+      },
+      {
+        "zh": [
+          "古明地觉"
+        ],
+        "en": [
+          "satori"
+        ]
+      },
+      {
+        "zh": [
+          "四季映姬"
+        ],
+        "en": [
+          "eiki-shiki",
+          "shiki-eiki"
+        ]
+      },
+      {
+        "zh": [
+          "大妖精"
+        ],
+        "en": [
+          "daiyousei"
+        ]
+      },
+      {
+        "zh": [
+          "夹克子"
+        ],
+        "en": [
+          "jiakezi"
+        ]
+      },
+      {
+        "zh": [
+          "射命丸文"
+        ],
+        "en": [
+          "shameimaru-aya"
+        ]
+      },
+      {
+        "zh": [
+          "帕秋莉",
+          "帕秋莉·诺蕾姬"
+        ],
+        "en": [
+          "patchouli-knowledge"
+        ]
+      },
+      {
+        "zh": [
+          "幽谷响子"
+        ],
+        "en": [
+          "kasodani-kyouko"
+        ]
+      },
+      {
+        "zh": [
+          "日白残无"
+        ],
+        "en": [
+          "nippaku-zanmu"
+        ]
+      },
+      {
+        "zh": [
+          "比那名居天子"
+        ],
+        "en": [
+          "hinanawi-tenshi"
+        ]
+      },
+      {
+        "zh": [
+          "爱丽丝·玛格特洛依德",
+          "爱丽丝"
+        ],
+        "en": [
+          "alice-margatroid",
+          "alice"
+        ]
+      },
+      {
+        "zh": [
+          "犬走椛"
+        ],
+        "en": [
+          "inubashiri-momizi"
+        ]
+      },
+      {
+        "zh": [
+          "琪露诺"
+        ],
+        "en": [
+          "cirno"
+        ]
+      },
+      {
+        "zh": [
+          "秦心"
+        ],
+        "en": [
+          "hata-no-kokoro",
+          "hatanokokoro"
+        ]
+      },
+      {
+        "zh": [
+          "稗田阿求"
+        ],
+        "en": [
+          "hieda-no-akyuu"
+        ]
+      },
+      {
+        "zh": [
+          "米斯蒂娅"
+        ],
+        "en": [
+          "mystia-lorelei"
+        ]
+      },
+      {
+        "zh": [
+          "芙兰朵露·斯卡蕾特",
+          "芙兰朵露"
+        ],
+        "en": [
+          "flandre-scarlet",
+          "flandre"
+        ]
+      },
+      {
+        "zh": [
+          "蓬莱山辉夜"
+        ],
+        "en": [
+          "houraisan-kaguya"
+        ]
+      },
+      {
+        "zh": [
+          "蕾米莉亚",
+          "蕾米莉亚·斯卡蕾特"
+        ],
+        "en": [
+          "remilia-scarlet"
+        ]
+      },
+      {
+        "zh": [
+          "藤原妹红"
+        ],
+        "en": [
+          "fujiwara-no-mokou"
+        ]
+      },
+      {
+        "zh": [
+          "诹访子"
+        ],
+        "en": [
+          "moriya-suwako"
+        ]
+      },
+      {
+        "zh": [
+          "铃仙·优昙华院·因幡",
+          "铃仙"
+        ],
+        "en": [
+          "reisen-udongein-inaba",
+          "reisen"
+        ]
+      },
+      {
+        "zh": [
+          "键山雏"
+        ],
+        "en": [
+          "kagiyama-hina"
+        ]
+      },
+      {
+        "zh": [
+          "雾雨魔理沙",
+          "魔理沙"
+        ],
+        "en": [
+          "marisa-kirisame",
+          "kirisame-marisa"
+        ]
+      },
+      {
+        "zh": [
+          "霍青娥"
+        ],
+        "en": [
+          "kaku-seiga"
+        ]
+      },
+      {
+        "zh": [
+          "露米娅"
+        ],
+        "en": [
+          "rumia"
+        ]
+      },
+      {
+        "zh": [
+          "风见幽香"
+        ],
+        "en": [
+          "kazami-yuuka"
+        ]
+      },
+      {
+        "zh": [
+          "魂魄妖梦",
+          "妖梦"
+        ],
+        "en": [
+          "konpaku-youmu",
+          "konpaku-yōmu"
+        ]
+      }
+    ],
+    "Ultraman": [
+      {
+        "zh": [
+          "加坦杰厄"
+        ],
+        "en": [
+          "gatanothor"
+        ]
+      },
+      {
+        "zh": [
+          "杰顿"
+        ],
+        "en": [
+          "zetton"
+        ]
+      }
+    ],
+    "UmaMusume": [
+      {
+        "zh": [
+          "北部玄驹"
+        ],
+        "en": [
+          "kitasan_black"
+        ],
+        "note": "示例：赛马娘北部玄驹"
+      },
+      {
+        "zh": [
+          "待兼诗歌剧"
+        ],
+        "en": [
+          "matikanetannhauser"
+        ]
+      },
+      {
+        "zh": [
+          "爱丽数码"
+        ],
+        "en": [
+          "um-agnes-digital"
+        ]
+      },
+      {
+        "zh": [
+          "菱钻奇宝"
+        ],
+        "en": [
+          "um-hishi-miracle"
+        ]
+      }
+    ],
+    "Undertale": [
+      {
+        "zh": [
+          "查拉"
+        ],
+        "en": [
+          "chara"
+        ]
+      }
+    ],
+    "Utau": [
+      {
+        "zh": [
+          "重音Teto",
+          "重音"
+        ],
+        "en": [
+          "kasane-teto",
+          "teto"
+        ]
+      }
+    ],
+    "VOC": [
+      {
+        "zh": [
+          "初音未来",
+          "初音"
+        ],
+        "en": [
+          "Hatsune-Miku",
+          "miku"
+        ]
+      },
+      {
+        "zh": [
+          "洛天依",
+          "洛天依_世末系列"
+        ],
+        "en": [
+          "luotianyi"
+        ]
+      },
+      {
+        "zh": [
+          "雪未来"
+        ],
+        "en": [
+          "yuki-miku"
+        ]
+      }
+    ],
+    "VTuber": [
+      {
+        "zh": [
+          "呜米"
+        ],
+        "en": [
+          "umyknight"
+        ]
+      },
+      {
+        "zh": [
+          "咩栗"
+        ],
+        "en": [
+          "merrryyuko"
+        ]
+      },
+      {
+        "zh": [
+          "安洛樱"
+        ],
+        "en": [
+          "anluosakura"
+        ]
+      },
+      {
+        "zh": [
+          "泠鸢",
+          "泠鸢Yousa"
+        ],
+        "en": [
+          "LingYuanYousa"
+        ]
+      },
+      {
+        "zh": [
+          "穆小泠Official",
+          "穆小泠"
+        ],
+        "en": [
+          "MuXiaoLing"
+        ]
+      },
+      {
+        "zh": [
+          "艾伊菈"
+        ],
+        "en": [
+          "ahyra"
+        ]
+      },
+      {
+        "zh": [
+          "黎歌Neeko",
+          "黎歌"
+        ],
+        "en": []
+      }
+    ],
+    "WT": [
+      {
+        "zh": [
+          "沈凤翎"
+        ],
+        "en": [
+          "Shen-Fengling"
+        ]
+      }
+    ],
+    "WW": [
+      {
+        "zh": [
+          "丹瑾"
+        ],
+        "en": [
+          "danjin"
+        ]
+      },
+      {
+        "zh": [
+          "丽贝卡"
+        ],
+        "en": [
+          "rebecca"
+        ],
+        "note": "联动：赛博朋克·边缘行者"
+      },
+      {
+        "zh": [
+          "仇远"
+        ],
+        "en": [
+          "qiuyuan"
+        ]
+      },
+      {
+        "zh": [
+          "今汐"
+        ],
+        "en": [
+          "jinhsi"
+        ]
+      },
+      {
+        "zh": [
+          "凌阳"
+        ],
+        "en": [
+          "lingyang"
+        ]
+      },
+      {
+        "zh": [
+          "千咲"
+        ],
+        "en": [
+          "chisa"
+        ]
+      },
+      {
+        "zh": [
+          "卜灵"
+        ],
+        "en": [
+          "buling"
+        ]
+      },
+      {
+        "zh": [
+          "卡卡罗"
+        ],
+        "en": [
+          "calcharo"
+        ]
+      },
+      {
+        "zh": [
+          "卡提希娅"
+        ],
+        "en": [
+          "cartethyia"
+        ]
+      },
+      {
+        "zh": [
+          "吟霖"
+        ],
+        "en": [
+          "yinlin"
+        ]
+      },
+      {
+        "zh": [
+          "嘉贝莉娜"
+        ],
+        "en": [
+          "galbrena"
+        ]
+      },
+      {
+        "zh": [
+          "坎特蕾拉"
+        ],
+        "en": [
+          "cantarella"
+        ]
+      },
+      {
+        "zh": [
+          "夏空"
+        ],
+        "en": [
+          "ciaccona"
+        ]
+      },
+      {
+        "zh": [
+          "奥古斯塔"
+        ],
+        "en": [
+          "augusta"
+        ]
+      },
+      {
+        "zh": [
+          "守岸人"
+        ],
+        "en": [
+          "the-shorekeeper"
+        ]
+      },
+      {
+        "zh": [
+          "安可"
+        ],
+        "en": [
+          "encore"
+        ]
+      },
+      {
+        "zh": [
+          "尤诺"
+        ],
+        "en": [
+          "iuno"
+        ]
+      },
+      {
+        "zh": [
+          "布兰特"
+        ],
+        "en": [
+          "brant"
+        ]
+      },
+      {
+        "zh": [
+          "弗洛洛"
+        ],
+        "en": [
+          "phrolova"
+        ]
+      },
+      {
+        "zh": [
+          "心"
+        ],
+        "en": [
+          "hsin"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "忌炎"
+        ],
+        "en": [
+          "jiyan"
+        ]
+      },
+      {
+        "zh": [
+          "折枝"
+        ],
+        "en": [
+          "zhezhi"
+        ]
+      },
+      {
+        "zh": [
+          "散华"
+        ],
+        "en": [
+          "sanhua"
+        ]
+      },
+      {
+        "zh": [
+          "景燃"
+        ],
+        "en": [
+          "jingran"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "桃祈"
+        ],
+        "en": [
+          "taoqi"
+        ]
+      },
+      {
+        "zh": [
+          "椿"
+        ],
+        "en": [
+          "camellya"
+        ]
+      },
+      {
+        "zh": [
+          "洛可可"
+        ],
+        "en": [
+          "roccia"
+        ]
+      },
+      {
+        "zh": [
+          "洛瑟菈"
+        ],
+        "en": [
+          "lucilla"
+        ]
+      },
+      {
+        "zh": [
+          "清宵"
+        ],
+        "en": [
+          "qingxiao"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "渊武"
+        ],
+        "en": [
+          "yuanwu"
+        ]
+      },
+      {
+        "zh": [
+          "漂泊者"
+        ],
+        "en": [
+          "rover"
+        ]
+      },
+      {
+        "zh": [
+          "灯灯"
+        ],
+        "en": [
+          "lumi"
+        ]
+      },
+      {
+        "zh": [
+          "炽霞"
+        ],
+        "en": [
+          "chixia"
+        ]
+      },
+      {
+        "zh": [
+          "爱弥斯"
+        ],
+        "en": [
+          "aemeath"
+        ]
+      },
+      {
+        "zh": [
+          "珂莱塔"
+        ],
+        "en": [
+          "carlotta"
+        ]
+      },
+      {
+        "zh": [
+          "琳奈"
+        ],
+        "en": [
+          "lynae"
+        ]
+      },
+      {
+        "zh": [
+          "白芷"
+        ],
+        "en": [
+          "baizhi"
+        ]
+      },
+      {
+        "zh": [
+          "相里要"
+        ],
+        "en": [
+          "xiangli-yao"
+        ]
+      },
+      {
+        "zh": [
+          "秋水"
+        ],
+        "en": [
+          "aalto"
+        ]
+      },
+      {
+        "zh": [
+          "秧秧"
+        ],
+        "en": [
+          "yangyang"
+        ]
+      },
+      {
+        "zh": [
+          "秧秧·玄翎"
+        ],
+        "en": [
+          "yangyang-xuanling"
+        ],
+        "note": "秧秧 5★ 变体"
+      },
+      {
+        "zh": [
+          "穗穗"
+        ],
+        "en": [
+          "suisui"
+        ]
+      },
+      {
+        "zh": [
+          "绯雪"
+        ],
+        "en": [
+          "hiyuki"
+        ]
+      },
+      {
+        "zh": [
+          "维里奈"
+        ],
+        "en": [
+          "verina"
+        ]
+      },
+      {
+        "zh": [
+          "莫宁"
+        ],
+        "en": [
+          "mornye"
+        ]
+      },
+      {
+        "zh": [
+          "莫特斐"
+        ],
+        "en": [
+          "mortefi"
+        ]
+      },
+      {
+        "zh": [
+          "菲比"
+        ],
+        "en": [
+          "phoebe"
+        ]
+      },
+      {
+        "zh": [
+          "西格莉卡"
+        ],
+        "en": [
+          "sigrika"
+        ]
+      },
+      {
+        "zh": [
+          "赞妮"
+        ],
+        "en": [
+          "zani"
+        ]
+      },
+      {
+        "zh": [
+          "达妮娅"
+        ],
+        "en": [
+          "denia"
+        ]
+      },
+      {
+        "zh": [
+          "釉瑚"
+        ],
+        "en": [
+          "youhu"
+        ]
+      },
+      {
+        "zh": [
+          "鉴心"
+        ],
+        "en": [
+          "jianxin"
+        ]
+      },
+      {
+        "zh": [
+          "锁瞑"
+        ],
+        "en": [
+          "suoming"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "长离"
+        ],
+        "en": [
+          "changli"
+        ]
+      },
+      {
+        "zh": [
+          "陆·赫斯"
+        ],
+        "en": [
+          "luuk-herssen"
+        ]
+      },
+      {
+        "zh": [
+          "露帕"
+        ],
+        "en": [
+          "lupa"
+        ]
+      },
+      {
+        "zh": [
+          "露西"
+        ],
+        "en": [
+          "lucy"
+        ],
+        "note": "联动：赛博朋克·边缘行者"
+      }
+    ],
+    "WW×2077": [
+      {
+        "zh": [
+          "丽贝卡"
+        ],
+        "en": [
+          "rebecca"
+        ]
+      }
+    ],
+    "YNS": [
+      {
+        "zh": [
+          "春日野穹"
+        ],
+        "en": [
+          "kasugano-sora"
+        ]
+      }
+    ],
+    "YogYard": [
+      {
+        "zh": [
+          "特莉波卡"
+        ],
+        "en": [
+          "tlipoca"
+        ]
+      }
+    ],
+    "ZZZ": [
+      {
+        "zh": [
+          "11号"
+        ],
+        "en": [
+          "soldier-11"
+        ]
+      },
+      {
+        "zh": [
+          "丽娜",
+          "亚历山德丽娜·莎芭丝缇安"
+        ],
+        "en": [
+          "alexandrina-sebastiane",
+          "rina"
+        ]
+      },
+      {
+        "zh": [
+          "伊德海莉"
+        ],
+        "en": [
+          "yidhari-murphy"
+        ]
+      },
+      {
+        "zh": [
+          "伊芙琳·舒瓦利耶",
+          "伊芙琳"
+        ],
+        "en": [
+          "evelyn-chevalier",
+          "evelyn"
+        ]
+      },
+      {
+        "zh": [
+          "佩洛伊斯"
+        ],
+        "en": [
+          "pyrois"
+        ],
+        "note": "法厄同 3.0 以太异体"
+      },
+      {
+        "zh": [
+          "克拉蕾·弗林特"
+        ],
+        "en": [
+          "claret-flint"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "冯·莱卡恩"
+        ],
+        "en": [
+          "von-lycaon"
+        ]
+      },
+      {
+        "zh": [
+          "凯撒·金",
+          "凯撒"
+        ],
+        "en": [
+          "caesar-king",
+          "caesar"
+        ]
+      },
+      {
+        "zh": [
+          "千夏"
+        ],
+        "en": [
+          "sunna"
+        ]
+      },
+      {
+        "zh": [
+          "南宫羽"
+        ],
+        "en": [
+          "nangong-yu"
+        ]
+      },
+      {
+        "zh": [
+          "卢西娅"
+        ],
+        "en": [
+          "lucia-ellowen"
+        ]
+      },
+      {
+        "zh": [
+          "可琳·威克斯",
+          "可琳"
+        ],
+        "en": [
+          "corin-wickes",
+          "corin"
+        ]
+      },
+      {
+        "zh": [
+          "叶瞬光"
+        ],
+        "en": [
+          "ye-shunguang"
+        ]
+      },
+      {
+        "zh": [
+          "哲"
+        ],
+        "en": [
+          "wise"
+        ]
+      },
+      {
+        "zh": [
+          "塞斯·洛威尔",
+          "塞斯"
+        ],
+        "en": [
+          "seth-lowell",
+          "seth"
+        ]
+      },
+      {
+        "zh": [
+          "奥菲丝·马格努森",
+          "鬼火"
+        ],
+        "en": [
+          "orphie-magnusson-magus"
+        ]
+      },
+      {
+        "zh": [
+          "妮可·德玛拉",
+          "妮可"
+        ],
+        "en": [
+          "nicole-demara",
+          "nicole"
+        ]
+      },
+      {
+        "zh": [
+          "安东·伊万诺夫",
+          "安东"
+        ],
+        "en": [
+          "anton-ivanov",
+          "anton"
+        ]
+      },
+      {
+        "zh": [
+          "安比·德玛拉",
+          "安比"
+        ],
+        "en": [
+          "anby-demara",
+          "anby"
+        ]
+      },
+      {
+        "zh": [
+          "希希芙"
+        ],
+        "en": [
+          "cissia"
+        ]
+      },
+      {
+        "zh": [
+          "希格莉德·德拉叙尔"
+        ],
+        "en": [
+          "sigrid-de-lazur"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "席德"
+        ],
+        "en": [
+          "seed"
+        ]
+      },
+      {
+        "zh": [
+          "扳机"
+        ],
+        "en": [
+          "trigger"
+        ]
+      },
+      {
+        "zh": [
+          "星徽·比利"
+        ],
+        "en": [
+          "starlight-billy-kid"
+        ],
+        "note": "比利 变体"
+      },
+      {
+        "zh": [
+          "星见雅"
+        ],
+        "en": [
+          "hoshimi-miyabi"
+        ]
+      },
+      {
+        "zh": [
+          "普罗米娅"
+        ],
+        "en": [
+          "promeia"
+        ]
+      },
+      {
+        "zh": [
+          "月城柳"
+        ],
+        "en": [
+          "tsukishiro-yanagi"
+        ]
+      },
+      {
+        "zh": [
+          "本·比格",
+          "本"
+        ],
+        "en": [
+          "ben-bigger",
+          "ben"
+        ]
+      },
+      {
+        "zh": [
+          "朱鸢"
+        ],
+        "en": [
+          "zhu-yuan"
+        ]
+      },
+      {
+        "zh": [
+          "柏妮思·怀特",
+          "柏妮丝"
+        ],
+        "en": [
+          "burnice-white",
+          "burnice"
+        ]
+      },
+      {
+        "zh": [
+          "格莉丝·霍华德",
+          "格莉丝"
+        ],
+        "en": [
+          "grace-howard",
+          "grace"
+        ]
+      },
+      {
+        "zh": [
+          "橘福福"
+        ],
+        "en": [
+          "ju-fufu"
+        ]
+      },
+      {
+        "zh": [
+          "比利·奇德",
+          "比利"
+        ],
+        "en": [
+          "billy-kid",
+          "billy"
+        ]
+      },
+      {
+        "zh": [
+          "波可娜·费雷尼",
+          "波可娜"
+        ],
+        "en": [
+          "pulchra-fellini",
+          "pulchra"
+        ]
+      },
+      {
+        "zh": [
+          "洛克茜·伊芙莉塔·普莱斯"
+        ],
+        "en": [
+          "roxy-ifrita-pryce"
+        ],
+        "note": "未实装（预告）"
+      },
+      {
+        "zh": [
+          "派派·韦尔",
+          "派派"
+        ],
+        "en": [
+          "piper-wheel",
+          "piper"
+        ]
+      },
+      {
+        "zh": [
+          "浅羽悠真",
+          "悠真"
+        ],
+        "en": [
+          "asaba-harumasa",
+          "harumasa"
+        ]
+      },
+      {
+        "zh": [
+          "浮波柚叶"
+        ],
+        "en": [
+          "ukinami-yuzuha"
+        ]
+      },
+      {
+        "zh": [
+          "照"
+        ],
+        "en": [
+          "zhao"
+        ]
+      },
+      {
+        "zh": [
+          "爱丽丝·泰姆菲尔德",
+          "爱丽丝"
+        ],
+        "en": [
+          "alice-thymefield"
+        ]
+      },
+      {
+        "zh": [
+          "爱芮"
+        ],
+        "en": [
+          "aria"
+        ]
+      },
+      {
+        "zh": [
+          "狛野真斗"
+        ],
+        "en": [
+          "komano-manato"
+        ]
+      },
+      {
+        "zh": [
+          "猫宫又奈",
+          "猫又"
+        ],
+        "en": [
+          "nekomiya-mana"
+        ]
+      },
+      {
+        "zh": [
+          "珂蕾妲·贝洛伯格",
+          "珂蕾妲"
+        ],
+        "en": [
+          "koleda-belobog",
+          "koleda"
+        ]
+      },
+      {
+        "zh": [
+          "琉音"
+        ],
+        "en": [
+          "dialyn"
+        ]
+      },
+      {
+        "zh": [
+          "简",
+          "简·杜"
+        ],
+        "en": [
+          "jane-doe",
+          "jian"
+        ]
+      },
+      {
+        "zh": [
+          "维琳娜·艾嘉德"
+        ],
+        "en": [
+          "velina-airgid"
+        ]
+      },
+      {
+        "zh": [
+          "耀嘉音"
+        ],
+        "en": [
+          "astra-yao"
+        ]
+      },
+      {
+        "zh": [
+          "般岳"
+        ],
+        "en": [
+          "banyue"
+        ]
+      },
+      {
+        "zh": [
+          "艾莲·乔",
+          "艾莲"
+        ],
+        "en": [
+          "ellen-joe",
+          "ellen"
+        ]
+      },
+      {
+        "zh": [
+          "苍角"
+        ],
+        "en": [
+          "soukaku"
+        ]
+      },
+      {
+        "zh": [
+          "莱特"
+        ],
+        "en": [
+          "lighter"
+        ]
+      },
+      {
+        "zh": [
+          "薇薇安",
+          "薇薇安·班希"
+        ],
+        "en": [
+          "vivian-banshee",
+          "vivian"
+        ]
+      },
+      {
+        "zh": [
+          "诺姆·霍洛维尔"
+        ],
+        "en": [
+          "norma-hollowell"
+        ]
+      },
+      {
+        "zh": [
+          "铃"
+        ],
+        "en": [
+          "belle"
+        ]
+      },
+      {
+        "zh": [
+          "雨果·弗拉德",
+          "雨果"
+        ],
+        "en": [
+          "hugo-vlad",
+          "hugo"
+        ]
+      },
+      {
+        "zh": [
+          "零号·安比"
+        ],
+        "en": [
+          "soldier-0-anby"
+        ],
+        "note": "安比 变体"
+      },
+      {
+        "zh": [
+          "露西",
+          "露西亚娜·德·蒙特夫"
+        ],
+        "en": [
+          "luciana-de-montefio",
+          "lucy"
+        ]
+      },
+      {
+        "zh": [
+          "青衣"
+        ],
+        "en": [
+          "qingyi"
+        ]
+      }
+    ]
+  }
+}

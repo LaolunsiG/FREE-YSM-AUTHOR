@@ -1,0 +1,22 @@
+{
+  "work": {
+    "abbr": "TWST",
+    "name": {
+      "zh": [
+        "扭曲仙境",
+        "迪士尼扭曲仙境",
+        "迪士尼扭曲仙境学园"
+      ],
+      "en": [
+        "Twisted-Wonderland",
+        "Disney Twisted-Wonderland"
+      ],
+      "ja": [
+        "ディズニー ツイステッドワンダーランド",
+        "ツイステ"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": []
+}

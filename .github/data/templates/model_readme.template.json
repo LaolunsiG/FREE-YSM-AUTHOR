@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "description": "模型 README 生成模板。由 _Template/ 转化：元信息/作者元信息.md（Author/Co-creator 字段）、平台/SocialPlatform.md、平台/SupportPlatform.md（平台分类）、角色/Role.md（Role 默认值）。脚本按 sections 顺序渲染，字段值从 authors.json / platform_map.json / category_map.json / .ysm 填充。",
+  "title": "# {model_name}",
+  "sections": [
+    {
+      "key": "model_info",
+      "heading": "## Model Info",
+      "summary": "Expand/Collapse",
+      "collapsible": true,
+      "open": true,
+      "note": "预览图 + 模型元信息（角色/分类/作品），默认展开",
+      "fields": [
+        { "key": "name", "label": "**Name**" },
+        { "key": "category", "label": "**Category**" },
+        { "key": "game", "label": "**Game**", "indent": 1 }
+      ]
+    },
+    {
+      "key": "download",
+      "heading": "## Download",
+      "summary": "Expand/Collapse",
+      "collapsible": true,
+      "open": true,
+      "note": "模型下载直链（raw.githubusercontent）：.ysm 及其它模型文件（如 zip/7z 压缩包），每行 [文件名 (大小)](链接)；无可下载文件时整个区块不输出"
+    },
+    {
+      "key": "author_info",
+      "heading": "## Author Info",
+      "summary": "Expand/Collapse",
+      "collapsible": true,
+      "open": true,
+      "note": "只含 Author/Co-creator 子块，不含名称/分类字段（已上移到 Model Info），默认展开"
+    },
+    {
+      "key": "author_details",
+      "heading": "## Author",
+      "summary": "Author",
+      "collapsible": false,
+      "note": "位于 Author Info 的 <details> 内，不单独折叠；含 Name/Role/平台（作者元信息.md 结构）"
+    },
+    {
+      "key": "co_creator_details",
+      "heading": "## Co-creator",
+      "summary": "Co-creator",
+      "collapsible": false,
+      "note": "同 Author，内容来自 co_creators.json 或 .ysm 解析（co-creator 识别）"
+    }
+  ],
+  "author_block": {
+    "name_line": "- **Name**: {names}",
+    "role_line": "  - **Role**: {role}",
+    "role_default": "#模型 #动作 #动画 | #Model #Motion #Animation",
+    "id_line": "  - **Author ID**: `{author_id}`",
+    "platform_order": ["SocialPlatform", "SupportPlatform", "OtherPlatform", "GroupChat"],
+    "platform_header": "  - **{field}**: #{tags}",
+    "platform_item": "    - **{platform}**: {url}",
+    "platform_plain_item": "    - **{platform}**: {value}",
+    "social_platforms": ["Bilibili", "Twitter", "Discord", "YouTube", "Pixiv", "X"],
+    "support_platforms": ["Afdian", "Ko-fi", "UniFans", "PixivFanbox", "Patreon", "爱发电"]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "work": {
+    "abbr": "NGE",
+    "name": {
+      "zh": [
+        "新世纪福音战士",
+        "EVA",
+        "天鹰战士",
+        "新剧场版：序",
+        "新剧场版：破",
+        "新剧场版：Q",
+        "新剧场版：终"
+      ],
+      "en": [
+        "Neon‑Genesis‑Evangelion",
+        "NGE",
+        "EVA",
+        "Rebuild‑of‑Evangelion"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "碇真嗣",
+        "真嗣"
+      ],
+      "en": [
+        "Shinji‑Ikari"
+      ]
+    },
+    {
+      "zh": [
+        "绫波丽",
+        "绫波零"
+      ],
+      "en": [
+        "Rei‑Ayanami"
+      ]
+    },
+    {
+      "zh": [
+        "惣流·明日香·兰格雷",
+        "式波·明日香·兰格雷",
+        "明日香",
+        "香香"
+      ],
+      "en": [
+        "Asuka‑Langley‑Soryu",
+        "Asuka‑Langley‑Shikinami",
+        "asuka"
+      ]
+    },
+    {
+      "zh": [
+        "渚薰",
+        "塔布里斯",
+        "自由天使"
+      ],
+      "en": [
+        "Kaworu‑Nagisa",
+        "Tabris"
+      ]
+    },
+    {
+      "zh": [
+        "葛城美里",
+        "美里"
+      ],
+      "en": [
+        "Misato‑Katsuragi"
+      ]
+    },
+    {
+      "zh": [
+        "碇源堂",
+        "碇源渡",
+        "六分仪源堂",
+        "司令"
+      ],
+      "en": [
+        "Gendo‑Ikari",
+        "Gendo‑Rokubungi"
+      ]
+    },
+    {
+      "zh": [
+        "碇唯"
+      ],
+      "en": [
+        "Yui‑Ikari"
+      ]
+    },
+    {
+      "zh": [
+        "冬月耕造",
+        "冬月副司令"
+      ],
+      "en": [
+        "Kozo‑Fuyutsuki"
+      ]
+    },
+    {
+      "zh": [
+        "赤木律子",
+        "律子"
+      ],
+      "en": [
+        "Ritsuko‑Akagi"
+      ]
+    },
+    {
+      "zh": [
+        "赤木直子"
+      ],
+      "en": [
+        "Naoko‑Akagi"
+      ]
+    },
+    {
+      "zh": [
+        "加持良治",
+        "加持"
+      ],
+      "en": [
+        "Ryoji‑Kaji"
+      ]
+    },
+    {
+      "zh": [
+        "伊吹摩耶",
+        "摩耶"
+      ],
+      "en": [
+        "Maya‑Ibuki"
+      ]
+    },
+    {
+      "zh": [
+        "日向诚"
+      ],
+      "en": [
+        "Makoto‑Hyuga"
+      ]
+    },
+    {
+      "zh": [
+        "青叶茂"
+      ],
+      "en": [
+        "Shigeru‑Aoba"
+      ]
+    },
+    {
+      "zh": [
+        "铃原冬二",
+        "冬二"
+      ],
+      "en": [
+        "Toji‑Suzuhara"
+      ]
+    },
+    {
+      "zh": [
+        "相田剑介",
+        "剑介"
+      ],
+      "en": [
+        "Kensuke‑Aida"
+      ]
+    },
+    {
+      "zh": [
+        "洞木光",
+        "光"
+      ],
+      "en": [
+        "Hikari‑Horaki"
+      ]
+    },
+    {
+      "zh": [
+        "基尔·洛伦兹",
+        "基尔议长"
+      ],
+      "en": [
+        "Keel‑Lorenz"
+      ]
+    },
+    {
+      "zh": [
+        "Pen‑Pen",
+        "企鹅PenPen",
+        "片片"
+      ],
+      "en": [
+        "Pen‑Pen"
+      ]
+    }
+  ]
+}

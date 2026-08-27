@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "Fate",
+    "name": {
+      "zh": [
+        "魔法少女☆伊莉雅"
+      ],
+      "en": [
+        "Fate/kaleid liner",
+        "Fate"
+      ],
+      "ja": [
+        "プリズマ☆イリヤ）"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "伊莉雅丝菲尔"
+      ],
+      "en": [
+        "illyasviel"
+      ]
+    }
+  ]
+}

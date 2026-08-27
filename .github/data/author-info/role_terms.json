@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "terms": [
+    {
+      "key": "model",
+      "zh": "模型",
+      "en": "Model",
+      "aliases": ["模型", "建模", "model", "model author", "modeller", "3d modeler", "モデル", "モデリング"]
+    },
+    {
+      "key": "motion",
+      "zh": "动作",
+      "en": "Motion",
+      "aliases": ["动作", "motion", "rig", "rigger", "绑定", "リグ"]
+    },
+    {
+      "key": "animation",
+      "zh": "动画",
+      "en": "Animation",
+      "aliases": ["动画", "animation", "animate", "アニメーション"]
+    },
+    {
+      "key": "effect",
+      "zh": "特效",
+      "en": "Effect",
+      "aliases": ["特效", "效果", "effect", "fx", "エフェクト"]
+    },
+    {
+      "key": "texture",
+      "zh": "贴图",
+      "en": "Texture",
+      "aliases": ["贴图", "材质", "texture", "material", "テクスチャ"]
+    },
+    {
+      "key": "render",
+      "zh": "渲染",
+      "en": "Render",
+      "aliases": ["渲染", "render", "rendering", "レンダリング"]
+    },
+    {
+      "key": "sound",
+      "zh": "音效",
+      "en": "Sound",
+      "aliases": ["音效", "配音", "sound", "audio", "voice", "サウンド"]
+    },
+    {
+      "key": "test",
+      "zh": "测试",
+      "en": "Test",
+      "aliases": ["测试", "test", "qa", "テス"]
+    },
+    {
+      "key": "other",
+      "zh": "其他",
+      "en": "Other",
+      "aliases": ["其他", "其它", "other"]
+    }
+  ]
+}

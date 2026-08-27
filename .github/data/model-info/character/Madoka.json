@@ -1,0 +1,70 @@
+{
+  "work": {
+    "abbr": "Madoka",
+    "name": {
+      "zh": [
+        "魔法少女小圆"
+      ],
+      "en": [
+        "Puella Magi Madoka Magica",
+        "PMMM",
+        "Madoka"
+      ],
+      "ja": [
+        "魔法少女まどか☆マギカ"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "丘比"
+      ],
+      "en": [
+        "incubator"
+      ]
+    },
+    {
+      "zh": [
+        "佐仓杏子"
+      ],
+      "en": [
+        "sakura-kyouko"
+      ]
+    },
+    {
+      "zh": [
+        "巴麻美"
+      ],
+      "en": [
+        "tomoe-mami"
+      ]
+    },
+    {
+      "zh": [
+        "晓美焰"
+      ],
+      "en": [
+        "akemi-homura"
+      ]
+    },
+    {
+      "zh": [
+        "美树沙耶加"
+      ],
+      "en": [
+        "miki-sayaka"
+      ]
+    },
+    {
+      "zh": [
+        "鹿目圆",
+        "小圆"
+      ],
+      "en": [
+        "kaname-madoka"
+      ]
+    }
+  ]
+}

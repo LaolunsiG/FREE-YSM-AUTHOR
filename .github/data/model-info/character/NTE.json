@@ -1,0 +1,33 @@
+{
+  "work": {
+    "abbr": "NTE",
+    "name": {
+      "zh": [
+        "异环"
+      ],
+      "en": [
+        "Neverness to Everness",
+        "NTE"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "安魂曲"
+      ],
+      "en": [
+        "lacrimosa"
+      ]
+    },
+    {
+      "zh": [
+        "薄荷"
+      ],
+      "en": [
+        "bohe"
+      ]
+    }
+  ]
+}

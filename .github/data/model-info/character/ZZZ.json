@@ -1,0 +1,540 @@
+{
+  "work": {
+    "abbr": "ZZZ",
+    "name": {
+      "zh": [
+        "绝区零"
+      ],
+      "en": [
+        "Zenless-Zone-Zero",
+        "ZZZ"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "11号"
+      ],
+      "en": [
+        "soldier-11"
+      ]
+    },
+    {
+      "zh": [
+        "丽娜",
+        "亚历山德丽娜·莎芭丝缇安"
+      ],
+      "en": [
+        "alexandrina-sebastiane",
+        "rina"
+      ]
+    },
+    {
+      "zh": [
+        "伊德海莉"
+      ],
+      "en": [
+        "yidhari-murphy"
+      ]
+    },
+    {
+      "zh": [
+        "伊芙琳·舒瓦利耶",
+        "伊芙琳"
+      ],
+      "en": [
+        "evelyn-chevalier",
+        "evelyn"
+      ]
+    },
+    {
+      "zh": [
+        "佩洛伊斯"
+      ],
+      "en": [
+        "pyrois"
+      ],
+      "note": "法厄同 3.0 以太异体"
+    },
+    {
+      "zh": [
+        "克拉蕾·弗林特"
+      ],
+      "en": [
+        "claret-flint"
+      ],
+      "note": "未实装（预告）"
+    },
+    {
+      "zh": [
+        "冯·莱卡恩"
+      ],
+      "en": [
+        "von-lycaon"
+      ]
+    },
+    {
+      "zh": [
+        "凯撒·金",
+        "凯撒"
+      ],
+      "en": [
+        "caesar-king",
+        "caesar"
+      ]
+    },
+    {
+      "zh": [
+        "千夏"
+      ],
+      "en": [
+        "sunna"
+      ]
+    },
+    {
+      "zh": [
+        "南宫羽"
+      ],
+      "en": [
+        "nangong-yu"
+      ]
+    },
+    {
+      "zh": [
+        "卢西娅"
+      ],
+      "en": [
+        "lucia-ellowen"
+      ]
+    },
+    {
+      "zh": [
+        "可琳·威克斯",
+        "可琳"
+      ],
+      "en": [
+        "corin-wickes",
+        "corin"
+      ]
+    },
+    {
+      "zh": [
+        "叶瞬光"
+      ],
+      "en": [
+        "ye-shunguang"
+      ]
+    },
+    {
+      "zh": [
+        "哲"
+      ],
+      "en": [
+        "wise"
+      ]
+    },
+    {
+      "zh": [
+        "塞斯·洛威尔",
+        "塞斯"
+      ],
+      "en": [
+        "seth-lowell",
+        "seth"
+      ]
+    },
+    {
+      "zh": [
+        "奥菲丝·马格努森",
+        "鬼火"
+      ],
+      "en": [
+        "orphie-magnusson-magus"
+      ]
+    },
+    {
+      "zh": [
+        "妮可·德玛拉",
+        "妮可"
+      ],
+      "en": [
+        "nicole-demara",
+        "nicole"
+      ]
+    },
+    {
+      "zh": [
+        "安东·伊万诺夫",
+        "安东"
+      ],
+      "en": [
+        "anton-ivanov",
+        "anton"
+      ]
+    },
+    {
+      "zh": [
+        "安比·德玛拉",
+        "安比"
+      ],
+      "en": [
+        "anby-demara",
+        "anby"
+      ]
+    },
+    {
+      "zh": [
+        "希希芙"
+      ],
+      "en": [
+        "cissia"
+      ]
+    },
+    {
+      "zh": [
+        "希格莉德·德拉叙尔"
+      ],
+      "en": [
+        "sigrid-de-lazur"
+      ],
+      "note": "未实装（预告）"
+    },
+    {
+      "zh": [
+        "席德"
+      ],
+      "en": [
+        "seed"
+      ]
+    },
+    {
+      "zh": [
+        "扳机"
+      ],
+      "en": [
+        "trigger"
+      ]
+    },
+    {
+      "zh": [
+        "星徽·比利"
+      ],
+      "en": [
+        "starlight-billy-kid"
+      ],
+      "note": "比利 变体"
+    },
+    {
+      "zh": [
+        "星见雅"
+      ],
+      "en": [
+        "hoshimi-miyabi"
+      ]
+    },
+    {
+      "zh": [
+        "普罗米娅"
+      ],
+      "en": [
+        "promeia"
+      ]
+    },
+    {
+      "zh": [
+        "月城柳"
+      ],
+      "en": [
+        "tsukishiro-yanagi"
+      ]
+    },
+    {
+      "zh": [
+        "本·比格",
+        "本"
+      ],
+      "en": [
+        "ben-bigger",
+        "ben"
+      ]
+    },
+    {
+      "zh": [
+        "朱鸢"
+      ],
+      "en": [
+        "zhu-yuan"
+      ]
+    },
+    {
+      "zh": [
+        "柏妮思·怀特",
+        "柏妮丝"
+      ],
+      "en": [
+        "burnice-white",
+        "burnice"
+      ]
+    },
+    {
+      "zh": [
+        "格莉丝·霍华德",
+        "格莉丝"
+      ],
+      "en": [
+        "grace-howard",
+        "grace"
+      ]
+    },
+    {
+      "zh": [
+        "橘福福"
+      ],
+      "en": [
+        "ju-fufu"
+      ]
+    },
+    {
+      "zh": [
+        "比利·奇德",
+        "比利"
+      ],
+      "en": [
+        "billy-kid",
+        "billy"
+      ]
+    },
+    {
+      "zh": [
+        "波可娜·费雷尼",
+        "波可娜"
+      ],
+      "en": [
+        "pulchra-fellini",
+        "pulchra"
+      ]
+    },
+    {
+      "zh": [
+        "洛克茜·伊芙莉塔·普莱斯"
+      ],
+      "en": [
+        "roxy-ifrita-pryce"
+      ],
+      "note": "未实装（预告）"
+    },
+    {
+      "zh": [
+        "派派·韦尔",
+        "派派"
+      ],
+      "en": [
+        "piper-wheel",
+        "piper"
+      ]
+    },
+    {
+      "zh": [
+        "浅羽悠真",
+        "悠真"
+      ],
+      "en": [
+        "asaba-harumasa",
+        "harumasa"
+      ]
+    },
+    {
+      "zh": [
+        "浮波柚叶"
+      ],
+      "en": [
+        "ukinami-yuzuha"
+      ]
+    },
+    {
+      "zh": [
+        "照"
+      ],
+      "en": [
+        "zhao"
+      ]
+    },
+    {
+      "zh": [
+        "爱丽丝·泰姆菲尔德",
+        "爱丽丝"
+      ],
+      "en": [
+        "alice-thymefield"
+      ]
+    },
+    {
+      "zh": [
+        "爱芮"
+      ],
+      "en": [
+        "aria"
+      ]
+    },
+    {
+      "zh": [
+        "狛野真斗"
+      ],
+      "en": [
+        "komano-manato"
+      ]
+    },
+    {
+      "zh": [
+        "猫宫又奈",
+        "猫又"
+      ],
+      "en": [
+        "nekomiya-mana"
+      ]
+    },
+    {
+      "zh": [
+        "珂蕾妲·贝洛伯格",
+        "珂蕾妲"
+      ],
+      "en": [
+        "koleda-belobog",
+        "koleda"
+      ]
+    },
+    {
+      "zh": [
+        "琉音"
+      ],
+      "en": [
+        "dialyn"
+      ]
+    },
+    {
+      "zh": [
+        "简",
+        "简·杜"
+      ],
+      "en": [
+        "jane-doe",
+        "jian"
+      ]
+    },
+    {
+      "zh": [
+        "维琳娜·艾嘉德"
+      ],
+      "en": [
+        "velina-airgid"
+      ]
+    },
+    {
+      "zh": [
+        "耀嘉音"
+      ],
+      "en": [
+        "astra-yao"
+      ]
+    },
+    {
+      "zh": [
+        "般岳"
+      ],
+      "en": [
+        "banyue"
+      ]
+    },
+    {
+      "zh": [
+        "艾莲·乔",
+        "艾莲"
+      ],
+      "en": [
+        "ellen-joe",
+        "ellen"
+      ]
+    },
+    {
+      "zh": [
+        "苍角"
+      ],
+      "en": [
+        "soukaku"
+      ]
+    },
+    {
+      "zh": [
+        "莱特"
+      ],
+      "en": [
+        "lighter"
+      ]
+    },
+    {
+      "zh": [
+        "薇薇安",
+        "薇薇安·班希"
+      ],
+      "en": [
+        "vivian-banshee",
+        "vivian"
+      ]
+    },
+    {
+      "zh": [
+        "诺姆·霍洛维尔"
+      ],
+      "en": [
+        "norma-hollowell"
+      ]
+    },
+    {
+      "zh": [
+        "铃"
+      ],
+      "en": [
+        "belle"
+      ]
+    },
+    {
+      "zh": [
+        "雨果·弗拉德",
+        "雨果"
+      ],
+      "en": [
+        "hugo-vlad",
+        "hugo"
+      ]
+    },
+    {
+      "zh": [
+        "零号·安比"
+      ],
+      "en": [
+        "soldier-0-anby"
+      ],
+      "note": "安比 变体"
+    },
+    {
+      "zh": [
+        "露西",
+        "露西亚娜·德·蒙特夫"
+      ],
+      "en": [
+        "luciana-de-montefio",
+        "lucy"
+      ]
+    },
+    {
+      "zh": [
+        "青衣"
+      ],
+      "en": [
+        "qingyi"
+      ]
+    }
+  ]
+}

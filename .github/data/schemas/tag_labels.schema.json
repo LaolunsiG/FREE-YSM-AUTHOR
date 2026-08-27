@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "propertyNames": { "pattern": "^[a-z][a-z0-9-]*$" },
+  "additionalProperties": {
+    "type": "object",
+    "required": ["zh", "en", "category"],
+    "properties": {
+      "zh": { "type": "string", "description": "中文标签名（显示用，如 推荐）" },
+      "en": { "type": "string", "description": "英文标签名（显示用，如 Recommended）" },
+      "category": {
+        "type": "string",
+        "enum": ["quality", "nsfw", "team"],
+        "description": "标签类别：quality=质量/常规，nsfw=内容警示，team=团队"
+      },
+      "emoji": {
+        "type": "string",
+        "description": "根 README 标记列的 emoji（空串=不在根 README 表格显示）"
+      },
+      "order": {
+        "type": "integer",
+        "description": "显示顺序（小在前；图例/作者 README 标签按此排序）"
+      }
+    }
+  }
+}

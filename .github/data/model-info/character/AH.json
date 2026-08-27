@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "AH",
+    "name": {
+      "zh": [
+        "原子之心"
+      ],
+      "en": [
+        "Atomic-Heart",
+        "AH"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "舞伶"
+      ],
+      "en": [
+        "wuling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work": {
+    "abbr": "YogYard",
+    "name": {
+      "zh": [
+        "犹格索托斯的庭院：炼金旅社"
+      ],
+      "en": [
+        "Yog-Sothoth's Yard",
+        "YogYard",
+        "YGYST"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "特莉波卡"
+      ],
+      "en": [
+        "tlipoca"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "work": {
+    "abbr": "PCD",
+    "name": {
+      "zh": [
+        "名侦探光之美少女"
+      ],
+      "en": [
+        "Pretty Cure Detective"
+      ],
+      "ja": [
+        "名探偵プリキュア"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "森亚露露卡",
+        "露露卡"
+      ],
+      "en": [
+        "Moria‑Ruruka"
+      ],
+      "ja": [
+        "森亜るるか"
+      ]
+    }
+  ]
+}

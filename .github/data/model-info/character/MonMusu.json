@@ -1,0 +1,35 @@
+{
+  "work": {
+    "abbr": "MonMusu",
+    "name": {
+      "zh": [
+        "魔物娘的相伴日常",
+        "魔物娘的同居日常",
+        "魔物娘"
+      ],
+      "en": [
+        "Monster Musume: Everyday Life with Monster Girls",
+        "Monster Musume no Iru Nichijou"
+      ],
+      "ja": [
+        "モンスター娘のいる日常"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "米亚",
+        "拉弥亚",
+        "蛇娘"
+      ],
+      "en": [
+        "Miia"
+      ],
+      "ja": [
+        "ミーア"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "DR",
+    "name": {
+      "zh": [
+        "龙族"
+      ],
+      "en": [
+        "Dragon Raja",
+        "DR"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "夏弥"
+      ],
+      "en": [
+        "jormungandr"
+      ]
+    }
+  ]
+}

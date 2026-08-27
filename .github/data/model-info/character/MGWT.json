@@ -1,0 +1,40 @@
+{
+  "work": {
+    "abbr": "MGWT",
+    "name": {
+      "zh": [
+        "魔法少女的魔女审判"
+      ],
+      "en": [
+        "Magical Girl Witch Trial",
+        "MGWT"
+      ],
+      "ja": [
+        "魔法少女ノ魔女裁判"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "冰上梅露露"
+      ],
+      "en": [
+        "Hikami‑Meruru"
+      ],
+      "ja": [
+        "氷上メルル",
+        "メルちゃん"
+      ]
+    },
+    {
+      "zh": [
+        "樱羽艾玛"
+      ],
+      "en": [
+        "sakuraba-ema"
+      ]
+    }
+  ]
+}

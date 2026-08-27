@@ -1,0 +1,38 @@
+{
+  "work": {
+    "abbr": "TMNI",
+    "name": {
+      "zh": [
+        "魔法禁书目录",
+        "某魔法的禁书目录"
+      ],
+      "en": [
+        "A Certain Magical Index",
+        "Toaru Majutsu no Index",
+        "TMNI"
+      ],
+      "ja": [
+        "とある魔術の禁書目録"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "御坂美琴"
+      ],
+      "en": [
+        "misaka-mikoto"
+      ]
+    },
+    {
+      "zh": [
+        "食蜂操祈"
+      ],
+      "en": [
+        "shokuhou-misaki"
+      ]
+    }
+  ]
+}

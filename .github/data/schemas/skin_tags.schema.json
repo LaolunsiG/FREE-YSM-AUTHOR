@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "skin_tags.schema.json",
+  "title": "皮肤标签标准化表 skin_tags.json",
+  "description": "全局皮肤标签（不分作品）：键=标准名（英文优先，无英文用中文）；name={语言: 标准名(可缺失)}；aliases=[混合别名(不分语言，用于匹配)]。",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "required": ["name"],
+    "properties": {
+      "name": {
+        "type": "object",
+        "properties": {
+          "zh": { "type": "string" },
+          "en": { "type": "string" },
+          "ja": { "type": "string" }
+        }
+      },
+      "aliases": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "work": {
+    "abbr": "SENREN",
+    "name": {
+      "zh": [
+        "千恋＊万花"
+      ],
+      "en": [
+        "Senren＊Banka",
+        "SENREN"
+      ],
+      "ja": [
+        "せんれん＊ばんか"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "丛雨"
+      ],
+      "en": [
+        "murasame",
+        "murasame_uniform"
+      ]
+    }
+  ]
+}

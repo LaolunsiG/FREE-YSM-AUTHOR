@@ -1,0 +1,53 @@
+{
+  "work": {
+    "abbr": "BtR",
+    "name": {
+      "zh": [
+        "孤独摇滚！"
+      ],
+      "en": [
+        "Bocchi-the-Rock!",
+        "BtR"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "伊地知虹夏"
+      ],
+      "en": [
+        "nijika-ijichi"
+      ]
+    },
+    {
+      "zh": [
+        "后藤一里",
+        "波奇酱"
+      ],
+      "en": [
+        "gotoh-hitori",
+        "hitori-goto"
+      ]
+    },
+    {
+      "zh": [
+        "喜多郁代"
+      ],
+      "en": [
+        "kita-ikuyo"
+      ]
+    },
+    {
+      "zh": [
+        "酸甜凉",
+        "山田凉",
+        "凉爷"
+      ],
+      "en": [
+        "ryou-yamada"
+      ]
+    }
+  ]
+}

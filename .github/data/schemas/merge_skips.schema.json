@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "merge_skips.schema.json",
+  "title": "同模型合并跳过名单 merge_skips.json",
+  "description": "字符串数组,每条为 '<作品>|<中文角色>|<英文角色> ↔ <作品>|<中文角色>|<英文角色>' 形式;命中时同模型合并跳过。",
+  "type": "array",
+  "items": { "type": "string" }
+}

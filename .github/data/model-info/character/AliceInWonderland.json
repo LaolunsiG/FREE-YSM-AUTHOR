@@ -1,0 +1,26 @@
+{
+  "work": {
+    "abbr": "AliceInWonderland",
+    "name": {
+      "zh": [
+        "爱丽丝梦游仙境",
+        "爱丽丝漫游奇境记"
+      ],
+      "en": [
+        "Alice's Adventures in Wonderland",
+        "Alice in Wonderland"
+      ]
+    },
+    "category": "Novel"
+  },
+  "roles": [
+    {
+      "zh": [
+        "爱丽丝"
+      ],
+      "en": [
+        "Alice"
+      ]
+    }
+  ]
+}

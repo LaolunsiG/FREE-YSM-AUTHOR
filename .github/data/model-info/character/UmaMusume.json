@@ -1,0 +1,52 @@
+{
+  "work": {
+    "abbr": "UmaMusume",
+    "name": {
+      "zh": [
+        "闪耀！优俊少女",
+        "赛马娘"
+      ],
+      "en": [
+        "Umamusume: Pretty Derby",
+        "UmaMusume",
+        "UM"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "北部玄驹"
+      ],
+      "en": [
+        "kitasan_black"
+      ],
+      "note": "示例：赛马娘北部玄驹"
+    },
+    {
+      "zh": [
+        "待兼诗歌剧"
+      ],
+      "en": [
+        "matikanetannhauser"
+      ]
+    },
+    {
+      "zh": [
+        "爱丽数码"
+      ],
+      "en": [
+        "um-agnes-digital"
+      ]
+    },
+    {
+      "zh": [
+        "菱钻奇宝"
+      ],
+      "en": [
+        "um-hishi-miracle"
+      ]
+    }
+  ]
+}

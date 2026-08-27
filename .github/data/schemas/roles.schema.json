@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "roles.schema.json",
+  "title": "角色知识库 character/*.json（work + roles 格式）",
+  "description": "每个作品一个文件：work(作品元数据,含 abbr 权威键) + roles(角色数组)。纯手工维护(无自动构建),条目无 source 键；作品键由 work.abbr 决定,角色归属由文件级 work.abbr 决定。",
+  "type": "object",
+  "required": ["work", "roles"],
+  "properties": {
+    "work": {
+      "type": "object",
+      "required": ["id", "abbr"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^W\\d{3,}$",
+                "description": "内部唯一作品编号（W001-W999+，按 abbr 字母序分配，撞缩写时消歧用）" },
+        "abbr": { "type": "string" },
+        "name": {
+          "type": "object",
+          "properties": {
+            "zh": { "type": "array", "items": { "type": "string" } },
+            "en": { "type": "array", "items": { "type": "string" } },
+            "ja": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "category": {
+          "oneOf": [
+            {
+              "type": "string",
+              "enum": ["Game", "Anime", "Manga", "Novel", "Music", "Original", "Other"]
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": ["Game", "Anime", "Manga", "Novel", "Music", "Original", "Other"]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "roles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["zh", "en"],
+        "properties": {
+          "zh": { "type": "array", "items": { "type": "string" } },
+          "en": { "type": "array", "items": { "type": "string" } },
+          "ja": { "type": "array", "items": { "type": "string" } },
+          "note": { "type": "string" },
+          "skin": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "zh": { "type": "array", "items": { "type": "string" } },
+                "en": { "type": "array", "items": { "type": "string" } }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

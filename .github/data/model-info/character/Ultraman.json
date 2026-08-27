@@ -1,0 +1,32 @@
+{
+  "work": {
+    "abbr": "Ultraman",
+    "name": {
+      "zh": [
+        "奥特曼"
+      ],
+      "en": [
+        "Ultraman"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "加坦杰厄"
+      ],
+      "en": [
+        "gatanothor"
+      ]
+    },
+    {
+      "zh": [
+        "杰顿"
+      ],
+      "en": [
+        "zetton"
+      ]
+    }
+  ]
+}

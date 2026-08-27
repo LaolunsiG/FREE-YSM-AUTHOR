@@ -1,0 +1,330 @@
+{
+  "work": {
+    "abbr": "Touhou",
+    "name": {
+      "zh": [
+        "东方 Project"
+      ],
+      "en": [
+        "Touhou-Project",
+        "TH",
+        "TOUHOU"
+      ]
+    },
+    "category": "Other"
+  },
+  "roles": [
+    {
+      "zh": [
+        "上白泽慧音"
+      ],
+      "en": [
+        "keine-kamishirasawa"
+      ]
+    },
+    {
+      "zh": [
+        "东风谷早苗"
+      ],
+      "en": [
+        "kochiya-sanae"
+      ]
+    },
+    {
+      "zh": [
+        "伊吹萃香"
+      ],
+      "en": [
+        "ibuki-suika"
+      ]
+    },
+    {
+      "zh": [
+        "依神紫苑"
+      ],
+      "en": [
+        "yorigami-shion"
+      ]
+    },
+    {
+      "zh": [
+        "八云紫"
+      ],
+      "en": [
+        "yakumo-yukari"
+      ]
+    },
+    {
+      "zh": [
+        "八意永琳"
+      ],
+      "en": [
+        "yagokoro-eirin"
+      ]
+    },
+    {
+      "zh": [
+        "十六夜咲夜"
+      ],
+      "en": [
+        "izayoi-sakuya",
+        "sakuya"
+      ]
+    },
+    {
+      "zh": [
+        "博丽灵梦"
+      ],
+      "en": [
+        "hakurei-reimu",
+        "reimu"
+      ]
+    },
+    {
+      "zh": [
+        "卡娜·安娜贝拉尔"
+      ],
+      "en": [
+        "kana-anaberal"
+      ]
+    },
+    {
+      "zh": [
+        "古明地恋"
+      ],
+      "en": [
+        "komeiji-koishi"
+      ]
+    },
+    {
+      "zh": [
+        "古明地觉"
+      ],
+      "en": [
+        "satori"
+      ]
+    },
+    {
+      "zh": [
+        "四季映姬"
+      ],
+      "en": [
+        "eiki-shiki",
+        "shiki-eiki"
+      ]
+    },
+    {
+      "zh": [
+        "大妖精"
+      ],
+      "en": [
+        "daiyousei"
+      ]
+    },
+    {
+      "zh": [
+        "夹克子"
+      ],
+      "en": [
+        "jiakezi"
+      ]
+    },
+    {
+      "zh": [
+        "射命丸文"
+      ],
+      "en": [
+        "shameimaru-aya"
+      ]
+    },
+    {
+      "zh": [
+        "帕秋莉",
+        "帕秋莉·诺蕾姬"
+      ],
+      "en": [
+        "patchouli-knowledge"
+      ]
+    },
+    {
+      "zh": [
+        "幽谷响子"
+      ],
+      "en": [
+        "kasodani-kyouko"
+      ]
+    },
+    {
+      "zh": [
+        "日白残无"
+      ],
+      "en": [
+        "nippaku-zanmu"
+      ]
+    },
+    {
+      "zh": [
+        "比那名居天子"
+      ],
+      "en": [
+        "hinanawi-tenshi"
+      ]
+    },
+    {
+      "zh": [
+        "爱丽丝·玛格特洛依德",
+        "爱丽丝"
+      ],
+      "en": [
+        "alice-margatroid",
+        "alice"
+      ]
+    },
+    {
+      "zh": [
+        "犬走椛"
+      ],
+      "en": [
+        "inubashiri-momizi"
+      ]
+    },
+    {
+      "zh": [
+        "琪露诺"
+      ],
+      "en": [
+        "cirno"
+      ]
+    },
+    {
+      "zh": [
+        "秦心"
+      ],
+      "en": [
+        "hata-no-kokoro",
+        "hatanokokoro"
+      ]
+    },
+    {
+      "zh": [
+        "稗田阿求"
+      ],
+      "en": [
+        "hieda-no-akyuu"
+      ]
+    },
+    {
+      "zh": [
+        "米斯蒂娅"
+      ],
+      "en": [
+        "mystia-lorelei"
+      ]
+    },
+    {
+      "zh": [
+        "芙兰朵露·斯卡蕾特",
+        "芙兰朵露"
+      ],
+      "en": [
+        "flandre-scarlet",
+        "flandre"
+      ]
+    },
+    {
+      "zh": [
+        "蓬莱山辉夜"
+      ],
+      "en": [
+        "houraisan-kaguya"
+      ]
+    },
+    {
+      "zh": [
+        "蕾米莉亚",
+        "蕾米莉亚·斯卡蕾特"
+      ],
+      "en": [
+        "remilia-scarlet"
+      ]
+    },
+    {
+      "zh": [
+        "藤原妹红"
+      ],
+      "en": [
+        "fujiwara-no-mokou"
+      ]
+    },
+    {
+      "zh": [
+        "诹访子"
+      ],
+      "en": [
+        "moriya-suwako"
+      ]
+    },
+    {
+      "zh": [
+        "铃仙·优昙华院·因幡",
+        "铃仙"
+      ],
+      "en": [
+        "reisen-udongein-inaba",
+        "reisen"
+      ]
+    },
+    {
+      "zh": [
+        "键山雏"
+      ],
+      "en": [
+        "kagiyama-hina"
+      ]
+    },
+    {
+      "zh": [
+        "雾雨魔理沙",
+        "魔理沙"
+      ],
+      "en": [
+        "marisa-kirisame",
+        "kirisame-marisa"
+      ]
+    },
+    {
+      "zh": [
+        "霍青娥"
+      ],
+      "en": [
+        "kaku-seiga"
+      ]
+    },
+    {
+      "zh": [
+        "露米娅"
+      ],
+      "en": [
+        "rumia"
+      ]
+    },
+    {
+      "zh": [
+        "风见幽香"
+      ],
+      "en": [
+        "kazami-yuuka"
+      ]
+    },
+    {
+      "zh": [
+        "魂魄妖梦",
+        "妖梦"
+      ],
+      "en": [
+        "konpaku-youmu",
+        "konpaku-yōmu"
+      ]
+    }
+  ]
+}

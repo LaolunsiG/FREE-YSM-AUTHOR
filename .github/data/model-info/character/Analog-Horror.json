@@ -1,0 +1,42 @@
+{
+  "work": {
+    "abbr": "Analog-Horror",
+    "name": {
+      "zh": [
+        "模拟恐怖",
+        "模拟信号恐怖"
+      ],
+      "en": [
+        "Analog-Horror"
+      ]
+    },
+    "category": "Other"
+  },
+  "roles": [
+    {
+      "zh": [
+        "沸腾者",
+        "煮沸者"
+      ],
+      "en": [
+        "The-Boiled-One"
+      ]
+    },
+    {
+      "zh": [
+        "神之模型"
+      ],
+      "en": [
+        "The‑God‑Model"
+      ]
+    },
+    {
+      "zh": [
+        "蝗虫"
+      ],
+      "en": [
+        "The-Locust"
+      ]
+    }
+  ]
+}

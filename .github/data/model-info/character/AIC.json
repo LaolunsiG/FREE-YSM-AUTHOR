@@ -1,0 +1,34 @@
+{
+  "work": {
+    "abbr": "AIC",
+    "name": {
+      "zh": [
+        "爱丽丝的摇篮"
+      ],
+      "en": [
+        "Alice in Cradle",
+        "AIC"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "爱丽丝"
+      ],
+      "en": [
+        "Alice"
+      ]
+    },
+    {
+      "zh": [
+        "诺艾儿",
+        "诺艾尔"
+      ],
+      "en": [
+        "Noelle"
+      ]
+    }
+  ]
+}

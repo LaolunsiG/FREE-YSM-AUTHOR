@@ -1,0 +1,33 @@
+{
+  "work": {
+    "abbr": "LOR",
+    "name": {
+      "zh": [
+        "废墟图书馆"
+      ],
+      "en": [
+        "Library of Ruina",
+        "LOR"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "卡莉"
+      ],
+      "en": [
+        "kali"
+      ]
+    },
+    {
+      "zh": [
+        "比娜"
+      ],
+      "en": [
+        "binah"
+      ]
+    }
+  ]
+}

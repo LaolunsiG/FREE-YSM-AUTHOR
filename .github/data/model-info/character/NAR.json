@@ -1,0 +1,52 @@
+{
+  "work": {
+    "abbr": "NAR",
+    "name": {
+      "zh": [
+        "火影忍者: 疾风传",
+        "火影忍者剧场版：忍者之路"
+      ],
+      "en": [
+        "NARUTO",
+        "Naruto Shippuden",
+        "NARUTO‑The‑Movie‑Road‑to‑Ninja",
+        "NARUTO‑Road‑to‑Ninja",
+        "NAR"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "佐助"
+      ],
+      "en": [
+        "sasuke"
+      ]
+    },
+    {
+      "zh": [
+        "鸣人"
+      ],
+      "en": [
+        "naruto"
+      ]
+    },
+    {
+      "zh": [
+        "漩涡面麻",
+        "神秘面具男【忍者之路】",
+        "神秘面具男",
+        "黑鸣人",
+        "面麻"
+      ],
+      "en": [
+        "Uzumaki‑Menma"
+      ],
+      "ja": [
+        "うずまきメンマ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work": {
+    "abbr": "GBC",
+    "name": {
+      "zh": [
+        "哭泣少女乐队"
+      ],
+      "en": [
+        "Girls Band Cry",
+        "GBC"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "井芹仁菜"
+      ],
+      "en": [
+        "iseri-nina"
+      ]
+    },
+    {
+      "zh": [
+        "卢帕"
+      ],
+      "en": [
+        "rupa"
+      ]
+    },
+    {
+      "zh": [
+        "原木桃香"
+      ],
+      "en": [
+        "kawaragi-momoka"
+      ]
+    },
+    {
+      "zh": [
+        "海老冢智"
+      ],
+      "en": [
+        "Ebizuka‑Tomo",
+        "Tomo"
+      ]
+    }
+  ]
+}

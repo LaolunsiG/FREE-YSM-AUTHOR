@@ -1,0 +1,19 @@
+{
+  "work": {
+    "abbr": "ONM",
+    "name": {
+      "zh": [
+        "阴阳师"
+      ],
+      "en": [
+        "Onmyoji",
+        "ONM"
+      ],
+      "ja": [
+        "陰陽師"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": []
+}

@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "Identity-V",
+    "name": {
+      "zh": [
+        "第五人格"
+      ],
+      "en": [
+        "Identity V",
+        "Identity-V"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "锁芯"
+      ],
+      "en": [
+        "lockheart"
+      ]
+    }
+  ]
+}

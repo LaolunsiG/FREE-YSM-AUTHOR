@@ -1,0 +1,28 @@
+{
+  "work": {
+    "abbr": "DOHNA",
+    "name": {
+      "zh": [
+        "多娜多娜 一起干坏事吧！"
+      ],
+      "en": [
+        "Dohna Dohna: Let's Do Bad Things Together",
+        "DOHNA"
+      ],
+      "ja": [
+        "ドーナドーナ いっしょにわるいことしよう"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "菊千代"
+      ],
+      "en": [
+        "mibu-kikuchiyo"
+      ]
+    }
+  ]
+}

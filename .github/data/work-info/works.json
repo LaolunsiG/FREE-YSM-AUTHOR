@@ -1,0 +1,2522 @@
+{
+  "version": "2.0",
+  "generated": "2026-08-24",
+  "works": {
+    "300-Heroes": {
+      "name": {
+        "zh": [
+          "300 英雄"
+        ],
+        "en": [
+          "300 Heroes",
+          "300-Heroes"
+        ],
+        "ja": [
+          "300 ヒーローズ"
+        ]
+      },
+      "category": "Game"
+    },
+    "5Toubun": {
+      "name": {
+        "zh": [
+          "五等分的新娘"
+        ],
+        "en": [
+          "The Quintessential Quintuplets",
+          "5Toubun"
+        ],
+        "ja": [
+          "五等分の花嫁"
+        ]
+      },
+      "category": "Anime"
+    },
+    "86": {
+      "name": {
+        "zh": [
+          "86 -不存在的战区-"
+        ],
+        "en": [
+          "86 -Eighty Six-",
+          "86"
+        ],
+        "ja": [
+          "86―エイティシックス―"
+        ]
+      },
+      "category": "Anime"
+    },
+    "AH": {
+      "name": {
+        "zh": [
+          "原子之心"
+        ],
+        "en": [
+          "Atomic-Heart",
+          "AH"
+        ]
+      },
+      "category": "Game"
+    },
+    "AIC": {
+      "name": {
+        "zh": [
+          "爱丽丝的摇篮"
+        ],
+        "en": [
+          "Alice in Cradle",
+          "AIC"
+        ]
+      },
+      "category": "Game"
+    },
+    "AIRI": {
+      "name": {
+        "zh": [
+          "亚托莉‑我挚爱的时光‑"
+        ],
+        "en": [
+          "ATRI -My Dear Moments-",
+          "ATRI",
+          "AIRI"
+        ],
+        "ja": [
+          "ATRI ‑My Dear Moments‑"
+        ]
+      },
+      "category": "Anime"
+    },
+    "AK": {
+      "name": {
+        "zh": [
+          "明日方舟"
+        ],
+        "en": [
+          "Arknights",
+          "AK"
+        ]
+      },
+      "category": "Game"
+    },
+    "AKE": {
+      "name": {
+        "zh": [
+          "明日方舟：终末地",
+          "终末地"
+        ],
+        "en": [
+          "Arknights-Endfield",
+          "AKE"
+        ]
+      },
+      "category": "Game"
+    },
+    "AL": {
+      "name": {
+        "zh": [
+          "碧蓝航线"
+        ],
+        "en": [
+          "Azur-Lane",
+          "AL"
+        ],
+        "ja": [
+          "アズールレーン"
+        ]
+      },
+      "category": "Game"
+    },
+    "AliceInWonderland": {
+      "name": {
+        "zh": [
+          "爱丽丝梦游仙境",
+          "爱丽丝漫游奇境记"
+        ],
+        "en": [
+          "Alice's Adventures in Wonderland",
+          "Alice in Wonderland"
+        ]
+      },
+      "category": "Novel"
+    },
+    "Analog-Horror": {
+      "name": {
+        "zh": [
+          "模拟恐怖",
+          "模拟信号恐怖"
+        ],
+        "en": [
+          "Analog-Horror"
+        ]
+      },
+      "category": "Other"
+    },
+    "Animal": {
+      "name": {
+        "zh": [
+          "动物"
+        ],
+        "en": [
+          "Animal"
+        ]
+      },
+      "category": "Other"
+    },
+    "AoT": {
+      "name": {
+        "zh": [
+          "进击的巨人"
+        ],
+        "en": [
+          "Attack on Titan",
+          "AoT"
+        ],
+        "ja": [
+          "進撃の巨人"
+        ]
+      },
+      "category": "Anime"
+    },
+    "AP": {
+      "name": {
+        "zh": [
+          "蓝色星原"
+        ],
+        "en": [
+          "Azur-Promilia",
+          "AP"
+        ]
+      },
+      "category": "Game"
+    },
+    "AS": {
+      "name": {
+        "zh": [
+          "白夜极光"
+        ],
+        "en": [
+          "Alchemy Stars",
+          "AS"
+        ],
+        "ja": [
+          "白夜極光"
+        ]
+      },
+      "category": "Game"
+    },
+    "ASE": {
+      "name": {
+        "zh": [
+          "星辰恋曲的白色永恒"
+        ],
+        "en": [
+          "White Eternity",
+          "AstralAir no Shiroki Eien",
+          "ASE"
+        ],
+        "ja": [
+          "アストラエアの白き永遠"
+        ]
+      },
+      "category": "Game"
+    },
+    "Ash-Arms": {
+      "name": {
+        "zh": [
+          "灰烬战线"
+        ],
+        "en": [
+          "Ash-Arms"
+        ]
+      },
+      "category": "Game"
+    },
+    "AstralParty": {
+      "name": {
+        "zh": [
+          "吉星派对",
+          "星引擎 Party"
+        ],
+        "en": [
+          "Astral Party",
+          "Astral-Party",
+          "AstralParty"
+        ]
+      },
+      "category": "Game"
+    },
+    "AveMujica": {
+      "name": {
+        "zh": [
+          "颂乐人偶"
+        ],
+        "en": [
+          "BanG Dream! Ave Mujica",
+          "AveMujica"
+        ]
+      },
+      "category": "Anime"
+    },
+    "BA": {
+      "name": {
+        "zh": [
+          "碧蓝档案",
+          "蔚蓝档案"
+        ],
+        "en": [
+          "Blue-Archive",
+          "BA"
+        ]
+      },
+      "category": "Game"
+    },
+    "BEA": {
+      "name": {
+        "zh": [
+          "兽耳助手",
+          "兽耳桌面",
+          "兽耳 Project"
+        ],
+        "en": [
+          "Mimikko"
+        ],
+        "ja": [
+          "けもみみアシスタント"
+        ]
+      },
+      "category": "Game"
+    },
+    "BF-1": {
+      "name": {
+        "zh": [
+          "战地-1"
+        ],
+        "en": [
+          "Battlefield-1",
+          "BF-1"
+        ]
+      },
+      "category": "Game"
+    },
+    "BP": {
+      "name": {
+        "zh": [
+          "蓝色协议"
+        ],
+        "en": [
+          "Blue Protocol",
+          "BP"
+        ],
+        "ja": [
+          "ブループロトコル"
+        ]
+      },
+      "category": "Game"
+    },
+    "BRS": {
+      "name": {
+        "zh": [
+          "黑岩射手"
+        ],
+        "en": [
+          "Black Rock Shooter",
+          "BRS"
+        ],
+        "ja": [
+          "ブラック★ロックシューター"
+        ]
+      },
+      "category": "Game"
+    },
+    "BtR": {
+      "name": {
+        "zh": [
+          "孤独摇滚！"
+        ],
+        "en": [
+          "Bocchi-the-Rock!",
+          "BtR"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Cardcaptor": {
+      "name": {
+        "zh": [
+          "魔卡少女樱",
+          "百变小樱"
+        ],
+        "en": [
+          "Cardcaptor Sakura",
+          "Cardcaptor"
+        ],
+        "ja": [
+          "カードキャプターさくら"
+        ]
+      },
+      "category": "Anime"
+    },
+    "CeVIO": {
+      "name": {
+        "zh": [
+          "CeVIO"
+        ],
+        "en": [
+          "CeVIO"
+        ],
+        "ja": [
+          "セヴィオ"
+        ]
+      },
+      "category": "Music"
+    },
+    "CGSS": {
+      "name": {
+        "zh": [
+          "偶像大师 灰姑娘女孩"
+        ],
+        "en": [
+          "THE IDOLM@STER Cinderella Girls",
+          "CGSS"
+        ],
+        "ja": [
+          "アイドルマスター シンデレラガールズ"
+        ]
+      },
+      "category": "Game"
+    },
+    "CNC": {
+      "name": {
+        "zh": [
+          "命令与征服"
+        ],
+        "en": [
+          "Command & Conquer",
+          "CNC"
+        ]
+      },
+      "category": "Game"
+    },
+    "CSM": {
+      "name": {
+        "zh": [
+          "链锯人",
+          "电锯人"
+        ],
+        "en": [
+          "Chainsaw Man",
+          "CSM"
+        ],
+        "ja": [
+          "チェンソーマン"
+        ]
+      },
+      "category": "Anime"
+    },
+    "D4DJ": {
+      "name": {
+        "zh": [
+          "D4DJ"
+        ],
+        "en": [
+          "D4DJ: Groovy Mix",
+          "D4DJ"
+        ],
+        "ja": [
+          "D4DJ Groovy Mix"
+        ]
+      },
+      "category": "Game"
+    },
+    "DAL": {
+      "name": {
+        "zh": [
+          "约会大作战"
+        ],
+        "en": [
+          "Date A Live",
+          "DAL"
+        ],
+        "ja": [
+          "デート・ア・ライブ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "DDLC": {
+      "name": {
+        "zh": [
+          "心跳文学部！"
+        ],
+        "en": [
+          "Doki-Doki-Literature-Club!",
+          "DDLC"
+        ]
+      },
+      "category": "Game"
+    },
+    "DeepVocal": {
+      "name": {
+        "zh": [
+          "DeepVocal"
+        ],
+        "en": [
+          "DeepVocal",
+          "DV"
+        ]
+      },
+      "category": "Music"
+    },
+    "Delta-Force": {
+      "name": {
+        "zh": [
+          "三角洲行动"
+        ],
+        "en": [
+          "Delta Force",
+          "Delta-Force"
+        ]
+      },
+      "category": "Game"
+    },
+    "DFO": {
+      "name": {
+        "zh": [
+          "地下城与勇士"
+        ],
+        "en": [
+          "Dungeon & Fighter",
+          "DNF",
+          "DFO"
+        ]
+      },
+      "category": "Anime"
+    },
+    "DM": {
+      "name": {},
+      "category": "Other"
+    },
+    "DMC": {
+      "name": {},
+      "category": "Other"
+    },
+    "DOA": {
+      "name": {
+        "zh": [
+          "死或生"
+        ],
+        "en": [
+          "Dead or Alive",
+          "DOA"
+        ]
+      },
+      "category": "Game"
+    },
+    "DOHNA": {
+      "name": {
+        "zh": [
+          "多娜多娜 一起干坏事吧！"
+        ],
+        "en": [
+          "Dohna Dohna: Let's Do Bad Things Together",
+          "DOHNA"
+        ],
+        "ja": [
+          "ドーナドーナ いっしょにわるいことしよう"
+        ]
+      },
+      "category": "Game"
+    },
+    "DR": {
+      "name": {
+        "zh": [
+          "龙族"
+        ],
+        "en": [
+          "Dragon Raja",
+          "DR"
+        ]
+      },
+      "category": "Anime"
+    },
+    "DS": {
+      "name": {
+        "zh": [
+          "鬼灭之刃"
+        ],
+        "en": [
+          "Demon Slayer",
+          "Kimetsu no Yaiba",
+          "DS"
+        ],
+        "ja": [
+          "鬼滅の刃"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Edgerunners": {
+      "name": {
+        "zh": [
+          "赛博朋克：边缘行者"
+        ],
+        "en": [
+          "Cyberpunk: Edgerunners"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Fate": {
+      "name": {
+        "zh": [
+          "魔法少女☆伊莉雅"
+        ],
+        "en": [
+          "Fate/kaleid liner",
+          "Fate"
+        ],
+        "ja": [
+          "プリズマ☆イリヤ）"
+        ]
+      },
+      "category": "Anime"
+    },
+    "FGO": {
+      "name": {
+        "zh": [
+          "命运 - 冠位指定"
+        ],
+        "en": [
+          "Fate-Grand-Order",
+          "FGO"
+        ]
+      },
+      "category": "Game"
+    },
+    "FHZ": {
+      "name": {},
+      "category": "Other"
+    },
+    "Final-Gear": {
+      "name": {
+        "zh": [
+          "重装战姬"
+        ],
+        "en": [
+          "Final Gear"
+        ]
+      },
+      "category": "Game"
+    },
+    "Food Girls": {
+      "name": {
+        "zh": [
+          "食用系少女"
+        ],
+        "en": [
+          "Food Girls"
+        ]
+      },
+      "category": "Game"
+    },
+    "Frieren": {
+      "name": {
+        "zh": [
+          "葬送的芙莉莲"
+        ],
+        "en": [
+          "Frieren-Beyond-Journey's-End",
+          "Frieren"
+        ]
+      },
+      "category": "Anime"
+    },
+    "FSM": {
+      "name": {
+        "zh": [
+          "狐妖小红娘"
+        ],
+        "en": [
+          "Fox-Spirit-Matchmaker",
+          "FSM"
+        ]
+      },
+      "category": "Anime"
+    },
+    "GBC": {
+      "name": {
+        "zh": [
+          "哭泣少女乐队"
+        ],
+        "en": [
+          "Girls Band Cry",
+          "GBC"
+        ]
+      },
+      "category": "Anime"
+    },
+    "GBTT": {
+      "name": {
+        "zh": [
+          "我要成为双马尾！"
+        ],
+        "en": [
+          "Gonna Be the Twin‑Tail!!",
+          "Ore",
+          "Twintail ni Narimasu.",
+          "GBTT"
+        ],
+        "ja": [
+          "俺、ツインテールになります。"
+        ]
+      },
+      "category": "Anime"
+    },
+    "GCG": {
+      "name": {
+        "zh": [
+          "双生视界",
+          "少女咖啡槍II"
+        ],
+        "en": [
+          "Girl Cafe Gun",
+          "GCG"
+        ],
+        "ja": [
+          "ガルカフェ"
+        ]
+      },
+      "category": "Game"
+    },
+    "GF": {
+      "name": {
+        "zh": [
+          "少女前线",
+          "少女前线 2",
+          "少女前线 2：追放",
+          "少前 2：追放",
+          "少女前线：云图计划",
+          "云图计划"
+        ],
+        "en": [
+          "Girls' Frontline",
+          "GF",
+          "GF2",
+          "GIRLS' FRONTLINE 2:EXILIUM",
+          "Girls' Frontline: Neural Cloud",
+          "Project Neural Cloud",
+          "NC"
+        ]
+      },
+      "category": "Game"
+    },
+    "GI": {
+      "name": {
+        "zh": [
+          "原神"
+        ],
+        "en": [
+          "Genshin Impact",
+          "Genshin",
+          "GI"
+        ]
+      },
+      "category": "Game"
+    },
+    "GLT": {
+      "name": {
+        "zh": [
+          "少女终末旅行"
+        ],
+        "en": [
+          "Girls' Last Tour",
+          "GLT"
+        ],
+        "ja": [
+          "少女終末旅行"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Granblue": {
+      "name": {
+        "zh": [
+          "碧蓝幻想：RELINK"
+        ],
+        "en": [
+          "Granblue Fantasy: Relink",
+          "GBR",
+          "Granblue"
+        ]
+      },
+      "category": "Game"
+    },
+    "Gundam": {
+      "name": {
+        "zh": [
+          "机动战士高达"
+        ],
+        "en": [
+          "Mobile Suit Gundam",
+          "Gundam"
+        ],
+        "ja": [
+          "機動戦士ガンダム"
+        ]
+      },
+      "category": "Anime"
+    },
+    "HDN": {
+      "name": {
+        "zh": [
+          "超次元游戏"
+        ],
+        "en": [
+          "Hyperdimension Neptunia",
+          "HDN"
+        ]
+      },
+      "category": "Game"
+    },
+    "HI3": {
+      "name": {
+        "zh": [
+          "崩坏 3"
+        ],
+        "en": [
+          "Honkai-Impact-3",
+          "HI3"
+        ]
+      },
+      "category": "Game"
+    },
+    "HLP": {
+      "name": {
+        "zh": [
+          "天降之物"
+        ],
+        "en": [
+          "Heaven's Lost Property",
+          "HLP"
+        ],
+        "ja": [
+          "そらのおとしもの"
+        ]
+      },
+      "category": "Anime"
+    },
+    "HNM": {
+      "name": {
+        "zh": [
+          "星空的记忆"
+        ],
+        "en": [
+          "Wish upon a shooting star",
+          "Hoshizora no Memoria",
+          "HNM"
+        ],
+        "ja": [
+          "星空のメモリア"
+        ]
+      },
+      "category": "Game"
+    },
+    "HNTSADL": {
+      "name": {
+        "zh": [
+          "异界少女召唤术",
+          "异世界魔王与召唤少女的奴隶魔术"
+        ],
+        "en": [
+          "How Not to Summon a Demon Lord",
+          "HNTSADL"
+        ],
+        "ja": [
+          "異世界魔王と召喚少女の奴隷魔術"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Hololive": {
+      "name": {
+        "zh": [
+          "hololive"
+        ],
+        "en": [
+          "Hololive",
+          "Holo"
+        ],
+        "ja": [
+          "ホロライブ"
+        ]
+      },
+      "category": "Music"
+    },
+    "HSR": {
+      "name": {
+        "zh": [
+          "崩坏：星穹铁道"
+        ],
+        "en": [
+          "Honkai-Star-Rail",
+          "HSR"
+        ]
+      },
+      "category": "Game"
+    },
+    "Identity-V": {
+      "name": {
+        "zh": [
+          "第五人格"
+        ],
+        "en": [
+          "Identity V",
+          "Identity-V"
+        ]
+      },
+      "category": "Game"
+    },
+    "IN": {
+      "name": {
+        "zh": [
+          "无限暖暖"
+        ],
+        "en": [
+          "Infinity Nikki",
+          "IN"
+        ]
+      },
+      "category": "Game"
+    },
+    "JJK": {
+      "name": {
+        "zh": [
+          "咒术回战"
+        ],
+        "en": [
+          "Jujutsu Kaisen",
+          "JJK"
+        ],
+        "ja": [
+          "呪術廻戦"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Kaguya": {
+      "name": {
+        "zh": [
+          "辉夜大小姐想让我告白"
+        ],
+        "en": [
+          "Kaguya-sama: Love Is War",
+          "Kaguya"
+        ],
+        "ja": [
+          "かぐや様は告らせたい"
+        ]
+      },
+      "category": "Anime"
+    },
+    "KAI": {
+      "name": {
+        "zh": [
+          "绊爱"
+        ],
+        "en": [
+          "Kizuna AI",
+          "KAI"
+        ],
+        "ja": [
+          "キズナアイ"
+        ]
+      },
+      "category": "Music"
+    },
+    "KanCollect": {
+      "name": {},
+      "category": "Other"
+    },
+    "KG": {
+      "name": {
+        "zh": [
+          "兽耳学园",
+          "兽耳学院"
+        ],
+        "en": [
+          "Kemomimi Gakuen",
+          "KG"
+        ],
+        "ja": [
+          "ケモミミ学園"
+        ]
+      },
+      "category": "Other"
+    },
+    "Kisekoi": {
+      "name": {
+        "zh": [
+          "更衣人偶坠入爱河",
+          "恋上换装娃娃"
+        ],
+        "en": [
+          "My Dress-Up Darling",
+          "MDUD",
+          "Kisekoi"
+        ],
+        "ja": [
+          "その着せ替え人形は恋をする"
+        ]
+      },
+      "category": "Anime"
+    },
+    "KonoSuba": {
+      "name": {
+        "zh": [
+          "为美好的世界献上祝福！"
+        ],
+        "en": [
+          "KonoSuba: God's Blessing on This Wonderful World!",
+          "Kono Subarashii Sekai ni Shukufuku wo!",
+          "KonoSuba",
+          "KON"
+        ],
+        "ja": [
+          "この素晴らしい世界に祝福を！"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Kusuriya": {
+      "name": {
+        "zh": [
+          "药屋少女的呢喃"
+        ],
+        "en": [
+          "The Apothecary Diaries",
+          "Kusuriya"
+        ],
+        "ja": [
+          "薬屋のひとりごと"
+        ]
+      },
+      "category": "Anime"
+    },
+    "LaDS": {
+      "name": {
+        "zh": [
+          "恋与深空"
+        ],
+        "en": [
+          "Love and Deepspace",
+          "LaDS"
+        ]
+      },
+      "category": "Game"
+    },
+    "LC": {
+      "name": {
+        "zh": [
+          "边狱巴士",
+          "边狱公司"
+        ],
+        "en": [
+          "Limbus Company",
+          "LC"
+        ]
+      },
+      "category": "Game"
+    },
+    "LCOD": {
+      "name": {
+        "zh": [
+          "中二病でも恋がしたい！"
+        ],
+        "en": [
+          "Love",
+          "Chunibyo & Other Delusions",
+          "LCOD"
+        ],
+        "ja": [
+          "中二病也要谈恋爱！"
+        ]
+      },
+      "category": "Anime"
+    },
+    "LL": {
+      "name": {
+        "zh": [
+          "Love Live! 学园偶像祭"
+        ],
+        "en": [
+          "Love Live! School Idol Festival",
+          "LL"
+        ],
+        "ja": [
+          "ラブライブ！スクールアイドルフェスティバル"
+        ]
+      },
+      "category": "Game"
+    },
+    "LOL": {
+      "name": {
+        "zh": [
+          "英雄联盟"
+        ],
+        "en": [
+          "League of Legends",
+          "LOL"
+        ]
+      },
+      "category": "Game"
+    },
+    "LOR": {
+      "name": {
+        "zh": [
+          "废墟图书馆"
+        ],
+        "en": [
+          "Library of Ruina",
+          "LOR"
+        ]
+      },
+      "category": "Game"
+    },
+    "LoveMe": {
+      "name": {
+        "zh": [
+          "枫与铃"
+        ],
+        "en": [
+          "LoveMe"
+        ],
+        "ja": [
+          "らぶみー♡"
+        ]
+      },
+      "category": "Anime"
+    },
+    "LR": {
+      "name": {
+        "zh": [
+          "莉可丽丝"
+        ],
+        "en": [
+          "Lycoris Recoil",
+          "LycoReco",
+          "LR"
+        ],
+        "ja": [
+          "リコリス・リコイル"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Madoka": {
+      "name": {
+        "zh": [
+          "魔法少女小圆"
+        ],
+        "en": [
+          "Puella Magi Madoka Magica",
+          "PMMM",
+          "Madoka"
+        ],
+        "ja": [
+          "魔法少女まどか☆マギカ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Magia-Record": {
+      "name": {
+        "zh": [
+          "魔法纪录 魔法少女小圆外传"
+        ],
+        "en": [
+          "Magia Record: Puella Magi Madoka Magica Side Story",
+          "Magia-Record"
+        ],
+        "ja": [
+          "マギアレコード 魔法少女まどか☆マギカ外伝"
+        ]
+      },
+      "category": "Game"
+    },
+    "Maimai-DX": {
+      "name": {
+        "zh": [
+          "舞萌DX",
+          "maimai DX"
+        ],
+        "en": [
+          "maimai-DX",
+          "Maimai-DX"
+        ]
+      },
+      "category": "Game"
+    },
+    "Meme": {
+      "name": {
+        "zh": [
+          "模因"
+        ],
+        "en": [
+          "Meme"
+        ]
+      },
+      "category": "Other"
+    },
+    "MGC": {
+      "name": {
+        "zh": [
+          "魔法少女天穹法妮雅"
+        ],
+        "en": [
+          "Magical Girl Celesphonia",
+          "MGC"
+        ],
+        "ja": [
+          "魔法少女セレスフォニア"
+        ]
+      },
+      "category": "Game"
+    },
+    "MGWT": {
+      "name": {
+        "zh": [
+          "魔法少女的魔女审判"
+        ],
+        "en": [
+          "Magical Girl Witch Trial",
+          "MGWT"
+        ],
+        "ja": [
+          "魔法少女ノ魔女裁判"
+        ]
+      },
+      "category": "Game"
+    },
+    "MH": {
+      "name": {
+        "zh": [
+          "怪物猎人"
+        ],
+        "en": [
+          "Monster Hunter"
+        ],
+        "ja": [
+          "モンスターハンター"
+        ]
+      },
+      "category": "Game"
+    },
+    "MHO": {
+      "name": {
+        "zh": [
+          "負けヒロインが多すぎる！"
+        ],
+        "en": [
+          "Make Heroine ga Oosugiru!",
+          "MHO"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MIA": {
+      "name": {
+        "zh": [
+          "来自深渊"
+        ],
+        "en": [
+          "Made in Abyss"
+        ],
+        "ja": [
+          "メイドインアビス"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Minecraft": {
+      "name": {
+        "zh": [
+          "我的世界"
+        ],
+        "en": [
+          "Minecraft"
+        ]
+      },
+      "category": "Game"
+    },
+    "MiSide": {
+      "name": {
+        "zh": [
+          "米塔"
+        ],
+        "en": [
+          "MiSide"
+        ]
+      },
+      "category": "Game"
+    },
+    "MJ": {
+      "name": {
+        "zh": [
+          "雀魂麻将",
+          "雀魂"
+        ],
+        "en": [
+          "Majsoul",
+          "MJ"
+        ],
+        "ja": [
+          "雀魂"
+        ]
+      },
+      "category": "Game"
+    },
+    "MKDM": {
+      "name": {
+        "zh": [
+          "小林家的龙女仆"
+        ],
+        "en": [
+          "Miss Kobayashi's Dragon Maidm",
+          "MKDM"
+        ],
+        "ja": [
+          "小林さんちのメイドラゴン"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MKZ": {
+      "name": {
+        "zh": [
+          "没落贵族琉璃川椿"
+        ],
+        "en": [
+          "MorotsuiKizoku",
+          "MKZ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MNT": {
+      "name": {
+        "zh": [
+          "魔女之旅"
+        ],
+        "en": [
+          "Wandering Witch: The Journey of Elaina",
+          "Wandering Witch",
+          "WanderingWitch",
+          "Majo no Tabitabi"
+        ],
+        "ja": [
+          "魔女の旅々"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Mochiyama Kingyo": {
+      "name": {
+        "zh": [
+          "もち山金魚"
+        ],
+        "en": [
+          "Mochiyama Kingyo"
+        ]
+      },
+      "category": "Other"
+    },
+    "MonMusu": {
+      "name": {
+        "zh": [
+          "魔物娘的相伴日常",
+          "魔物娘的同居日常",
+          "魔物娘"
+        ],
+        "en": [
+          "Monster Musume: Everyday Life with Monster Girls",
+          "Monster Musume no Iru Nichijou"
+        ],
+        "ja": [
+          "モンスター娘のいる日常"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MSNS": {
+      "name": {
+        "zh": [
+          "魔都精兵的奴隶"
+        ],
+        "en": [
+          "Mato Seihei no Sureibu",
+          "MSNS"
+        ],
+        "ja": [
+          "魔都精兵のスレイブ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MushokuTensei": {
+      "name": {
+        "zh": [
+          "无职转生～到了异世界就拿出真本事～"
+        ],
+        "en": [
+          "MushokuTensei"
+        ],
+        "ja": [
+          "無職転生 ～異世界行ったら本気だす～"
+        ]
+      },
+      "category": "Anime"
+    },
+    "MyGO": {
+      "name": {
+        "zh": [
+          "迷途之子！！！！！"
+        ],
+        "en": [
+          "BanG Dream! It's MyGO!!!!!",
+          "MyGO"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Myth": {
+      "name": {
+        "zh": [
+          "神话"
+        ],
+        "en": [
+          "Myth"
+        ]
+      },
+      "category": "Other"
+    },
+    "Naga-u": {
+      "name": {
+        "zh": [
+          "ながユー"
+        ],
+        "en": [
+          "naga u",
+          "Naga-u"
+        ]
+      },
+      "category": "Other"
+    },
+    "NAR": {
+      "name": {
+        "zh": [
+          "火影忍者: 疾风传"
+        ],
+        "en": [
+          "NARUTO",
+          "Naruto Shippuden",
+          "NAR"
+        ]
+      },
+      "category": "Game"
+    },
+    "NEKOPARA": {
+      "name": {
+        "zh": [
+          "巧克力与香子兰",
+          "猫娘乐园"
+        ],
+        "en": [
+          "NEKOPARA"
+        ],
+        "ja": [
+          "ネコぱら"
+        ]
+      },
+      "category": "Game"
+    },
+    "NEO": {
+      "name": {
+        "zh": [
+          "主播女孩重度依赖"
+        ],
+        "en": [
+          "Needy Girl Overdos",
+          "Needy Girl Overdose",
+          "NEO",
+          "NGO"
+        ],
+        "ja": [
+          "ニーディーガール・オーバードーズ"
+        ]
+      },
+      "category": "Game"
+    },
+    "NEUTRINO": {
+      "name": {
+        "zh": [
+          "NEUTRINO"
+        ],
+        "en": [
+          "NEUTRINO"
+        ]
+      },
+      "category": "Music"
+    },
+    "NGE": {
+      "name": {
+        "zh": [
+          "新世纪福音战士"
+        ],
+        "en": [
+          "Neon-Genesis-Evangelion",
+          "NGE",
+          "EVA"
+        ]
+      },
+      "category": "Game"
+    },
+    "NIJISANJI": {
+      "name": {
+        "zh": [
+          "彩虹社"
+        ],
+        "en": [
+          "NIJISANJI",
+          "Niji"
+        ],
+        "ja": [
+          "にじさんじ"
+        ]
+      },
+      "category": "Music"
+    },
+    "Nikke": {
+      "name": {
+        "zh": [
+          "胜利女神：妮姬"
+        ],
+        "en": [
+          "Goddess of Victory: Nikke",
+          "Nikke"
+        ]
+      },
+      "category": "Game"
+    },
+    "NTE": {
+      "name": {
+        "zh": [
+          "异环"
+        ],
+        "en": [
+          "Neverness to Everness",
+          "NTE"
+        ]
+      },
+      "category": "Game"
+    },
+    "OC": {
+      "name": {
+        "zh": [
+          "原创角色"
+        ],
+        "en": [
+          "Original Character",
+          "OC"
+        ]
+      },
+      "category": "Original"
+    },
+    "ONIMAI": {
+      "name": {
+        "zh": [
+          "别当欧尼酱了！"
+        ],
+        "en": [
+          "Onii-chan wa Oshimai!",
+          "ONIMAI"
+        ],
+        "ja": [
+          "お兄ちゃんはおしまい！"
+        ]
+      },
+      "category": "Anime"
+    },
+    "ONM": {
+      "name": {
+        "zh": [
+          "阴阳师"
+        ],
+        "en": [
+          "Onmyoji",
+          "ONM"
+        ],
+        "ja": [
+          "陰陽師"
+        ]
+      },
+      "category": "Game"
+    },
+    "OshiNoKo": {
+      "name": {
+        "zh": [
+          "我推的孩子"
+        ],
+        "en": [
+          "Oshi no Ko",
+          "OnK"
+        ],
+        "ja": [
+          "【推しの子】"
+        ]
+      },
+      "category": "Anime"
+    },
+    "PCD": {
+      "name": {
+        "zh": [
+          "名侦探光之美少女"
+        ],
+        "en": [
+          "Pretty Cure Detective"
+        ],
+        "ja": [
+          "名探偵プリキュア"
+        ]
+      },
+      "category": "Anime"
+    },
+    "PCR": {
+      "name": {
+        "zh": [
+          "公主连结Re:Dive"
+        ],
+        "en": [
+          "Princess Connect! Re:Dive",
+          "PCR"
+        ],
+        "ja": [
+          "プリンセスコネクト！Re:Dive"
+        ]
+      },
+      "category": "Game"
+    },
+    "PGR": {
+      "name": {
+        "zh": [
+          "战双帕弥什"
+        ],
+        "en": [
+          "Punishing: Gray Raven"
+        ]
+      },
+      "category": "Game"
+    },
+    "PNF": {
+      "name": {
+        "zh": [
+          "飞哥与小佛"
+        ],
+        "en": [
+          "Phineas and Ferb",
+          "PNF"
+        ],
+        "ja": [
+          "フィニアスとファーブ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "ProSeka": {
+      "name": {
+        "zh": [
+          "世界计划 彩色舞台 feat. 初音未来"
+        ],
+        "en": [
+          "Project Sekai",
+          "ProSeka"
+        ],
+        "ja": [
+          "プロジェクトセカイ カラフルステージ！ feat. 初音ミク"
+        ]
+      },
+      "category": "Game"
+    },
+    "PTE": {
+      "name": {
+        "zh": [
+          "pop 子和 pipi 美的日常"
+        ],
+        "en": [
+          "Pop Team Epic",
+          "PTE"
+        ],
+        "ja": [
+          "ポプテピピック"
+        ]
+      },
+      "category": "Anime"
+    },
+    "PtN": {
+      "name": {
+        "zh": [
+          "无期迷途"
+        ],
+        "en": [
+          "Path to Nowhere",
+          "PtN"
+        ]
+      },
+      "category": "Game"
+    },
+    "PVZ": {
+      "name": {
+        "zh": [
+          "植物大战僵尸"
+        ],
+        "en": [
+          "Plants vs. Zombies",
+          "PVZ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "R1999": {
+      "name": {
+        "zh": [
+          "重返未来：1999"
+        ],
+        "en": [
+          "Reverse: 1999",
+          "R1999"
+        ]
+      },
+      "category": "Game"
+    },
+    "R6S": {
+      "name": {
+        "zh": [
+          "彩虹六号：围攻"
+        ],
+        "en": [
+          "Tom Clancy's Rainbow Six Siege",
+          "R6S"
+        ]
+      },
+      "category": "Game"
+    },
+    "RA2": {
+      "name": {
+        "zh": [
+          "命令与征服：红色警戒 2"
+        ],
+        "en": [
+          "Command-&-Conquer: Red-Alert-2",
+          "Red-Alert-2",
+          "RA2"
+        ]
+      },
+      "category": "Game"
+    },
+    "RA3": {
+      "name": {
+        "zh": [
+          "命令与征服：红色警戒 3"
+        ],
+        "en": [
+          "Command-&-Conquer: Red-Alert-3",
+          "Red-Alert-3",
+          "RA3"
+        ]
+      },
+      "category": "Game"
+    },
+    "RDND": {
+      "name": {
+        "zh": [
+          "青春猪头少年系列"
+        ],
+        "en": [
+          "Rascal Does Not Dream",
+          "RDND"
+        ],
+        "ja": [
+          "青春ブタ野郎はバニーガール先輩の夢を見ない",
+          "青春ブタ野郎シリーズ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Real": {
+      "name": {},
+      "category": "Other"
+    },
+    "Red": {
+      "name": {},
+      "category": "Other"
+    },
+    "ReZero": {
+      "name": {
+        "zh": [
+          "Re:从零开始的异世界生活"
+        ],
+        "en": [
+          "Re:Zero"
+        ]
+      },
+      "category": "Anime"
+    },
+    "RI": {
+      "name": {
+        "zh": [
+          "蛊真人"
+        ],
+        "en": [
+          "Reverend Insanity",
+          "RI"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Ringing-Fate": {
+      "name": {
+        "zh": [
+          "命运拳台"
+        ],
+        "en": [
+          "Ringing Fate",
+          "Ringing-Fate"
+        ]
+      },
+      "category": "Anime"
+    },
+    "ROH": {
+      "name": {
+        "zh": [
+          "回复术士的重启人生"
+        ],
+        "en": [
+          "Redo of Healer",
+          "ROH"
+        ],
+        "ja": [
+          "回復術士のやり直し"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Saekano": {
+      "name": {
+        "zh": [
+          "路人女主的养成方法"
+        ],
+        "en": [
+          "Saekano: How to Raise a Boring Girlfriend",
+          "SAEKANO"
+        ]
+      },
+      "category": "Anime"
+    },
+    "SakuraMoyu": {
+      "name": {
+        "zh": [
+          "樱花摸鱼",
+          "樱花、萌放"
+        ],
+        "en": [
+          "‑as the Night's",
+          "Reincarnation‑",
+          "Sakura Moyu"
+        ],
+        "ja": [
+          "さくら、もゆ"
+        ]
+      },
+      "category": "Game"
+    },
+    "SAO": {
+      "name": {
+        "zh": [
+          "刀剑神域"
+        ],
+        "en": [
+          "Sword Art Online",
+          "Sōdo Āto Onrain",
+          "SAO"
+        ],
+        "ja": [
+          "ソードアート・オンライン"
+        ]
+      },
+      "category": "Anime"
+    },
+    "SENREN": {
+      "name": {
+        "zh": [
+          "千恋＊万花"
+        ],
+        "en": [
+          "Senren＊Banka",
+          "SENREN"
+        ],
+        "ja": [
+          "せんれん＊ばんか"
+        ]
+      },
+      "category": "Game"
+    },
+    "SGYY": {
+      "name": {
+        "zh": [
+          "三国演义"
+        ],
+        "en": [
+          "Romance-of-the-Three-Kingdoms",
+          "Three-Kingdoms"
+        ]
+      },
+      "category": "Novel"
+    },
+    "ShinyColors": {
+      "name": {
+        "zh": [
+          "偶像大师 闪耀色彩"
+        ],
+        "en": [
+          "THE IDOLM@STER Shiny Colors",
+          "ShinyColors"
+        ],
+        "ja": [
+          "アイドルマスター シャイニーカラーズ"
+        ]
+      },
+      "category": "Game"
+    },
+    "Snowbreak": {
+      "name": {
+        "zh": [
+          "尘白禁区"
+        ],
+        "en": [
+          "Snowbreak: Containment Zone",
+          "snowbreak"
+        ]
+      },
+      "category": "Game"
+    },
+    "SP": {
+      "name": {},
+      "category": "Other"
+    },
+    "SPY×FAMILY": {
+      "name": {
+        "zh": [
+          "间谍过家家"
+        ],
+        "en": [
+          "SPY×FAMILY"
+        ]
+      },
+      "category": "Game"
+    },
+    "SSW": {
+      "name": {
+        "zh": [
+          "不擅长人际交往的未亡人雪女与诅咒之戒"
+        ],
+        "en": [
+          "The Lonely Snow Widow and the Cursed Ring",
+          "The Shy Snow Woman and the Cursed Ring",
+          "SSW"
+        ],
+        "ja": [
+          "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Starlight": {
+      "name": {
+        "zh": [
+          "少女☆歌剧 Revue Starlight"
+        ],
+        "en": [
+          "Revue Starlight",
+          "Starlight"
+        ],
+        "ja": [
+          "少女☆歌劇 レヴュースタァライト"
+        ]
+      },
+      "category": "Game"
+    },
+    "Steins-Gate": {
+      "name": {
+        "zh": [
+          "命运石之门"
+        ],
+        "en": [
+          "Steins;Gate",
+          "Steins-Gate"
+        ],
+        "ja": [
+          "シュタインズ・ゲート"
+        ]
+      },
+      "category": "Anime"
+    },
+    "STR": {
+      "name": {
+        "zh": [
+          "夏日重现"
+        ],
+        "en": [
+          "Summer Time Rendering",
+          "STR"
+        ],
+        "ja": [
+          "サマータイムレンダ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Strinova": {
+      "name": {
+        "zh": [
+          "卡拉比丘"
+        ],
+        "en": [
+          "Strinova",
+          "Calabiyau"
+        ]
+      },
+      "category": "Game"
+    },
+    "Sun Shower": {
+      "name": {
+        "zh": [
+          "天气雨"
+        ],
+        "en": [
+          "Sun Shower"
+        ],
+        "ja": [
+          "天気雨（てんきあめ / Tenkiame）"
+        ]
+      },
+      "category": "Game"
+    },
+    "SynthV": {
+      "name": {
+        "zh": [
+          "Synthesizer V"
+        ],
+        "en": [
+          "Synthesizer V",
+          "SynthV"
+        ],
+        "ja": [
+          "シンセサイザーV"
+        ]
+      },
+      "category": "Music"
+    },
+    "Tenshi": {
+      "name": {
+        "zh": [
+          "天使嚣嚣"
+        ],
+        "en": [
+          "Tenshi Souzou",
+          "Tenshi"
+        ],
+        "ja": [
+          "天使騒々 RE‑BIRTH!"
+        ]
+      },
+      "category": "Game"
+    },
+    "Tensura": {
+      "name": {
+        "zh": [
+          "关于我转生变成史莱姆这档事"
+        ],
+        "en": [
+          "That Time I Got Reincarnated as a Slime",
+          "Tensura"
+        ],
+        "ja": [
+          "転生したらスライムだった件"
+        ]
+      },
+      "category": "Anime"
+    },
+    "TF": {
+      "name": {
+        "zh": [
+          "奴隶少女希尔薇"
+        ],
+        "en": [
+          "Teaching Feeling",
+          "TF"
+        ]
+      },
+      "category": "Game"
+    },
+    "TFD": {
+      "name": {
+        "zh": [
+          "未来日记"
+        ],
+        "en": [
+          "The Future Diary",
+          "TFD"
+        ],
+        "ja": [
+          "未来日記"
+        ]
+      },
+      "category": "Anime"
+    },
+    "TMNI": {
+      "name": {
+        "zh": [
+          "魔法禁书目录",
+          "某魔法的禁书目录"
+        ],
+        "en": [
+          "A Certain Magical Index",
+          "Toaru Majutsu no Index",
+          "TMNI"
+        ],
+        "ja": [
+          "とある魔術の禁書目録"
+        ]
+      },
+      "category": "Anime"
+    },
+    "To-LOVE-Ru": {
+      "name": {
+        "zh": [
+          "出包王女"
+        ],
+        "en": [
+          "To LOVE Ru",
+          "To-LOVE-Ru"
+        ],
+        "ja": [
+          "To LOVE る - とらぶる -"
+        ]
+      },
+      "category": "Anime"
+    },
+    "ToF": {
+      "name": {
+        "zh": [
+          "幻塔"
+        ],
+        "en": [
+          "Tower of Fantasy",
+          "ToF"
+        ]
+      },
+      "category": "Game"
+    },
+    "Tokyo-Ghoul": {
+      "name": {
+        "zh": [
+          "东京食尸鬼"
+        ],
+        "en": [
+          "Tokyo Ghoul",
+          "Tokyo-Ghoul"
+        ],
+        "ja": [
+          "東京喰種トーキョーグール"
+        ]
+      },
+      "category": "Anime"
+    },
+    "Touhou": {
+      "name": {
+        "zh": [
+          "东方 Project"
+        ],
+        "en": [
+          "Touhou-Project",
+          "TH",
+          "TOUHOU"
+        ]
+      },
+      "category": "Other"
+    },
+    "TSK": {
+      "name": {
+        "zh": [
+          "闪耀星骑士"
+        ],
+        "en": [
+          "Twinkle Star Knights",
+          "TSK"
+        ],
+        "ja": [
+          "ティンクルスターナイツ"
+        ]
+      },
+      "category": "Game"
+    },
+    "TWST": {
+      "name": {
+        "zh": [
+          "扭曲仙境",
+          "迪士尼扭曲仙境",
+          "迪士尼扭曲仙境学园"
+        ],
+        "en": [
+          "Twisted-Wonderland",
+          "Disney Twisted-Wonderland"
+        ],
+        "ja": [
+          "ディズニー ツイステッドワンダーランド",
+          "ツイステ"
+        ]
+      },
+      "category": "Game"
+    },
+    "Ultraman": {
+      "name": {
+        "zh": [
+          "奥特曼"
+        ],
+        "en": [
+          "Ultraman"
+        ]
+      },
+      "category": "Anime"
+    },
+    "UmaMusume": {
+      "name": {
+        "zh": [
+          "闪耀！优俊少女",
+          "赛马娘"
+        ],
+        "en": [
+          "Umamusume: Pretty Derby",
+          "UmaMusume",
+          "UM"
+        ]
+      },
+      "category": "Game"
+    },
+    "Undertale": {
+      "name": {
+        "zh": [
+          "传说之下"
+        ],
+        "en": [
+          "Undertale"
+        ]
+      },
+      "category": "Game"
+    },
+    "Utau": {
+      "name": {
+        "zh": [
+          "虚拟歌手",
+          "术力口"
+        ],
+        "en": [
+          "Utauloid",
+          "UTAU"
+        ]
+      },
+      "category": "Music"
+    },
+    "VE": {
+      "name": {
+        "zh": [
+          "紫罗兰永恒花园"
+        ],
+        "en": [
+          "Violet Evergarden",
+          "VE"
+        ],
+        "ja": [
+          "ヴァイオレット・エヴァーガーデン"
+        ]
+      },
+      "category": "Anime"
+    },
+    "VOC": {
+      "name": {
+        "zh": [
+          "虚拟歌姬",
+          "V 家",
+          "术力口",
+          "虚拟歌手"
+        ],
+        "en": [
+          "VOCALOID",
+          "VOC"
+        ]
+      },
+      "category": "Music"
+    },
+    "VShojo": {
+      "name": {
+        "zh": [
+          "VShojo"
+        ],
+        "en": [
+          "VShojo"
+        ]
+      },
+      "category": "Music"
+    },
+    "VTuber": {
+      "name": {
+        "zh": [
+          "虚拟主播"
+        ],
+        "en": [
+          "Virtual YouTuber",
+          "VTuber"
+        ],
+        "ja": [
+          "バーチャルユーチューバー"
+        ]
+      },
+      "category": "Music"
+    },
+    "WT": {
+      "name": {
+        "zh": [
+          "战争雷霆",
+          "战雷"
+        ],
+        "en": [
+          "War Thunder"
+        ],
+        "ja": [
+          "ウォーサンダー"
+        ]
+      },
+      "category": "Game"
+    },
+    "WW": {
+      "name": {
+        "zh": [
+          "鸣潮"
+        ],
+        "en": [
+          "Wuthering-Waves",
+          "WuWa",
+          "WW"
+        ]
+      },
+      "category": "Game"
+    },
+    "WW×2077": {
+      "name": {},
+      "category": "Other"
+    },
+    "YNS": {
+      "name": {
+        "zh": [
+          "缘之空"
+        ],
+        "en": [
+          "Yosuga no Sora",
+          "YNS"
+        ],
+        "ja": [
+          "ヨスガノソラ"
+        ]
+      },
+      "category": "Anime"
+    },
+    "YogYard": {
+      "name": {
+        "zh": [
+          "犹格索托斯的庭院：炼金旅社"
+        ],
+        "en": [
+          "Yog-Sothoth's Yard",
+          "YogYard",
+          "YGYST"
+        ]
+      },
+      "category": "Game"
+    },
+    "ZH": {
+      "name": {
+        "zh": [
+          "命令与征服：绝命时刻"
+        ],
+        "en": [
+          "Command & Conquer Generals: Zero Hour",
+          "Zero Hour",
+          "ZH"
+        ]
+      },
+      "category": "Game"
+    },
+    "ZZZ": {
+      "name": {
+        "zh": [
+          "绝区零"
+        ],
+        "en": [
+          "Zenless-Zone-Zero",
+          "ZZZ"
+        ]
+      },
+      "category": "Game"
+    }
+  },
+  "work_model_counts": {
+    "BA": 138,
+    "AveMujica": 12,
+    "DMC": 1,
+    "GI": 46,
+    "Minecraft": 36,
+    "OC": 75,
+    "PCD": 3,
+    "Touhou": 68,
+    "UmaMusume": 7,
+    "AK": 95,
+    "AKE": 7,
+    "GF": 21,
+    "HSR": 52,
+    "_unknown": 389,
+    "VTuber": 23,
+    "WW": 24,
+    "Ash-Arms": 2,
+    "AL": 65,
+    "FGO": 8,
+    "NGE": 3,
+    "Nikke": 11,
+    "Snowbreak": 4,
+    "Ultraman": 1,
+    "MiSide": 3,
+    "MNT": 6,
+    "PGR": 1,
+    "VOC": 14,
+    "ASE": 1,
+    "HNM": 3,
+    "SakuraMoyu": 1,
+    "Animal": 2,
+    "SGYY": 1,
+    "ZZZ": 27,
+    "Final-Gear": 1,
+    "TWST": 1,
+    "AstralParty": 4,
+    "DOHNA": 2,
+    "Identity-V": 1,
+    "R6S": 2,
+    "Strinova": 9,
+    "AH": 2,
+    "DM": 1,
+    "Real": 1,
+    "TF": 1,
+    "BtR": 12,
+    "NAR": 3,
+    "Utau": 2,
+    "PVZ": 1,
+    "SENREN": 3,
+    "MGWT": 3,
+    "MyGO": 8,
+    "LCOD": 4,
+    "Food Girls": 1,
+    "HI3": 24,
+    "ReZero": 2,
+    "Hololive": 1,
+    "Maimai-DX": 1,
+    "DFO": 1,
+    "HNTSADL": 1,
+    "Madoka": 9,
+    "RI": 1,
+    "Sun Shower": 1,
+    "BF-1": 2,
+    "CNC": 3,
+    "Red": 5,
+    "ZH": 5,
+    "MGC": 1,
+    "BEA": 1,
+    "GCG": 1,
+    "LR": 1,
+    "Mochiyama Kingyo": 2,
+    "MonMusu": 1,
+    "SP": 1,
+    "Tensura": 1,
+    "WT": 1,
+    "YogYard": 2,
+    "JJK": 1,
+    "Magia-Record": 2,
+    "MSNS": 1,
+    "Naga-u": 1,
+    "NTE": 3,
+    "Tokyo-Ghoul": 1,
+    "WW×2077": 1,
+    "GBC": 6,
+    "MH": 1,
+    "KanCollect": 1,
+    "DR": 1,
+    "Frieren": 2,
+    "FSM": 3,
+    "LOL": 1,
+    "Myth": 1,
+    "NEKOPARA": 9,
+    "AIRI": 1,
+    "Tenshi": 1,
+    "AIC": 1,
+    "AliceInWonderland": 1,
+    "MushokuTensei": 1,
+    "DDLC": 1,
+    "300-Heroes": 1,
+    "BRS": 1,
+    "Cardcaptor": 2,
+    "DAL": 6,
+    "Fate": 1,
+    "GBTT": 1,
+    "HLP": 1,
+    "KonoSuba": 6,
+    "LOR": 2,
+    "MKDM": 2,
+    "NEO": 1,
+    "PNF": 1,
+    "PTE": 2,
+    "SAO": 4,
+    "SPY×FAMILY": 1,
+    "Steins-Gate": 1,
+    "TFD": 1,
+    "TMNI": 2,
+    "To-LOVE-Ru": 1,
+    "Undertale": 1,
+    "YNS": 1,
+    "DOA": 1,
+    "Kisekoi": 1,
+    "Meme": 1,
+    "SSW": 1,
+    "Analog-Horror": 3,
+    "IN": 1,
+    "Granblue": 1,
+    "LoveMe": 2,
+    "MKZ": 1,
+    "RDND": 1,
+    "Ringing-Fate": 1,
+    "ROH": 1,
+    "KG": 1,
+    "MHO": 1,
+    "Saekano": 2,
+    "LC": 1,
+    "FHZ": 1,
+    "AP": 1,
+    "Delta-Force": 1
+  }
+}

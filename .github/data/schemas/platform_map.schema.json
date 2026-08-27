@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "platform_map.schema.json",
+  "title": "平台分类映射 platform_map.json",
+  "description": "README 平台分类（SocialPlatform/GroupChat/SupportPlatform/OtherPlatform）为键，规范平台名为键，别名为值列表。脚本反查别名归属;未命中的平台归入 OtherPlatform。",
+  "type": "object",
+  "propertyNames": {
+    "enum": ["SocialPlatform", "GroupChat", "SupportPlatform", "OtherPlatform"]
+  },
+  "additionalProperties": {
+    "type": "object",
+    "additionalProperties": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

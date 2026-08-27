@@ -1,0 +1,25 @@
+{
+  "work": {
+    "abbr": "AP",
+    "name": {
+      "zh": [
+        "蓝色星原"
+      ],
+      "en": [
+        "Azur-Promilia",
+        "AP"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "诺诺"
+      ],
+      "en": [
+        "nono"
+      ]
+    }
+  ]
+}

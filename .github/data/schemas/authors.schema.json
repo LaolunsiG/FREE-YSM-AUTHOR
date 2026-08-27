@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "authors.schema.json",
+  "title": "作者集中数据 authors.json",
+  "description": "build_authors_index.py 生成的作者唯一事实来源:编号 → 名称数组/README 路径/平台账号。version 字段即数据格式版本,变更结构时递增。",
+  "type": "object",
+  "required": ["version", "authors"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "generated": { "type": "string", "description": "ISO8601 生成时间戳" },
+    "authors": {
+      "type": "object",
+      "description": "作者编号(4 位数字) → 作者信息",
+      "propertyNames": { "pattern": "^\\d{4}$" },
+      "additionalProperties": {
+        "type": "object",
+        "required": ["name", "readme"],
+        "properties": {
+          "name": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 1,
+            "description": "首项为规范名,其余为别名"
+          },
+          "readme": { "type": "string" },
+          "platforms": {
+            "type": "object",
+            "additionalProperties": { "type": "string" }
+          },
+          "badges": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "作者徽章（recommended/high-output/r18），词表 tag_labels.json 登记显示文案"
+          },
+          "team": {
+            "type": "string",
+            "description": "团队名（手动维护；有值则作者 README 显示 **team**: 且根 README 标 👥）"
+          }
+        }
+      }
+    }
+  }
+}

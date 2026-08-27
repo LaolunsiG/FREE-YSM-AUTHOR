@@ -1,0 +1,595 @@
+{
+  "work": {
+    "abbr": "BA",
+    "name": {
+      "zh": [
+        "碧蓝档案",
+        "蔚蓝档案"
+      ],
+      "en": [
+        "Blue-Archive",
+        "BA"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "一之濑明日奈",
+        "明日奈",
+        "阿苏娜"
+      ],
+      "en": [
+        "Ichinose-Asuna",
+        "Asuna-Ero",
+        "asuna"
+      ]
+    },
+    {
+      "zh": [
+        "七度雪乃"
+      ],
+      "en": [
+        "fox1"
+      ]
+    },
+    {
+      "zh": [
+        "下江小春",
+        "小春"
+      ],
+      "en": [
+        "shimoe koharu",
+        "shimoe-koharu"
+      ]
+    },
+    {
+      "zh": [
+        "丹花伊吹"
+      ],
+      "en": [
+        "tanga-ibuki"
+      ]
+    },
+    {
+      "zh": [
+        "伊吕波"
+      ],
+      "en": [
+        "iroha"
+      ]
+    },
+    {
+      "zh": [
+        "伊草遥香",
+        "遥香"
+      ],
+      "en": [
+        "igusa haruka",
+        "igusa-haruka",
+        "haruka"
+      ]
+    },
+    {
+      "zh": [
+        "伊落玛丽"
+      ],
+      "en": [
+        "iochi-marī"
+      ]
+    },
+    {
+      "zh": [
+        "十六夜野宫"
+      ],
+      "en": [
+        "izayoi-nonomi"
+      ]
+    },
+    {
+      "zh": [
+        "古关忧"
+      ],
+      "en": [
+        "kozeki-ui"
+      ]
+    },
+    {
+      "zh": [
+        "和乐千世"
+      ],
+      "en": [
+        "waraku-chise"
+      ]
+    },
+    {
+      "zh": [
+        "圣园未花",
+        "未花",
+        "末花"
+      ],
+      "en": [
+        "mika-misono",
+        "Mug_Mika",
+        "mika"
+      ]
+    },
+    {
+      "zh": [
+        "天童爱丽丝",
+        "爱丽丝"
+      ],
+      "en": [
+        "tendou-arisu"
+      ]
+    },
+    {
+      "zh": [
+        "奥空绫音"
+      ],
+      "en": [
+        "okusora-ayane"
+      ]
+    },
+    {
+      "zh": [
+        "妮可"
+      ],
+      "en": [
+        "fox2"
+      ]
+    },
+    {
+      "zh": [
+        "宇泽玲纱"
+      ],
+      "en": [
+        "uzawa-reisa"
+      ],
+      "ja": [
+        "宇沢レイサ"
+      ]
+    },
+    {
+      "zh": [
+        "小涂真纪"
+      ],
+      "en": [
+        "konuri-maki"
+      ]
+    },
+    {
+      "zh": [
+        "小钩晴"
+      ],
+      "en": [
+        "omagari-hare"
+      ]
+    },
+    {
+      "zh": [
+        "小鸟游星野",
+        "星野"
+      ],
+      "en": [
+        "takanashi-hoshino",
+        "hoshino"
+      ]
+    },
+    {
+      "zh": [
+        "戒野美咲"
+      ],
+      "en": [
+        "imashino-misaki"
+      ]
+    },
+    {
+      "zh": [
+        "才羽桃井"
+      ],
+      "en": [
+        "saiba-momoi"
+      ]
+    },
+    {
+      "zh": [
+        "才羽绿"
+      ],
+      "en": [
+        "saiba-midori"
+      ]
+    },
+    {
+      "zh": [
+        "日富美"
+      ],
+      "en": [
+        "ajitani-hifumi"
+      ]
+    },
+    {
+      "zh": [
+        "早濑优香"
+      ],
+      "en": [
+        "hayase-yūka"
+      ]
+    },
+    {
+      "zh": [
+        "春原心奈"
+      ],
+      "en": [
+        "sunohara-kokona"
+      ]
+    },
+    {
+      "zh": [
+        "春原瞬"
+      ],
+      "en": [
+        "sunohara shun"
+      ]
+    },
+    {
+      "zh": [
+        "普拉娜"
+      ],
+      "en": [
+        "plana"
+      ]
+    },
+    {
+      "zh": [
+        "月雪宫子"
+      ],
+      "en": [
+        "tsukiyuki-miyako"
+      ]
+    },
+    {
+      "zh": [
+        "杏山和纱"
+      ],
+      "en": [
+        "kyōyama-kazusa"
+      ]
+    },
+    {
+      "zh": [
+        "板垣鹿江"
+      ],
+      "en": [
+        "itagaki-kanoe"
+      ]
+    },
+    {
+      "zh": [
+        "柚鸟夏"
+      ],
+      "en": [
+        "yutori-natsu"
+      ]
+    },
+    {
+      "zh": [
+        "桐生桔梗"
+      ],
+      "en": [
+        "kiryū-kikyō"
+      ]
+    },
+    {
+      "zh": [
+        "桐藤渚",
+        "渚"
+      ],
+      "en": [
+        "kirifuji-nagisa"
+      ]
+    },
+    {
+      "zh": [
+        "槌永日和"
+      ],
+      "en": [
+        "tsuchinaga-hiyori"
+      ]
+    },
+    {
+      "zh": [
+        "樱井美代"
+      ],
+      "en": [
+        "sakurai-miyo"
+      ]
+    },
+    {
+      "zh": [
+        "橘光",
+        "橘光明",
+        "光"
+      ],
+      "en": [
+        "tachibana-hikari",
+        "hikari"
+      ]
+    },
+    {
+      "zh": [
+        "橘望",
+        "橘希望",
+        "望"
+      ],
+      "en": [
+        "tachibana-nozomi",
+        "nozomi"
+      ]
+    },
+    {
+      "zh": [
+        "浦和花子",
+        "花子"
+      ],
+      "en": [
+        "urawa-hanako"
+      ]
+    },
+    {
+      "zh": [
+        "爱清风香"
+      ],
+      "en": [
+        "aisei-fuuka"
+      ]
+    },
+    {
+      "zh": [
+        "狐坂若藻"
+      ],
+      "en": [
+        "kosaka-wakamo",
+        "wakamo"
+      ]
+    },
+    {
+      "zh": [
+        "生盐诺亚",
+        "诺亚"
+      ],
+      "en": [
+        "ushio-noa",
+        "noa"
+      ]
+    },
+    {
+      "zh": [
+        "白尾惠理"
+      ],
+      "en": [
+        "Shirao‑Eri"
+      ],
+      "ja": [
+        "白尾エリ"
+      ]
+    },
+    {
+      "zh": [
+        "白尾绘里"
+      ],
+      "en": [
+        "shirao-eri"
+      ]
+    },
+    {
+      "zh": [
+        "白洲梓"
+      ],
+      "en": [
+        "shirasu-azusa"
+      ]
+    },
+    {
+      "zh": [
+        "百合园圣娅",
+        "圣娅"
+      ],
+      "en": [
+        "yurizono-seia",
+        "shengya"
+      ]
+    },
+    {
+      "zh": [
+        "睦月"
+      ],
+      "en": [
+        "mutsuki"
+      ]
+    },
+    {
+      "zh": [
+        "砂狼白子",
+        "白子"
+      ],
+      "en": [
+        "sunaookami-shiroko"
+      ]
+    },
+    {
+      "zh": [
+        "秤亚津子",
+        "亚津子"
+      ],
+      "en": [
+        "hakari-atsuko"
+      ]
+    },
+    {
+      "zh": [
+        "空井咲"
+      ],
+      "en": [
+        "sorai-saki"
+      ]
+    },
+    {
+      "zh": [
+        "空崎日奈",
+        "日奈"
+      ],
+      "en": [
+        "sorasaki-hina",
+        "hina"
+      ]
+    },
+    {
+      "zh": [
+        "笑面教授"
+      ],
+      "en": [
+        "niyaniya"
+      ]
+    },
+    {
+      "zh": [
+        "羽川莲实"
+      ],
+      "en": [
+        "hanekawa-hasumi"
+      ]
+    },
+    {
+      "zh": [
+        "胡桃"
+      ],
+      "en": [
+        "fox3"
+      ]
+    },
+    {
+      "zh": [
+        "花岗柚子"
+      ],
+      "en": [
+        "hanaoka-yuzu"
+      ]
+    },
+    {
+      "zh": [
+        "若叶日向"
+      ],
+      "en": [
+        "wakaba-hinata"
+      ]
+    },
+    {
+      "zh": [
+        "调月莉音"
+      ],
+      "en": [
+        "tsukatsuki-rio"
+      ]
+    },
+    {
+      "zh": [
+        "锭前纱织"
+      ],
+      "en": [
+        "jomae-saori"
+      ]
+    },
+    {
+      "zh": [
+        "阿罗娜",
+        "阿罗纳"
+      ],
+      "en": [
+        "arona"
+      ]
+    },
+    {
+      "zh": [
+        "陆八魔阿露",
+        "阿露"
+      ],
+      "en": [
+        "rikuhachima-aru",
+        "aru"
+      ]
+    },
+    {
+      "zh": [
+        "霞泽美游",
+        "美游"
+      ],
+      "en": [
+        "miyu"
+      ]
+    },
+    {
+      "zh": [
+        "音濑小玉"
+      ],
+      "en": [
+        "otose kotama"
+      ]
+    },
+    {
+      "zh": [
+        "音葵"
+      ],
+      "en": [
+        "fox4"
+      ]
+    },
+    {
+      "zh": [
+        "风仓萌绘"
+      ],
+      "en": [
+        "kazekura-moe"
+      ]
+    },
+    {
+      "zh": [
+        "飞鸟马时"
+      ],
+      "en": [
+        "asuma-toki",
+        "toki"
+      ]
+    },
+    {
+      "zh": [
+        "鬼方佳代子",
+        "佳代子"
+      ],
+      "en": [
+        "onikata-kayoko",
+        "kayoko"
+      ]
+    },
+    {
+      "zh": [
+        "黑见芹香",
+        "黑见茜香"
+      ],
+      "en": [
+        "kuromi-serika",
+        "serika"
+      ]
+    },
+    {
+      "zh": [
+        "龙华妃咲"
+      ],
+      "en": [
+        "kisaki-ryuuge",
+        "ryūge-kisaki"
+      ]
+    }
+  ]
+}

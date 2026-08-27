@@ -1,0 +1,29 @@
+{
+  "work": {
+    "abbr": "GCG",
+    "name": {
+      "zh": [
+        "双生视界",
+        "少女咖啡槍II"
+      ],
+      "en": [
+        "Girl Cafe Gun",
+        "GCG"
+      ],
+      "ja": [
+        "ガルカフェ"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "时无瑕"
+      ],
+      "en": [
+        "shi-wuxia"
+      ]
+    }
+  ]
+}

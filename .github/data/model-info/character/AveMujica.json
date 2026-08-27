@@ -1,0 +1,60 @@
+{
+  "work": {
+    "abbr": "AveMujica",
+    "name": {
+      "zh": [
+        "颂乐人偶"
+      ],
+      "en": [
+        "BanG Dream! Ave Mujica",
+        "AveMujica"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "三角初华"
+      ],
+      "en": [
+        "misumi-uika"
+      ]
+    },
+    {
+      "zh": [
+        "丰川祥子"
+      ],
+      "en": [
+        "togawa-sakiko"
+      ]
+    },
+    {
+      "zh": [
+        "八幡海铃",
+        "八幡海玲"
+      ],
+      "en": [
+        "yahata-umiri"
+      ]
+    },
+    {
+      "zh": [
+        "祐天寺若麦",
+        "喵梦"
+      ],
+      "en": [
+        "yutenji-wakaba",
+        "nyamu"
+      ]
+    },
+    {
+      "zh": [
+        "若叶睦"
+      ],
+      "en": [
+        "wakaba-mutsumi"
+      ]
+    }
+  ]
+}

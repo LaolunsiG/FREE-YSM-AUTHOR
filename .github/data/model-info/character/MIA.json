@@ -1,0 +1,32 @@
+{
+  "work": {
+    "abbr": "MIA",
+    "name": {
+      "zh": [
+        "来自深渊"
+      ],
+      "en": [
+        "Made in Abyss"
+      ],
+      "ja": [
+        "メイドインアビス"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "娜娜奇",
+        "奈奈祈"
+      ],
+      "en": [
+        "Nanachi",
+        "Nanaki"
+      ],
+      "ja": [
+        "ナナチ"
+      ]
+    }
+  ]
+}

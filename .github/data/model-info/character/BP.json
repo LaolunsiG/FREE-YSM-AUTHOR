@@ -1,0 +1,19 @@
+{
+  "work": {
+    "abbr": "BP",
+    "name": {
+      "zh": [
+        "蓝色协议"
+      ],
+      "en": [
+        "Blue Protocol",
+        "BP"
+      ],
+      "ja": [
+        "ブループロトコル"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": []
+}

@@ -1,0 +1,68 @@
+{
+  "work": {
+    "abbr": "DAL",
+    "name": {
+      "zh": [
+        "约会大作战"
+      ],
+      "en": [
+        "Date A Live",
+        "DAL"
+      ],
+      "ja": [
+        "デート・ア・ライブ"
+      ]
+    },
+    "category": "Anime"
+  },
+  "roles": [
+    {
+      "zh": [
+        "四糸乃"
+      ],
+      "en": [
+        "yoshino"
+      ]
+    },
+    {
+      "zh": [
+        "夜刀神十香"
+      ],
+      "en": [
+        "yatogami-tohka"
+      ]
+    },
+    {
+      "zh": [
+        "崇宫澪"
+      ],
+      "en": [
+        "takamiya-mio"
+      ]
+    },
+    {
+      "zh": [
+        "时崎狂三"
+      ],
+      "en": [
+        "kurumi"
+      ]
+    },
+    {
+      "zh": [
+        "诱宵美九"
+      ],
+      "en": [
+        "izayoi-miku"
+      ]
+    },
+    {
+      "zh": [
+        "鸢一折纸"
+      ],
+      "en": [
+        "itsuka-origami"
+      ]
+    }
+  ]
+}

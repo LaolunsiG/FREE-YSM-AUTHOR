@@ -1,0 +1,160 @@
+{
+  "work": {
+    "abbr": "MiSide",
+    "name": {
+      "zh": [
+        "米塔"
+      ],
+      "en": [
+        "MiSide"
+      ]
+    },
+    "category": "Game"
+  },
+  "roles": [
+    {
+      "zh": [
+        "2D米塔"
+      ],
+      "en": [
+        "2d-mita"
+      ]
+    },
+    {
+      "zh": [
+        "Q版米塔",
+        "柴比米塔"
+      ],
+      "en": [
+        "chibi-mita"
+      ]
+    },
+    {
+      "zh": [
+        "人偶米塔",
+        "替身米塔"
+      ],
+      "en": [
+        "dummy-mita"
+      ]
+    },
+    {
+      "zh": [
+        "善心米塔",
+        "善良米塔"
+      ],
+      "en": [
+        "kind-mita"
+      ]
+    },
+    {
+      "zh": [
+        "小小米塔",
+        "小米塔",
+        "迷你米塔"
+      ],
+      "en": [
+        "tiny-mita"
+      ]
+    },
+    {
+      "zh": [
+        "巨米塔"
+      ],
+      "en": [
+        "giant-mita"
+      ]
+    },
+    {
+      "zh": [
+        "幽灵米塔"
+      ],
+      "en": [
+        "ghostly-mita"
+      ]
+    },
+    {
+      "zh": [
+        "恐怖米塔",
+        "丑陋米塔"
+      ],
+      "en": [
+        "creepy-mita"
+      ]
+    },
+    {
+      "zh": [
+        "戴帽米塔",
+        "Cappie"
+      ],
+      "en": [
+        "cap-wearing-mita",
+        "cappie"
+      ]
+    },
+    {
+      "zh": [
+        "核心米塔"
+      ],
+      "en": [
+        "core-mita"
+      ]
+    },
+    {
+      "zh": [
+        "疯狂米塔"
+      ],
+      "en": [
+        "crazy-mita"
+      ]
+    },
+    {
+      "zh": [
+        "睡梦米塔"
+      ],
+      "en": [
+        "sleepy-mita"
+      ]
+    },
+    {
+      "zh": [
+        "短发米塔"
+      ],
+      "en": [
+        "short-haired-mita"
+      ]
+    },
+    {
+      "zh": [
+        "米塔"
+      ],
+      "en": [
+        "mita"
+      ]
+    },
+    {
+      "zh": [
+        "米拉"
+      ],
+      "en": [
+        "mila"
+      ]
+    },
+    {
+      "zh": [
+        "美丽米塔"
+      ],
+      "en": [
+        "pretty-mita"
+      ]
+    },
+    {
+      "zh": [
+        "长腿米塔"
+      ],
+      "en": [
+        "long-legged-mita"
+      ]
+    }
+  ]
+}

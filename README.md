@@ -5,6 +5,7 @@
 - https://alltheysm.top/models
 - https://alltheysm.st/models
 - https://ysmmc.cn/
+- https://ysmvip.top/
 
 
 # Important Notice
@@ -14,3 +15,4 @@ My technical skills are insufficient and I have been completely outperformed. It
 - https://alltheysm.top/models
 - https://alltheysm.st/models
 - https://ysmmc.cn/
+- https://ysmvip.top/

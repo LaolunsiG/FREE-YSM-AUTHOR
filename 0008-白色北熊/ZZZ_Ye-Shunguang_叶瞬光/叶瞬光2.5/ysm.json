@@ -1,0 +1,77 @@
+{
+	"spec": 2,
+	"metadata": {
+		"name": "叶瞬光",
+		"tips": "嘿嘿...小叶师姐",
+		"license": {
+			"type": "All Rights Reserved",
+			"desc:": ""
+		},
+		"authors": [
+			{
+				"name": "北熊",
+				"avatar": "avatar/2.png",
+				"role": "模型",
+				"contact": {
+					"QQ": "2481612992"
+				},
+				"comment": "想要成为模型高手"
+			},
+			{
+				"name": "什么鸭",
+				"avatar": "avatar/y.jpg",
+				"role": "动画",
+				"comment": "想要成为动画高手"
+			}
+		],
+		"link": {
+			"home": "https://b23.tv/5QTEZxW"
+		}
+	},
+	"files": {
+		"player": {
+			"model": {
+				"main": "models/main.json",
+				"arm": "models/arm.json"
+			},
+			"animation": {
+				"main": "animations/main.animation.json",
+				"arm": "animations/arm.animation.json",
+				"extra": "animations/extra.animation.json"
+			},
+			"texture": [
+				{
+					"uv": "textures/texture.png"
+				}
+			]
+		},
+		"projectiles": {
+			"minecraft:arrow": {
+				"model": "models/arrow.json",
+				"texture": {
+					"uv": "textures/arrow.png"
+				}
+			}
+		}
+	},
+	"properties": {
+		"height_scale": 0.7,
+		"width_scale": 0.7,
+		"extra_animation": {
+			"extra0": "宝可梦嘟比嘟比",
+			"extra1": "",
+			"extra2": "",
+			"extra3": "",
+			"extra4": "",
+			"extra5": "",
+			"extra6": "",
+			"extra7": ""
+		},
+		"preview_animation": "idle",
+		"free": false,
+		"render_layers_first": false,
+		"disable_preview_rotation": false,
+		"all_cutout": false,
+		"gui_no_lighting": false
+	}
+}
